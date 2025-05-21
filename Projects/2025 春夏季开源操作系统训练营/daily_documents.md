@@ -464,11 +464,14 @@
 ## Day 21 2025/05/21
 
 ### 计划
-- rcore
-  - 专注rcore-Tutorial-Book v3 第三章继续推进
+- 三阶段视频观看
+	- 组件化内核的异构扩展实现
+	- 虚拟化原理与最简Hypervisor
+	- Hypervisor地址空间管理基础
+	- 虚拟机时钟中断和虚拟设备
+
 ### 进展
-- rcore
-  - 专注rcore-Tutorial-Book v3 第三章还剩lab1和练习没做
+- 
 ### 收获
 
 - 

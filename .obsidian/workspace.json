@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/学习路线.md",
+                "file": "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/项目阶段：组件化操作系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习路线"
+              "title": "项目阶段：组件化操作系统"
+            }
+          },
+          {
+            "id": "80120aef789ddc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/组件化内核的异构扩展实现.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "组件化内核的异构扩展实现"
+            }
+          },
+          {
+            "id": "de437146e7d5b783",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -164,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,20 +203,38 @@
   },
   "active": "000381fe607b3f5f",
   "lastOpenFiles": [
-    "Resources/学习资料资源.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/attachments/Pasted image 20250521180728.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/attachments/Pasted image 20250521180429.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/attachments/Pasted image 20250521175842.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/attachments",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/组件化内核的异构扩展实现.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/项目阶段：组件化操作系统.md",
+    "Projects/2025 春夏季开源操作系统训练营/README.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/rcore.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/基础阶段：Rust变",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/attachments/Pasted image 20250521173333.png",
+    "未命名.canvas",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/attachments",
+    "Pasted image 20250521173213.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/images/Pasted image 20250521172656.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/images",
+    "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
+    "README.md",
+    "Projects/2025 春夏季开源操作系统训练营/im",
+    "Pasted image 20250521172549.png",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/为什么内核栈不能立即回收.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记",
+    "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore",
     "Resources/学习路线.md",
+    "Resources/学习资料资源.md",
     "Projects/Rust/rust.md",
     "Projects/Rust/rust_review",
-    "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
     "Projects/Rust",
-    "Projects/2025 春夏季开源操作系统训练营/README.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/note.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/为什么内核栈不能立即回收.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/ch01.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/ch02.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/ch04.md",
-    "Projects/2025 春夏季开源操作系统训练营/note/ch05.md",
-    "未命名.canvas",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/ch01.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/ch02.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/ch04.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/rcore/ch05.md",
     "未命名.md"
   ]
 }
