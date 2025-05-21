@@ -11,10 +11,14 @@
             "id": "000381fe607b3f5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/学习路线.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "学习路线"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/学习路线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "学习路线 的大纲"
             }
           },
           {
@@ -172,8 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "000381fe607b3f5f",
   "lastOpenFiles": [
+    "Resources/学习资料资源.md",
+    "Resources/学习路线.md",
+    "Projects/Rust/rust.md",
+    "Projects/Rust/rust_review",
+    "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
+    "Projects/Rust",
+    "Projects/2025 春夏季开源操作系统训练营/README.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/note.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/为什么内核栈不能立即回收.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/ch01.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/ch02.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/ch04.md",
+    "Projects/2025 春夏季开源操作系统训练营/note/ch05.md",
+    "未命名.canvas",
     "未命名.md"
   ]
 }
