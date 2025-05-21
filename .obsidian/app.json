@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "asserts",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./asserts",
+  "useMarkdownLinks": true
 }
