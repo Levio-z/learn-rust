@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
+                "file": "Projects/Rust/组合器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily_documents"
+              "title": "组合器"
             }
           },
           {
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 768.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "000381fe607b3f5f",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
+    "Projects/Rust/rust.md",
+    "Projects/Rust/组合器.md",
+    "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
     "Projects/2025 春夏季开源操作系统训练营/README.md",
     "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/虚拟化原理与最简Hypervisor.md",
     "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/asserts/Pasted image 20250522002049.png",
@@ -220,7 +223,6 @@
     "Resources/学习资料资源.md",
     "README.md",
     "Projects/2025 春夏季开源操作系统训练营/note/rcore/为什么内核栈不能立即回收.md",
-    "Projects/2025 春夏季开源操作系统训练营/daily_documents.md",
     "Projects/2025 春夏季开源操作系统训练营/note/rcore/rcore.md",
     "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频笔记/组件化内核的异构扩展实现.md",
     "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/asserts/Pasted image 20250521180728.png",
@@ -228,7 +230,6 @@
     "asserts",
     "Projects/2025 春夏季开源操作系统训练营/note/rcore/ch01.md",
     "Projects/2025 春夏季开源操作系统训练营/reports/report.md.md",
-    "Projects/Rust/rust.md",
     "Projects/2025 春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/asserts",
     "Projects/2025 春夏季开源操作系统训练营/note/基础阶段：Rust变",
     "未命名.canvas",
