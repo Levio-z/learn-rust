@@ -5,7 +5,7 @@
 实现：
 - 使用feature控制字段是否开启
 	示例:
-- ![Pasted image 20250521175842](./asserts/Pasted%20image%2020250521175842.png)
+- ![Pasted image 20250521175842](Pasted%20image%2020250521175842.png)
 	分析：
 	- 不会有性能影响
 	- 不利于可读性和异构扩展性
@@ -15,7 +15,7 @@
 实现：
 - 将**扩展内容额外实现在新的结构中**
 - 两者通过某一个共通**字段关联**
-	- 通过id在map中查询扩展结构体![Pasted image 20250521180429.png](./asserts/Pasted%20image%2020250521180429.png)]
+	- 通过id在map中查询扩展结构体![Pasted image 20250521180429.png](Pasted%20image%2020250521180429.png)]
 	分析：
 - 查询索引的过程会带来性能开销
 
@@ -24,7 +24,7 @@
 	- 为 Task 引入一个 extension 域
 	- 当外部实现了扩展内容，可初始化 extension 域
 - 示例：
- ![Pasted image 20250521180728.png](./asserts/Pasted%20image%2020250521180728.png)
+ ![Pasted image 20250521180728.png](Pasted%20image%2020250521180728.png)
   分析：
 - **使用指针进行调用，和传统结构体的访存开销近似**
 - 在保证扩展性的同时不影响性能开销
