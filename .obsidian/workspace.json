@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/record/unclassified/未命名.md",
+                "file": "Projects/TalentPlan/Rust/Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Rust"
             }
           },
           {
@@ -222,11 +222,12 @@
   },
   "active": "d621e298663f12be",
   "lastOpenFiles": [
-    "Projects/2025春夏季开源操作系统训练营/record/unclassified/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
+    "Projects/TalentPlan/Rust/daily_documents.md",
     "Projects/Rust/record/unclassified/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/record/unclassified/未命名.md",
     "Projects/Rust/record/unclassified",
     "Projects/2025春夏季开源操作系统训练营/README.md",
-    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
     "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch01.md",
     "Projects/2025春夏季开源操作系统训练营/note/rcore/分析与思考",
     "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore",
@@ -244,7 +245,6 @@
     "Projects/2025春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/README.md",
     "Projects/2025春夏季开源操作系统训练营/note/rcore/README.md",
     "Projects/TalentPlan/Rust/Rust.md",
-    "Projects/TalentPlan/Rust/daily_documents.md",
     "Resources/学习路线.md",
     "Resources/学习资料资源.md",
     "Projects/2025 春夏季开源操作系统训练营/record/stage_3.md",
