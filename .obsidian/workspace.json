@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/book/操作系统导论/第43章 日志结构文件系统.md",
+                "file": "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第43章 日志结构文件系统"
+              "title": "日志结构化存储阅读笔记"
             }
           },
           {
@@ -222,12 +222,12 @@
   },
   "active": "d621e298663f12be",
   "lastOpenFiles": [
+    "Areas/book/操作系统导论/第43章 日志结构文件系统.md",
     "Areas/book/操作系统导论/asserts/Pasted image 20250525215537.png",
     "Areas/book/操作系统导论/asserts/Pasted image 20250525214556.png",
     "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
     "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
     "Projects/TalentPlan/Rust/Rust.md",
-    "Areas/book/操作系统导论/第43章 日志结构文件系统.md",
     "Areas/book/操作系统导论/asserts/Pasted image 20250525200003.png",
     "Areas/book/操作系统导论/asserts/Pasted image 20250525195913.png",
     "Areas/book/操作系统导论/asserts/Pasted image 20250525195129.png",
@@ -267,7 +267,6 @@
     "Projects/2025春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/ArceOS Tutorial Book/_ArceOS Tutorial Book.md",
     "Projects/2025春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频/asserts/Pasted image 20250523083346.png",
     "Projects/2025春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频/asserts/Pasted image 20250523082443.png",
-    "Projects/2025春夏季开源操作系统训练营/note/项目阶段：组件化操作系统/视频/asserts/Pasted image 20250523082433.png",
     "未命名.canvas"
   ]
 }
