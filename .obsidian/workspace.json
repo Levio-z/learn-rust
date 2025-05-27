@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/生命周期/生命周期-基础.md",
-                "mode": "preview",
+                "file": "Projects/Rust/projects/手写Hashmap/Github地址.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "生命周期-基础"
+              "title": "Github地址"
             }
           }
         ],
@@ -113,13 +113,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 373.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -221,19 +219,22 @@
   },
   "active": "8c5943d54d6cd317",
   "lastOpenFiles": [
+    "Projects/Rust/projects/手写Hashmap/过程记录.md",
+    "Projects/Rust/note/std/==的底层实现.md",
+    "Projects/Rust/note/闭包.md",
+    "Projects/Rust/projects/手写Hashmap/Github地址.md",
+    "Projects/Rust/note/生命周期/生命周期-基础.md",
+    "Projects/Rust/projects",
     "Projects/Rust/note/生命周期/asserts/Pasted image 20250527001547.png",
     "Projects/Rust/note/生命周期/asserts/Pasted image 20250527001541.png",
     "Projects/Rust/note/生命周期/asserts",
     "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
-    "Projects/Rust/note/生命周期/生命周期-基础.md",
     "Projects/Rust/note/生命周期/生命周期-进阶.md",
     "Projects/Rust/record/进度记录.md",
     "Projects/Rust/record/daily_documents.md",
     "Projects/Rust/note/自动解引用机制/自动解引用.md",
     "Projects/Rust/note/自动解引用机制",
-    "Projects/Rust/note/手写Hashmap/note.md",
     "Projects/Rust/note/生命周期/博客阅读",
-    "Projects/Rust/note/手写Hashmap/过程记录.md",
     "Projects/Rust/note/生命周期",
     "Projects/Rust/note/std/切片和切片引用.md",
     "Projects/Rust/note/std/Borrow.md",
@@ -249,24 +250,21 @@
     "Projects/Rust/note/std/asserts/Pasted image 20250526104916.png",
     "Projects/Rust/note/std/asserts",
     "Projects/Rust/note/std",
-    "Projects/Rust/note/手写Hashmap",
+    "Projects/Rust/projects/手写Hashmap",
     "Projects/Rust/note/手写HashMap/n.md",
     "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
     "Projects/Rust/record/组合器.md",
     "Projects/Rust/record/unclassified/未命名.md",
     "Areas/book/操作系统导论/第43章 日志结构文件系统.md",
     "Projects/Rust/note/手写HashMap",
-    "Projects/Rust/note",
     "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
     "Projects/TalentPlan/Rust/Rust.md",
-    "Projects/TalentPlan/Rust/daily_documents.md",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230542.png",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230533.png",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230523.png",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230508.png",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230452.png",
     "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230439.png",
-    "Projects/TalentPlan/Rust/note/project-2/asserts/Pasted image 20250525230420.png",
     "未命名.canvas"
   ]
 }
