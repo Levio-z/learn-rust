@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/手写Hashmap/Github地址.md",
+                "file": "Projects/Rust/record/daily_documents.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Github地址"
+              "title": "daily_documents"
             }
           }
         ],
@@ -220,9 +220,9 @@
   "active": "8c5943d54d6cd317",
   "lastOpenFiles": [
     "Projects/Rust/projects/手写Hashmap/过程记录.md",
+    "Projects/Rust/projects/手写Hashmap/Github地址.md",
     "Projects/Rust/note/std/==的底层实现.md",
     "Projects/Rust/note/闭包.md",
-    "Projects/Rust/projects/手写Hashmap/Github地址.md",
     "Projects/Rust/note/生命周期/生命周期-基础.md",
     "Projects/Rust/projects",
     "Projects/Rust/note/生命周期/asserts/Pasted image 20250527001547.png",
