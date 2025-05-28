@@ -24,3 +24,7 @@ if x < 0 {
 ```
 **带上下文的错误报告：**  
 由于 `miette!` 宏内部会生成带上下文、堆栈信息的错误，`bail!` 可以直接利用这些优势，省去手动构造复杂错误类型。
+结果：
+```rust
+// Error:   × Negative number not allowed
+```

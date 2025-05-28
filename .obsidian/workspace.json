@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/库/thiserror/thiserror.md",
+                "file": "Projects/Rust/note/std/Error.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "thiserror"
+              "title": "Error"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/库/anyhow/anyhow.md",
+                "file": "Projects/Rust/note/std/Error.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "anyhow"
+              "title": "Error"
+            }
+          },
+          {
+            "id": "b831106978756a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Rust/库/miette-7.6.0/downcast_ref.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "downcast_ref"
             }
           },
           {
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
+                "file": "Areas/Rust/库/miette-7.6.0/结构体 VS miette!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "日志结构化存储阅读笔记"
+              "title": "结构体 VS miette!"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#生命周期_",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 304.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -237,41 +261,42 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c6c53d70310425ba",
+  "active": "dc8a43b11b23e205",
   "lastOpenFiles": [
-    "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
-    "Projects/TalentPlan/Rust/daily_documents.md",
-    "Projects/TalentPlan/Rust/Rust.md",
-    "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
+    "Projects/Rust/note/std/Sized.md",
     "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录.md",
-    "Areas/Rust/库/miette-7.6.0/miette.md",
-    "Areas/Rust/库/miette-7.6.0/miette!(e).md",
-    "Areas/Rust/库/miette-7.6.0/bail！.md",
-    "Areas/Rust/库/miette-7.6.0/example 01.md",
-    "Areas/Rust/库/miette-7.6.0/trait wrapErr.md",
-    "Resources/学习路线.md",
-    "Areas/Rust/库/thiserror/thiserror.md",
-    "Projects/Rust/note/std/From & Into.md",
-    "Areas/Rust/库/anyhow/anyhow.md",
-    "Projects/Rust/note/std/slience.md",
-    "Projects/Rust/note/std/Borrow.md",
-    "Projects/Rust/note/std/Display.md",
-    "Projects/Rust/note/std/Trait.md",
-    "Projects/Rust/note/std/==的底层实现.md",
-    "Projects/Rust/note/std/切片和切片引用.md",
-    "Projects/Rust/note/std/String 和 &str.md",
-    "Projects/Rust/note/std/Metadata 元数据.md",
     "Projects/Rust/note/std/Error.md",
+    "Projects/Rust/note/std/From & Into.md",
+    "Areas/Rust/库/miette-7.6.0/example 01.md",
+    "Areas/Rust/库/miette-7.6.0/miette.md",
+    "Areas/Rust/库/miette-7.6.0/downcast_ref.md",
+    "Areas/Rust/库/miette-7.6.0/结构体 VS miette!.md",
+    "Areas/Rust/库/miette-7.6.0/miette!(e).md",
+    "Areas/Rust/库/miette-7.6.0/asserts/Pasted image 20250528101920.png",
+    "Areas/Rust/库/miette-7.6.0/bail！.md",
+    "Areas/Rust/库/miette-7.6.0/trait wrapErr.md",
+    "Areas/Rust/库/thiserror/thiserror.md",
+    "Areas/Rust/库/thiserror/实现一个error需要哪些工作，Error做了哪些简化.md",
+    "Areas/Rust/库/anyhow/anyhow.md",
+    "Areas/Rust/库/clap/eample.md",
+    "Projects/Rust/note/宏/matches!.md",
+    "Projects/Rust/note/宏/区分&T和T.md",
+    "Projects/Rust/projects/手写Hashmap/过程记录.md",
+    "Projects/Rust/projects/手写Hashmap/实现iter.md",
+    "Projects/Rust/projects/手写Hashmap/Github地址.md",
+    "Projects/TalentPlan/Rust/daily_documents.md",
+    "Areas/Rust/库/clap/clap.md",
+    "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
+    "Areas/Rust/库/clap",
+    "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
+    "Projects/TalentPlan/Rust/Rust.md",
+    "Resources/学习路线.md",
     "Areas/Rust/库/anyhow",
     "Areas/Rust/库/thiserror",
-    "Areas/Rust/库/miette-7.6.0/asserts/Pasted image 20250528101920.png",
     "Areas/Rust/库/miette-7.6.0/asserts",
     "Areas/Rust/库/miette-7.6.0",
     "Areas/Rust/库",
     "Areas/Rust",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/3 Lox.md",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/2 语言地图.md",
-    "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
     "Projects/Rust/projects/构建自己的解释器/过程记录",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232822.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232811.png",
@@ -283,7 +308,6 @@
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215524.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters",
-    "Projects/Rust/projects/构建自己的解释器",
     "Projects/Rust/note/生命周期/asserts/Pasted image 20250527001547.png",
     "未命名.canvas"
   ]

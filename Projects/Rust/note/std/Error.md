@@ -60,3 +60,21 @@ impl Error for MyWrapperError {
 ```
 - `anyhow::Error` 能用 `.chain()` 展示多层错误链
 - `?` 运算符自动传播时，底层错误信息也能被完整保留。
+### ?底层自动发生转换
+```rust
+fn read_file() -> Result<String, MyError> {
+    let content = std::fs::read_to_string("file.txt")?;
+    Ok(content)
+}
+```
+展开
+```rust
+fn read_file() -> Result<String, MyError> {
+    let content = match std::fs::read_to_string("file.txt") {
+        Ok(v) => v,
+        Err(e) => return Err(From::from(e)), // 关键点
+    };
+    Ok(content)
+}
+
+```
