@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/库/miette-7.6.0/miette!(e).md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "miette!(e)"
+              "title": "来自阿里云的 Linux 内核 io_uring 介绍与实践"
             }
           },
           {
@@ -287,11 +287,18 @@
   },
   "active": "695975e962817a3a",
   "lastOpenFiles": [
-    "Areas/Rust/库/miette-7.6.0/Report的downcast_ref 和 所有Error都可into()的原理.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202015.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts",
     "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段",
+    "Areas/Rust/库/miette-7.6.0/miette!(e).md",
+    "Areas/Rust/库/miette-7.6.0/Report的downcast_ref 和 所有Error都可into()的原理.md",
     "Areas/Rust/库/miette-7.6.0/miette.md",
     "Areas/Rust/库/miette-7.6.0/example 01.md",
-    "Areas/Rust/库/miette-7.6.0/miette!(e).md",
     "Areas/Rust/库/miette-7.6.0/trait wrapErr.md",
     "Projects/Rust/note/std/Error.md",
     "Projects/Rust/note/std/Sized.md",
@@ -313,8 +320,6 @@
     "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
     "Areas/Rust/库/clap",
     "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
-    "Projects/TalentPlan/Rust/Rust.md",
-    "Resources/学习路线.md",
     "Areas/Rust/库/anyhow",
     "Areas/Rust/库/thiserror",
     "Areas/Rust/库/miette-7.6.0/asserts",
@@ -328,11 +333,6 @@
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527225036.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215558.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215549.png",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215533.png",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215524.png",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters",
-    "Projects/Rust/note/生命周期/asserts/Pasted image 20250527001547.png",
     "未命名.canvas"
   ]
 }
