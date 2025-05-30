@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8df4937826907bd",
+            "id": "742015c15743c103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/std/Error.md",
+                "file": "Projects/设计模式/SOLID/单一职责原则/1.0 基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Error"
-            }
-          },
-          {
-            "id": "dc8a43b11b23e205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "过程记录"
-            }
-          },
-          {
-            "id": "695975e962817a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "来自阿里云的 Linux 内核 io_uring 介绍与实践"
-            }
-          },
-          {
-            "id": "b831106978756a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/库/miette-7.6.0/Report的downcast_ref 和 所有Error都可into()的原理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Report的downcast_ref 和 所有Error都可into()的原理"
-            }
-          },
-          {
-            "id": "c6c53d70310425ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/库/miette-7.6.0/结构体 VS miette!.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "结构体 VS miette!"
+              "title": "1.0 基本概念"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "map_or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 389.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -271,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,54 +188,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "695975e962817a3a",
+  "active": "742015c15743c103",
   "lastOpenFiles": [
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202015.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts",
-    "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段",
-    "Areas/Rust/库/miette-7.6.0/miette!(e).md",
-    "Areas/Rust/库/miette-7.6.0/Report的downcast_ref 和 所有Error都可into()的原理.md",
-    "Areas/Rust/库/miette-7.6.0/miette.md",
-    "Areas/Rust/库/miette-7.6.0/example 01.md",
-    "Areas/Rust/库/miette-7.6.0/trait wrapErr.md",
-    "Projects/Rust/note/std/Error.md",
-    "Projects/Rust/note/std/Sized.md",
+    "Projects/设计模式/SOLID/开闭原则/1.0 基本概念.md",
+    "Projects/设计模式/SOLID/开闭原则/2.0 如何实现开闭原则.md",
+    "Projects/设计模式/SOLID/开闭原则/2.2  动态分发支持开放-关闭.md",
+    "Projects/设计模式/SOLID/开闭原则/2.1 用 trait 实现对扩展开放.md",
+    "Projects/设计模式/SOLID/开闭原则/2.3 具体案例.md",
+    "Projects/设计模式/SOLID/开闭原则/3.1 多态.md",
+    "Projects/设计模式/SOLID/开闭原则/2.3-并发并行通知版（join_all）.md",
+    "Projects/设计模式/如何设计出好的代码/意识层面.md",
+    "Projects/设计模式/SOLID/开闭原则.md",
+    "Projects/设计模式/SOLID/单一职责原则/2.4 类命名难以概括.md",
+    "Projects/设计模式/SOLID/单一职责原则/1.0 基本概念.md",
+    "Projects/设计模式/SOLID/开闭原则",
+    "Projects/设计模式/SOLID/单一职责原则/2.0 如何在 Rust 中应用单一职责原则.md",
+    "Projects/设计模式/SOLID/单一职责原则/2.0.1 组合trait.md",
+    "Projects/设计模式/SOLID/单一职责原则/2.1 trait 分离职责 struct 分类字段.md",
+    "Projects/设计模式/SOLID/单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
+    "Projects/设计模式/SOLID/单一职责原则/2.3 Facade（门面模式）.md",
+    "Projects/设计模式/分支优化设计/分支优化三种方案.md",
+    "Projects/设计模式/单一职责原则.md",
+    "Projects/设计模式/如何设计出好的代码/低内聚和高耦合.md",
+    "Projects/设计模式/分支优化设计",
+    "Projects/Rust/record/daily_documents.md",
+    "Areas/basic/DDD/Naming Driven Design.md",
+    "Areas/basic/DDD",
+    "Projects/设计模式/如何设计出好的代码",
+    "Projects/Rust/note/std/迭代器链式处理.md",
+    "Projects/Rust/note/std/错误处理.md",
+    "Projects/Rust/note/std/切片和切片引用.md",
+    "Projects/Rust/note/std/==的底层实现.md",
     "Projects/Rust/note/std/From & Into.md",
-    "Areas/Rust/库/miette-7.6.0/结构体 VS miette!.md",
+    "Projects/设计模式/SOLID",
+    "Projects/设计模式/SOLID/单一职责原则",
+    "Projects/设计模式",
+    "Areas/basic/设计模式",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202015.png",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts",
+    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段",
     "Areas/Rust/库/miette-7.6.0/asserts/Pasted image 20250528101920.png",
-    "Areas/Rust/库/miette-7.6.0/bail！.md",
-    "Areas/Rust/库/thiserror/thiserror.md",
-    "Areas/Rust/库/thiserror/实现一个error需要哪些工作，Error做了哪些简化.md",
-    "Areas/Rust/库/anyhow/anyhow.md",
-    "Areas/Rust/库/clap/eample.md",
-    "Projects/Rust/note/宏/matches!.md",
-    "Projects/Rust/note/宏/区分&T和T.md",
-    "Projects/Rust/projects/手写Hashmap/过程记录.md",
-    "Projects/Rust/projects/手写Hashmap/实现iter.md",
-    "Projects/Rust/projects/手写Hashmap/Github地址.md",
-    "Projects/TalentPlan/Rust/daily_documents.md",
-    "Areas/Rust/库/clap/clap.md",
-    "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
-    "Areas/Rust/库/clap",
-    "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
-    "Areas/Rust/库/anyhow",
-    "Areas/Rust/库/thiserror",
-    "Areas/Rust/库/miette-7.6.0/asserts",
-    "Areas/Rust/库/miette-7.6.0",
-    "Areas/Rust/库",
-    "Areas/Rust",
-    "Projects/Rust/projects/构建自己的解释器/过程记录",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232822.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232811.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527231547.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527225036.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215558.png",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527215549.png",
     "未命名.canvas"
   ]
 }
