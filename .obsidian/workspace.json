@@ -11,14 +11,24 @@
             "id": "742015c15743c103",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Projects/设计模式/SOLID/单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
-                "bFile": "Projects/设计模式/SOLID/单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
-                "aRef": ""
+                "file": "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2.2 私有方法过多-是否能抽成工具类"
+              "icon": "lucide-file",
+              "title": "1. 基本概念"
             }
           }
         ]
@@ -188,16 +198,21 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "742015c15743c103",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
+    "Projects/设计模式/单一职责原则.md",
+    "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
+    "Projects/设计模式/SOLID/5.依赖反转/2. 示例.md",
+    "Projects/设计模式/SOLID/5.依赖反转",
+    "Projects/设计模式/SOLID/4.接口隔离原则/接口隔离原则.md",
+    "Projects/设计模式/SOLID/3.里式替换（LSP）/1.0 基本概念.md",
+    "Projects/设计模式/SOLID/3.里式替换（LSP）/里式替换（LSP）.md",
+    "Projects/设计模式/SOLID/1.单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
     "Projects/设计模式/SOLID/1.单一职责原则/2.1 trait 分离职责 struct 分类字段.md",
     "Projects/设计模式/SOLID/1.单一职责原则/2.0.1 组合trait.md",
     "Projects/设计模式/SOLID/1.单一职责原则/1.0 基本概念.md",
-    "Projects/设计模式/SOLID/4.接口隔离原则/接口隔离原则.md",
-    "Projects/设计模式/SOLID/3.里式替换（LSP）/1.0 基本概念.md",
     "Projects/设计模式/SOLID/4.接口隔离原则",
     "Projects/设计模式/SOLID/1.单一职责原则/2.0 如何在 Rust 中应用单一职责原则.md",
-    "Projects/设计模式/SOLID/3.里式替换（LSP）/里式替换（LSP）.md",
     "Projects/设计模式/SOLID/开闭原则.md",
     "Projects/设计模式/SOLID/3.里式替换（LSP）",
     "Projects/设计模式/SOLID/2.开闭原则/1.0 基本概念.md",
@@ -210,22 +225,17 @@
     "Projects/设计模式/如何设计出好的代码/意识层面.md",
     "Projects/设计模式/SOLID/1.单一职责原则/2.4 类命名难以概括.md",
     "Projects/设计模式/SOLID/2.开闭原则",
-    "Projects/设计模式/SOLID/1.单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
     "Projects/设计模式/SOLID/1.单一职责原则/2.3 Facade（门面模式）.md",
     "Projects/设计模式/分支优化设计/分支优化三种方案.md",
-    "Projects/设计模式/单一职责原则.md",
     "Projects/设计模式/如何设计出好的代码/低内聚和高耦合.md",
     "Projects/设计模式/分支优化设计",
     "Projects/Rust/record/daily_documents.md",
     "Areas/basic/DDD/Naming Driven Design.md",
     "Areas/basic/DDD",
     "Projects/设计模式/如何设计出好的代码",
-    "Projects/Rust/note/std/迭代器链式处理.md",
-    "Projects/Rust/note/std/错误处理.md",
     "Projects/设计模式/SOLID",
     "Projects/设计模式/SOLID/1.单一职责原则",
     "Projects/设计模式",
-    "Areas/basic/设计模式",
     "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
     "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
     "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
