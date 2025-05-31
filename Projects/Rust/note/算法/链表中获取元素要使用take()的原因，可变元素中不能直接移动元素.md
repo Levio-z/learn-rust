@@ -1,0 +1,47 @@
+```rust
+#[derive(Debug)]
+
+struct Node {
+
+    val: i32,
+
+    next: Option<Box<Node>>,
+
+}
+
+  
+
+fn main() {
+
+    let mut node = Node {
+
+        val: 1,
+
+        next: Some(Box::new(Node { val: 2, next: None })),
+
+    };
+
+  
+
+    // 试图直接把 node.next 赋给自身（模拟链表绕过）
+
+    let node = &mut node;
+
+    let x = node.next; // ❌ 这里会直接报错
+
+}
+```
+报错：
+```rust
+error[E0507]: cannot move out of `node.next` which is behind a mutable reference
+  --> src\bin\algo6.rs:15:13
+   |
+15 |     let x = node.next; // ❌ 这里会直接报错
+   |             ^^^^^^^^^ move occurs because `node.next` has type `Option<Box<Node>>`, which does not implement the `Copy` trait
+   |
+help: consider borrowing here
+   |
+15 |     let x = &node.next; // ❌ 这里会直接报错
+```
+分析：
+不能将一个从没有实现copy的字段从一个可变引用中移出

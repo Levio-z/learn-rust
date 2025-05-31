@@ -1,0 +1,87 @@
+**可变借用**（`&mut`）、**Option 类型** 和 **模式匹配/解包** 的交互原理
+```rust
+fn main() {
+    let mut opt = Some(5);
+
+    if let Some(v) = &mut opt {
+        *v += 1;  // 修改内部值
+    }
+
+    println!("{:?}", opt);  // 输出 Some(6)
+}
+```
+- 为什么可以修改里面的值
+	- `&mut Option<T>` 给了你修改权限。
+	- 通过 `if let Some(v)`，编译器帮你安全地获取 `Some` 内部的 `&mut T`，不需要手动解包。
+### 语言支持
+Rust 的 `if let` 或 `match` 对枚举的可变借用（`&mut Enum`）解构，**是语言本身对所有枚举都统一支持的**。
+`Option<T>` 只是一个非常常用的枚举例子，所以看起来像是“特殊”，其实它就是普通枚举的典型代表。
+#### 对所有枚举，`&mut Enum` 都支持模式匹配可变解构
+```rust
+enum MyEnum {
+    A(i32),
+    B(String),
+}
+
+fn main() {
+    let mut e = MyEnum::A(10);
+    if let MyEnum::A(x) = &mut e {
+        *x += 5;  // 这里对内部 i32 进行修改
+    }
+    // e 现在是 MyEnum::A(15)
+}
+
+```
+这跟 `Option` 一模一样的逻辑：
+
+- `&mut e` 是对枚举的可变借用。
+    
+- `if let` 解构获得内部的 `&mut T`。
+    
+- 通过解引用 `*x` 可以修改内部数据。
+#### 对结构体的可变引用，匹配方式稍有不同，但原理类似
+```rust
+struct MyStruct {
+    val: i32,
+}
+fn main() {
+    let mut s = MyStruct { val: 10 };
+    if let MyStruct { val } = &mut s {
+        *val += 10;
+    }
+}
+fn main() {
+    let mut s = MyStruct { val: 10 };
+    let s_ref = &mut s;
+    
+    // 解构获取可变引用
+    let MyStruct { val } = s_ref;
+    *val += 10;
+    
+    println!("{}", s.val);  // 20
+}
+
+```
+更常用的方式
+```rust
+struct MyStruct {
+    x: i32,
+    y: String,
+}
+
+fn main() {
+    let mut s = MyStruct {
+        x: 10,
+        y: String::from("hello"),
+    };
+
+    // 可变借用结构体
+    let s_ref: &mut MyStruct = &mut s;
+
+    // 直接通过字段访问并修改
+    s_ref.x += 5;
+    s_ref.y.push_str(", world!");
+
+    println!("x: {}, y: {}", s_ref.x, s_ref.y);
+
+```
