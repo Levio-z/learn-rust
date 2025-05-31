@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/算法/Option中的模式匹配理解.md",
+                "file": "Projects/Rust/note/算法/6. Option中的模式匹配理解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Option中的模式匹配理解"
+              "title": "6. Option中的模式匹配理解"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/std/const/与借用斗争/愚蠢的编译器之判断不会考虑if else分支.md",
+                "file": "Projects/Rust/note/算法/4. 赋值语句的生命周期.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "愚蠢的编译器之判断不会考虑if else分支"
+              "title": "4. 赋值语句的生命周期"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,17 +222,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "85f5a069fa70f3a9",
+  "active": "742015c15743c103",
   "lastOpenFiles": [
-    "Projects/Rust/note/std/const/与借用斗争/？.md",
-    "Projects/Rust/note/std/const/与借用斗争/愚蠢的编译器之判断不会考虑if else分支.md",
+    "Projects/Rust/note/算法/5. 愚蠢的编译器之判断不会考虑if else分支.md",
+    "Projects/Rust/note/算法/4. 赋值语句的生命周期.md",
+    "Projects/Rust/note/算法/3. 链表刷题之报错.md",
+    "Projects/Rust/note/算法/2.链表中获取元素要使用take()的原因.md",
+    "Projects/Rust/note/算法/1.链表刷题中的Option相关设计.md",
     "Projects/Rust/note/std/const/与借用斗争/基本定义.md",
+    "Projects/Rust/note/算法/6. Option中的模式匹配理解.md",
+    "Projects/Rust/note/算法/为什么不能直接.md",
+    "Projects/Rust/note/std/const/与借用斗争/？.md",
     "Projects/Rust/note/std/错误处理.md",
     "Projects/Rust/note/std/const/与借用斗争",
-    "Projects/Rust/note/算法/为什么不能直接.md",
-    "Projects/Rust/note/算法/链表中获取元素要使用take()的原因，可变元素中不能直接移动元素.md",
-    "Projects/Rust/note/算法/Option中的模式匹配理解.md",
-    "Projects/Rust/note/算法/链表刷题中的Option相关设计.md",
     "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch04.md",
     "Projects/Rust/note/算法",
     "Projects/未命名",
@@ -265,8 +266,6 @@
     "Projects/设计模式/SOLID/2.开闭原则/2.1 用 trait 实现对扩展开放.md",
     "Projects/设计模式/SOLID/2.开闭原则/2.0 如何实现开闭原则.md",
     "Projects/设计模式/SOLID/1.单一职责原则/2.4 类命名难以概括.md",
-    "Projects/设计模式/SOLID/1.单一职责原则/2.3 Facade（门面模式）.md",
-    "Projects/设计模式/SOLID/1.单一职责原则/2.2 私有方法过多-是否能抽成工具类.md",
     "Projects/设计模式/SOLID/5.依赖反转",
     "Projects/设计模式/SOLID/4.接口隔离原则",
     "Projects/设计模式/SOLID/3.里式替换（LSP）",
