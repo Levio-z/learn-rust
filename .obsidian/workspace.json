@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. 基本概念"
+              "title": "ch04"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map_or",
+                "query": "rcore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 624.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -223,8 +223,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "85f5a069fa70f3a9",
+  "active": "67fda9ee0cafb880",
   "lastOpenFiles": [
+    "Projects/Rust/record/daily_documents.md",
+    "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
     "Projects/设计模式/SOLID/4.接口隔离原则/接口隔离原则.md",
     "Projects/设计模式/SOLID/3.里式替换（LSP）/1.0 基本概念.md",
     "Projects/设计模式/SOLID/2.开闭原则/1.0 基本概念.md",
@@ -243,9 +245,7 @@
     "Projects/设计模式/SOLID/1.单一职责原则/2.0 如何在 Rust 中应用单一职责原则.md",
     "Projects/设计模式/如何设计出好的代码/意识层面.md",
     "Projects/设计模式/如何设计出好的代码/低内聚和高耦合.md",
-    "Projects/Rust/record/daily_documents.md",
     "Projects/TalentPlan/Rust/daily_documents.md",
-    "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
     "Projects/设计模式/单一职责原则.md",
     "Projects/设计模式/SOLID/5.依赖反转/2. 示例.md",
     "Projects/设计模式/SOLID/5.依赖反转",
@@ -261,10 +261,10 @@
     "Projects/设计模式/SOLID",
     "Projects/设计模式/SOLID/1.单一职责原则",
     "Projects/设计模式",
-    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
-    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
-    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
-    "Areas/basic/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202015.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202927.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202713.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202445.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/asserts/Pasted image 20250529202015.png",
     "Areas/Rust/库/miette-7.6.0/asserts/Pasted image 20250528101920.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232822.png",
     "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250527232811.png",
