@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "742015c15743c103",
+            "id": "8efd4479c3d3f460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/算法/6. Option中的模式匹配理解.md",
+                "file": "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Option中的模式匹配理解"
+              "title": "过程记录01"
             }
           },
           {
-            "id": "85f5a069fa70f3a9",
+            "id": "b6b1b88206733e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/算法/4. 赋值语句的生命周期.md",
+                "file": "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. 赋值语句的生命周期"
+              "title": "过程记录01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 329.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -222,54 +223,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "742015c15743c103",
+  "active": "b6b1b88206733e85",
   "lastOpenFiles": [
-    "Projects/Rust/note/算法/5. 愚蠢的编译器之判断不会考虑if else分支.md",
-    "Projects/Rust/note/算法/4. 赋值语句的生命周期.md",
-    "Projects/Rust/note/算法/3. 链表刷题之报错.md",
-    "Projects/Rust/note/算法/2.链表中获取元素要使用take()的原因.md",
-    "Projects/Rust/note/算法/1.链表刷题中的Option相关设计.md",
-    "Projects/Rust/note/std/const/与借用斗争/基本定义.md",
-    "Projects/Rust/note/算法/6. Option中的模式匹配理解.md",
-    "Projects/Rust/note/算法/为什么不能直接.md",
-    "Projects/Rust/note/std/const/与借用斗争/？.md",
-    "Projects/Rust/note/std/错误处理.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/CAP_NET_ADMIN.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
+    "Projects/Rust/projects/构建自己的解释器/note.md",
+    "Projects/Rust/projects/构建自己的解释器/Introduction  介绍.md",
+    "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录02.md",
+    "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录01.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/linux 云服务器安装rust.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/tun tap crate.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/未命名.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221838.png",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221832.png",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221355.png",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601220637.png",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts",
+    "Projects/Rust/projects/媒体/博客or视频/312.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/未命名.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/过程记录",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/Representing Code  表示代码.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250601210829.png",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250601205944.png",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/asserts/Pasted image 20250601205336.png",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/2 语言地图.md",
+    "Projects/Rust/record/daily_documents.md",
+    "Projects/Rust/record/进度记录.md",
+    "Projects/设计模式/迪米特法则（LOD）.md",
+    "Projects/设计模式/Rule of Three.md",
+    "Projects/设计模式/DRY原则.md",
+    "Projects/设计模式/SOLID/4.接口隔离原则/接口隔离原则.md",
+    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/3 Lox.md",
+    "Projects/设计模式/如何设计出好的代码/怎么提高代码复用性？.md",
+    "Projects/设计模式/如何设计出好的代码/低内聚和高耦合.md",
+    "Projects/设计模式/如何设计出好的代码/asserts/Pasted image 20250601172229.png",
+    "Projects/设计模式/如何设计出好的代码/asserts",
+    "Projects/设计模式/如何设计出好的代码/意识层面.md",
+    "Projects/设计模式/提高代码复用性.md",
+    "Projects/设计模式/KISS、YAGNI原则",
     "Projects/Rust/note/std/const/与借用斗争",
-    "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch04.md",
     "Projects/Rust/note/算法",
     "Projects/未命名",
-    "Projects/Rust/note/std/const.md",
-    "Projects/设计模式/SOLID/1.单一职责原则/1.0 基本概念.md",
-    "Projects/Rust/note/std/const",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/未命名.md",
     "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531153826.png",
     "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531153251.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531153134.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152953.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152838.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152739.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152700.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152545.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152512.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts/Pasted image 20250531152432.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会/asserts",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/2025全国大学生系统能力大赛操作系统设计赛 技术培训会",
-    "Projects/Rust/record/daily_documents.md",
-    "Projects/设计模式/SOLID/5.依赖反转/1. 基本概念.md",
-    "Projects/设计模式/SOLID/4.接口隔离原则/接口隔离原则.md",
-    "Projects/设计模式/SOLID/3.里式替换（LSP）/1.0 基本概念.md",
-    "Projects/设计模式/SOLID/2.开闭原则/1.0 基本概念.md",
-    "Projects/设计模式/SOLID/2.开闭原则/3.1 多态.md",
-    "Projects/设计模式/SOLID/2.开闭原则/2.3-并发并行通知版（join_all）.md",
-    "Projects/设计模式/SOLID/2.开闭原则/2.3 具体案例.md",
-    "Projects/设计模式/SOLID/2.开闭原则/2.2  动态分发支持开放-关闭.md",
-    "Projects/设计模式/SOLID/2.开闭原则/2.1 用 trait 实现对扩展开放.md",
-    "Projects/设计模式/SOLID/2.开闭原则/2.0 如何实现开闭原则.md",
-    "Projects/设计模式/SOLID/1.单一职责原则/2.4 类命名难以概括.md",
-    "Projects/设计模式/SOLID/5.依赖反转",
-    "Projects/设计模式/SOLID/4.接口隔离原则",
-    "Projects/设计模式/SOLID/3.里式替换（LSP）",
-    "Projects/设计模式/SOLID/2.开闭原则",
     "未命名.canvas"
   ]
 }
