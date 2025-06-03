@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "RFC 793"
+              "title": "daily_documents"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rcore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 360.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,51 +224,51 @@
   },
   "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/视频记录.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/asserts/Pasted image 20250602234440.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/linux 云服务器安装rust.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/3.5.2 TCP报文段结构.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/1981年9月传输控制协议功能规范.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/asserts/Pasted image 20250602213320.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/asserts/Pasted image 20250602213244.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/asserts",
-    "Projects/Rust/note/std/write.md",
-    "Projects/Rust/projects/构建自己的解释器/Introduction  介绍.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/Crate etherparse.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/tun tap crate.md",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/asserts/Pasted image 20250602182839.png",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/asserts/Pasted image 20250602182834.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/CAP_NET_ADMIN.md",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/3.5.1 TCP连接.md",
-    "Projects/TalentPlan/Rust/Rust.md",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/asserts/Pasted image 20250602181242.png",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/asserts/Pasted image 20250602180854.png",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP/asserts",
-    "Areas/book/自顶向下/3.5面向连接的传输TCP",
-    "Areas/book/自顶向下",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/$name == hello world.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/未命名.md",
-    "Areas/basic/408/计算机网络/Tcp/简介.md",
-    "Areas/basic/408/计算机网络/Tcp/Tcp.md",
-    "Areas/basic/408/计算机网络/Tcp",
-    "Areas/basic/408/计算机网络",
-    "Areas/basic/408",
-    "Projects/Rust/projects/构建自己的解释器/note.md",
-    "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录02.md",
-    "Projects/Rust/projects/构建自己的解释器/过程记录/过程记录01.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221838.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221832.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts/Pasted image 20250601221355.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/asserts",
-    "Projects/Rust/projects/媒体/博客or视频/312.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/未命名.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/Representing Code  表示代码.md",
-    "Projects/Rust/projects/构建自己的解释器/Crafting Interpreters/2 语言地图.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/Rust-async await/YouTube：Crust of Rust-async await.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/Rust-async await",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/io_uring/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/参考资料和任务.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/第一周学习建议.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/io_uring",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/周计划.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/计划.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/并发与处理器、操作系统和编程语言/向勇-并发与处理器、操作系统和编程语言.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/田凯夫：RISC-V 用户态中断扩展设计与实现.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/尤予阳：软硬协同的用户态中断机制研究.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/徐启航-RISC-V平台的异步、多核的模块化操作系统UMI技术报告.md",
+    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/note/rcore/分析与思考/为什么内核栈不能立即回收.md",
+    "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch01.md",
+    "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch05.md",
+    "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch04.md",
+    "Projects/2025春夏季开源操作系统训练营/note/rcore/rCore/ch02.md",
+    "Projects/TalentPlan/Rust/note/project-2/The Design and Implementation of a Log-Structured File System.md",
+    "Projects/TalentPlan/Rust/note/project-2/日志结构化存储阅读笔记.md",
+    "Projects/设计模式/分支优化设计/分支优化三种方案.md",
+    "Projects/设计模式/如何设计出好的代码/怎么提高代码复用性？.md",
+    "Projects/设计模式/如何设计出好的代码/意识层面.md",
+    "Projects/设计模式/如何设计出好的代码/低内聚和高耦合.md",
+    "Projects/设计模式/KISS、YAGNI原则/YAGNI.md",
+    "Projects/设计模式/KISS、YAGNI原则/KISS.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603220704.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603220621.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603215148.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603214524.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603214520.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603213521.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603213517.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603210256.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603210104.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603205601.png",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/并发与处理器、操作系统和编程语言/asserts",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/并发与处理器、操作系统和编程语言",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/操作系统专题训练课/并发与处理器、操作系统和编程语言/未命名",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/操作系统专题训练课/未命名",
     "未命名.canvas"
   ]
 }
