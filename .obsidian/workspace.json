@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/代码风格.md",
+                "file": "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0 Async和Await基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "代码风格"
+              "title": "1.0 Async和Await基本概念"
             }
           },
           {
@@ -256,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 579.5
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,8 +272,21 @@
   },
   "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
-    "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/规范.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.8 初始化模式.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.7 Lifetime capture in the anonymous future.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.6 特征边界.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0 Async和Await基本概念.md",
+    "Projects/Rust/note/自动解引用机制/自动解引用.md",
+    "Resources/学习路线.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/参考资料和任务.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/学习计划/第一周学习建议.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/资料/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/Rust-async await/YouTube：Crust of Rust-async await.md",
+    "Projects/设计模式/README.md",
     "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/代码风格.md",
+    "Projects/设计模式/规范与重构/重构/1..md",
+    "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/规范.md",
     "Projects/设计模式/规范与重构/解耦/1.0 解耦为何重要.md",
     "Projects/设计模式/规范与重构/改善代码质量的20条编程规范",
     "Projects/设计模式/规范与重构/解耦/3.0 如何给代码“解耦”？.md",
@@ -289,25 +302,12 @@
     "Projects/设计模式/规范与重构/代码的可测试性/3.0 有哪些常见的不好测试的代码？.md",
     "Projects/设计模式/规范与重构/代码的可测试性/2.0 如何写出可测试的代码.md",
     "Projects/设计模式/规范与重构/重构/1.2.1.1单元测试.md",
-    "Projects/设计模式/规范与重构/重构/1..md",
     "Projects/设计模式/规范与重构/代码的可测试性",
     "Projects/设计模式/规范与重构/重构",
-    "Projects/设计模式/规范与重构/重构/1.2.1 为了保证重构不出错.md",
-    "Projects/设计模式/规范与重构/重构/1.0.3 重构的对象.md",
     "Projects/设计模式/规范与重构/重构/asserts/Pasted image 20250605125947.png",
     "Projects/设计模式/规范与重构/重构/asserts",
-    "Projects/设计模式/规范与重构/重构/1.2 如何重构.md",
-    "Projects/设计模式/规范与重构/重构/1.0.5 如何重构.md",
-    "Projects/设计模式/规范与重构/重构/1.0.4 什么时候重构（when）？.md",
-    "Projects/设计模式/规范与重构/重构/1.0.2 为什么要进行重构.md",
-    "Projects/设计模式/规范与重构/重构/1.0.1 重构的能力基础.md",
-    "Projects/设计模式/规范与重构/重构/1.0 重构基本概念.md",
-    "Projects/设计模式/README.md",
     "Projects/设计模式/规范与重构",
-    "Projects/设计模式/设计原则/DRY原则.md",
     "Projects/设计模式/设计原则",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.6 特征边界.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.5 异步函数的返回类型.md",
     "Areas/Rust/Rust/17.Async和Await/Async和Await",
     "Areas/Rust/Rust/17.Async和Await",
     "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202804.png",
