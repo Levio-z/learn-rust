@@ -1,4 +1,33 @@
-#### 20250603
+#### 20250606
+##### 计划&进展
+- [ ] [通过迭代 WebServer 逐步深入 Rust 异步编程](https://blog.windeye.top/rust_async/learningrustasyncwithwebserver/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+	- [ ] 两小时
+- [ ] Rust语言圣经（中文版）：[底层探秘: Future 执行与任务调度](https://course.rs/advance/async/future-excuting.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+- [ ] Rust 官方异步资料
+- [ ] [RFC 2394: async/await](https://rust-lang.github.io/rfcs/2394-async_await.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX
+- [ ] [RFC 2592: futures](https://rust-lang.github.io/rfcs/2592-futures.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+- [ ] 复习RustBook异步相关
+##### 复盘&问题
+- 参照学习计划开始拆解问题
+	- 选择一个ArceOS内核组件：选择最简单的组件分析，从easy开始
+		- lazyinit
+	- 学习与异步机制相关，明确学习计划，开始排期
+	- 在你自己的Windows、MacOS或Linux操作系统中，写基于tokio的网络爬虫应用的异步版本
+#### 20250605
+##### 计划&进展
+- [ ] [通过迭代 WebServer 逐步深入 Rust 异步编程](https://blog.windeye.top/rust_async/learningrustasyncwithwebserver/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+	- [ ] 两小时
+- [ ] Rust语言圣经（中文版）：[底层探秘: Future 执行与任务调度](https://course.rs/advance/async/future-excuting.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+- [ ] Rust 官方异步资料
+- [ ] [RFC 2394: async/await](https://rust-lang.github.io/rfcs/2394-async_await.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX
+- [ ] [RFC 2592: futures](https://rust-lang.github.io/rfcs/2592-futures.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
+##### 复盘&问题
+- 参照学习计划开始拆解问题
+	- 选择一个ArceOS内核组件：选择最简单的组件分析，从easy开始
+		- lazyinit
+	- 学习与异步机制相关，明确学习计划，开始排期
+	- 在你自己的Windows、MacOS或Linux操作系统中，写基于tokio的网络爬虫应用的异步版本
+#### 20250604
 ##### 计划&进展
 - [ ] [通过迭代 WebServer 逐步深入 Rust 异步编程](https://blog.windeye.top/rust_async/learningrustasyncwithwebserver/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX98Xprf1JF8HOn9W5ouCMDnokWpUOOGtp1pRA3dqmc)
 	- [ ] 两小时

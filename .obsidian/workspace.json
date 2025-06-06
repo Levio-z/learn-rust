@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0 Async和Await基本概念.md",
+                "file": "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.6 将它们放在一起：Futures、Tasks 和 Threads.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 Async和Await基本概念"
+              "title": "1.0.6 将它们放在一起：Futures、Tasks 和 Threads"
             }
           },
           {
-            "id": "c2a75cee3e60a387",
+            "id": "7ba2e67a129ddfbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Rust/15.智能指针/15.2 Deref Trait/2.0.1 解引用运算符如何与常规引用配合.md",
+                "file": "Areas/Rust/Rust/17.Async和Await/Future/1.0.1 RustBook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,55 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0.1 解引用运算符如何与常规引用配合"
-            }
-          },
-          {
-            "id": "edd6a6469cf9d49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/学习计划/第一周学习建议.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "第一周学习建议"
-            }
-          },
-          {
-            "id": "b6b1b88206733e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/1981年9月传输控制协议功能规范.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1981年9月传输控制协议功能规范"
+              "title": "1.0.1 RustBook"
             }
           }
         ]
@@ -135,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "he title for {url} was {title",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 468.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -256,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 600.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,52 +224,52 @@
   },
   "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.5 RustBook-A Closer Look at the Traits for Async.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.6 将它们放在一起：Futures、Tasks 和 Threads.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0.2 Stream 和 StreamExt.md",
+    "Areas/Rust/Rust/17.Async和Await/4.0.2 Stream 与 Future 的不同契约.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.2 RustBook-Applying Concurrency with Async.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.4 RustBook-Streams：Futures 序列.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.1 Async functions  异步函数.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606214605.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606214338.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212622.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212358.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212303.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212223.png",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts",
     "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.8 初始化模式.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.7 Lifetime capture in the anonymous future.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.6 特征边界.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0 深入探究.md",
+    "Areas/Rust/Rust/17.Async和Await/Future/1.0.1 RustBook.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.1 RustBook-Futures and the Async Syntax.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/2.0 如何使用.md",
+    "Areas/Rust/Rust/17.Async和Await/Future/1.0 基本概念.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.3 RustBook-Working with Any Number of Futures.md",
     "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0 Async和Await基本概念.md",
-    "Projects/Rust/note/自动解引用机制/自动解引用.md",
-    "Resources/学习路线.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/参考资料和任务.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0 RFC 解读.md",
+    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0.1 无论是函数还是块，async都可以把他们变为impl Future类型对吗.md",
+    "Areas/Rust/Rust/15.智能指针/15.2 Deref Trait/2.0.1 解引用运算符如何与常规引用配合.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/1981年9月传输控制协议功能规范.md",
     "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/学习计划/第一周学习建议.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/资料/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/Rust异步相关/Rust-async await/YouTube：Crust of Rust-async await.md",
-    "Projects/设计模式/README.md",
-    "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/代码风格.md",
-    "Projects/设计模式/规范与重构/重构/1..md",
-    "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/规范.md",
-    "Projects/设计模式/规范与重构/解耦/1.0 解耦为何重要.md",
+    "Areas/Rust/Rust/15.智能指针/Rust中的动态内存分配.md",
+    "Areas/Rust/Rust/15.智能指针/Rust 怎么确定内存大小.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/README.md",
+    "Areas/Rust/Rust/17.Async和Await/Future",
     "Projects/设计模式/规范与重构/改善代码质量的20条编程规范",
-    "Projects/设计模式/规范与重构/解耦/3.0 如何给代码“解耦”？.md",
-    "Projects/设计模式/设计原则/迪米特法则（LOD）.md",
-    "Projects/设计模式/设计原则/分支优化设计/分支优化三种方案.md",
-    "Projects/设计模式/设计原则/Rule of Three.md",
-    "Projects/设计模式/设计原则/SOLID/5.依赖反转/1. 基本概念.md",
     "Projects/设计模式/规范与重构/解耦/asserts/Pasted image 20250605150401.png",
     "Projects/设计模式/规范与重构/解耦/asserts",
-    "Projects/设计模式/规范与重构/解耦/2.0 如何判定代码是否需要“解耦”？.md",
-    "Projects/设计模式/规范与重构/代码的可测试性/1.0 什么是代码的可测试性？.md",
     "Projects/设计模式/规范与重构/解耦",
-    "Projects/设计模式/规范与重构/代码的可测试性/3.0 有哪些常见的不好测试的代码？.md",
-    "Projects/设计模式/规范与重构/代码的可测试性/2.0 如何写出可测试的代码.md",
-    "Projects/设计模式/规范与重构/重构/1.2.1.1单元测试.md",
     "Projects/设计模式/规范与重构/代码的可测试性",
     "Projects/设计模式/规范与重构/重构",
     "Projects/设计模式/规范与重构/重构/asserts/Pasted image 20250605125947.png",
     "Projects/设计模式/规范与重构/重构/asserts",
     "Projects/设计模式/规范与重构",
     "Projects/设计模式/设计原则",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await",
-    "Areas/Rust/Rust/17.Async和Await",
     "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202804.png",
     "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202437.png",
-    "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202424.png",
-    "Areas/Rust/Rust/15.智能指针/asserts/Pasted image 20250604193144.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603220704.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603220621.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603215148.png",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/操作系统专题训练课/asserts/Pasted image 20250603214524.png",
     "未命名.canvas"
   ]
 }
