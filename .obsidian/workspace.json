@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Rust/note/生命周期/生命周期-基础.md",
+                "file": "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生命周期-基础 的大纲"
+              "title": "12 如何利用面向对象设计和编程开发接口鉴权功能 的大纲"
             }
           },
           {
@@ -222,7 +222,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8efd4479c3d3f460",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
