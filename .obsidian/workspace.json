@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.6 将它们放在一起：Futures、Tasks 和 Threads.md",
-                "mode": "source",
+                "file": "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0.6 将它们放在一起：Futures、Tasks 和 Threads"
+              "title": "12 如何利用面向对象设计和编程开发接口鉴权功能"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "he title for {url} was {title",
+                "query": "read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 320.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5
+    "width": 848.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,52 +224,52 @@
   },
   "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.5 RustBook-A Closer Look at the Traits for Async.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.6 将它们放在一起：Futures、Tasks 和 Threads.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0.2 Stream 和 StreamExt.md",
-    "Areas/Rust/Rust/17.Async和Await/4.0.2 Stream 与 Future 的不同契约.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.2 RustBook-Applying Concurrency with Async.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.4 RustBook-Streams：Futures 序列.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.1 Async functions  异步函数.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606214605.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606214338.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212622.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212358.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212303.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts/Pasted image 20250606212223.png",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/asserts",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0.8 初始化模式.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0 深入探究.md",
-    "Areas/Rust/Rust/17.Async和Await/Future/1.0.1 RustBook.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.1 RustBook-Futures and the Async Syntax.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/2.0 如何使用.md",
-    "Areas/Rust/Rust/17.Async和Await/Future/1.0 基本概念.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0.3 RustBook-Working with Any Number of Futures.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/1.0 Async和Await基本概念.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/3.0 RFC 解读.md",
-    "Areas/Rust/Rust/17.Async和Await/Async和Await/4.0.1 无论是函数还是块，async都可以把他们变为impl Future类型对吗.md",
-    "Areas/Rust/Rust/15.智能指针/15.2 Deref Trait/2.0.1 解引用运算符如何与常规引用配合.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/1981年9月传输控制协议功能规范.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/参考资料/学习资料整理/学习计划/第一周学习建议.md",
-    "Areas/Rust/Rust/15.智能指针/Rust中的动态内存分配.md",
-    "Areas/Rust/Rust/15.智能指针/Rust 怎么确定内存大小.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段/项目日志/daily_documents.md",
-    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
-    "Projects/2025春夏季开源操作系统训练营/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/README.md",
-    "Areas/Rust/Rust/17.Async和Await/Future",
-    "Projects/设计模式/规范与重构/改善代码质量的20条编程规范",
-    "Projects/设计模式/规范与重构/解耦/asserts/Pasted image 20250605150401.png",
-    "Projects/设计模式/规范与重构/解耦/asserts",
-    "Projects/设计模式/规范与重构/解耦",
-    "Projects/设计模式/规范与重构/代码的可测试性",
-    "Projects/设计模式/规范与重构/重构",
-    "Projects/设计模式/规范与重构/重构/asserts/Pasted image 20250605125947.png",
-    "Projects/设计模式/规范与重构/重构/asserts",
-    "Projects/设计模式/规范与重构",
-    "Projects/设计模式/设计原则",
-    "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202804.png",
-    "Areas/Rust/Rust/15.智能指针/15.1Box/asserts/Pasted image 20250604202437.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608152804.png",
+    "Projects/设计模式/面向对象/11何对接口鉴权这样一个功能开发做面向对象分析？.md",
+    "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608152128.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608151853.png",
+    "Projects/设计模式/面向对象/09 基于DDD开发虚拟钱包.md",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150546.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150331.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150314.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150148.png",
+    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150136.png",
+    "Projects/设计模式/面向对象/asserts",
+    "Projects/设计模式/面向对象/08 贫血模型的传统开发模式.md",
+    "Projects/设计模式/面向对象/07 多用组合少用继承.md",
+    "Projects/设计模式/面向对象/06 为什么基于接口而非实现编程.md",
+    "Projects/设计模式/面向对象/05接口vs抽象类的区别.md",
+    "Projects/设计模式/面向对象/04 哪些代码看起来是面向对象实际上是面向过程的.md",
+    "Projects/设计模式/面向对象/03 面向对象相比面向过程的优势.md",
+    "Projects/设计模式/面向对象/02 面向对象特性.md",
+    "Projects/设计模式/面向对象/01 面向对象.md",
+    "Projects/设计模式/面向对象",
+    "Projects/设计模式/设计模式概览/面向对象、设计原则、设计模式、编程规范、重构，这五者有何 关系？.md",
+    "Projects/设计模式/设计模式概览/为什么要学设计模式.md",
+    "Projects/设计模式/设计模式概览/未命名.md",
+    "Projects/设计模式/设计模式概览/从哪些维度评判代码质量的好坏.md",
+    "Projects/设计模式/README.md",
+    "Projects/设计模式/设计模式概览",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/程序可以注册handler处理ctrl+c.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/多线程的问题.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/03 非阻塞的 Web 服务.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/02 多线程Web服务.md",
+    "Projects/Rust/note/闭包.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/thread spawn.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/未命名.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/Tcp超时.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/01 最简单的 Web 服务.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料",
+    "Projects/Rust/projects/未命名",
+    "Areas/Rust/Rust/17.Async和Await/通过迭代WebServer逐步深入Rust异步编程",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/未命名",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志",
+    "Areas/Rust/Rust/17.Async和Await/Future 执行器与任务调度",
     "未命名.canvas"
   ]
 }
