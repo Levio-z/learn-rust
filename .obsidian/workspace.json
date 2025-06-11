@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "12 如何利用面向对象设计和编程开发接口鉴权功能"
-            }
-          },
-          {
-            "id": "7ba2e67a129ddfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Rust/17.Async和Await/Future/1.0.1 RustBook.md",
+                "file": "Projects/设计模式/设计模式/创建型/工厂模式/工厂模式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0.1 RustBook"
+              "title": "工厂模式"
+            }
+          },
+          {
+            "id": "7ba2e67a129ddfbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "compare_exchange_weak"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read",
+                "query": "伪失败",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 330.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
+                "file": "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12 如何利用面向对象设计和编程开发接口鉴权功能 的大纲"
+              "title": "规范 的大纲"
             }
           },
           {
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 848.5
+    "width": 546.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,54 +222,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/改进点.md",
+    "Projects/设计模式/设计模式/创建型/工厂模式/工厂模式.md",
+    "Projects/设计模式/设计模式/创建型/工厂模式",
+    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ChatGpt提供的优化参考.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/MSRV.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/rust-toolchain.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/step.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/strategy.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/资料.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/分析.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/init_once循环版本.md",
+    "Projects/Rust/note/std/lazyLock/未命名.md",
+    "Projects/Rust/note/cargo/Cargo.lock/package.md",
+    "Projects/Rust/note/cargo/未命名.md",
+    "Projects/Rust/note/cargo/注册表.md",
+    "Projects/Rust/note/cargo/Cargo.lock",
+    "Projects/Rust/note/crates.io/发布流程.md",
+    "Projects/Rust/note/cargo",
+    "Projects/Rust/note/std/ONCE/未命名.md",
+    "Projects/Rust/note/crates.io",
+    "Projects/Rust/note/std/ONCE/ONCE.md",
+    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
+    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange.md",
+    "Projects/Rust/note/core/AtomicBool/未命名.md",
+    "Projects/Rust/note/CAS/CAS和上层语言级别锁比较.md",
+    "Projects/Rust/note/CAS/CAS.md",
+    "Projects/Rust/note/std/内联",
+    "Projects/Rust/note/core/AtomicBool/方法",
+    "Projects/Rust/note/core/AtomicBool",
+    "Projects/Rust/note/std/UnsafeCell/方法",
+    "Projects/Rust/note/CAS",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608152804.png",
-    "Projects/设计模式/面向对象/11何对接口鉴权这样一个功能开发做面向对象分析？.md",
-    "Projects/设计模式/面向对象/12 如何利用面向对象设计和编程开发接口鉴权功能.md",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608152128.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608151853.png",
-    "Projects/设计模式/面向对象/09 基于DDD开发虚拟钱包.md",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150546.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150331.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150314.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150148.png",
-    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150136.png",
-    "Projects/设计模式/面向对象/asserts",
-    "Projects/设计模式/面向对象/08 贫血模型的传统开发模式.md",
-    "Projects/设计模式/面向对象/07 多用组合少用继承.md",
-    "Projects/设计模式/面向对象/06 为什么基于接口而非实现编程.md",
-    "Projects/设计模式/面向对象/05接口vs抽象类的区别.md",
-    "Projects/设计模式/面向对象/04 哪些代码看起来是面向对象实际上是面向过程的.md",
-    "Projects/设计模式/面向对象/03 面向对象相比面向过程的优势.md",
-    "Projects/设计模式/面向对象/02 面向对象特性.md",
-    "Projects/设计模式/面向对象/01 面向对象.md",
-    "Projects/设计模式/面向对象",
-    "Projects/设计模式/设计模式概览/面向对象、设计原则、设计模式、编程规范、重构，这五者有何 关系？.md",
-    "Projects/设计模式/设计模式概览/为什么要学设计模式.md",
-    "Projects/设计模式/设计模式概览/未命名.md",
-    "Projects/设计模式/设计模式概览/从哪些维度评判代码质量的好坏.md",
-    "Projects/设计模式/README.md",
-    "Projects/设计模式/设计模式概览",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/程序可以注册handler处理ctrl+c.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/多线程的问题.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/03 非阻塞的 Web 服务.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/02 多线程Web服务.md",
-    "Projects/Rust/note/闭包.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/thread spawn.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/未命名.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料/Tcp超时.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/01 最简单的 Web 服务.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/资料",
-    "Projects/Rust/projects/未命名",
-    "Areas/Rust/Rust/17.Async和Await/通过迭代WebServer逐步深入Rust异步编程",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/未命名",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志",
-    "Areas/Rust/Rust/17.Async和Await/Future 执行器与任务调度",
     "未命名.canvas"
   ]
 }
