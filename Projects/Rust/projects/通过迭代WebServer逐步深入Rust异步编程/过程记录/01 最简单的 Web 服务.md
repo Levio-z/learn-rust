@@ -92,7 +92,7 @@ fn handle_connection(mut connection: TcpStream) -> io::Result<()> {
 
 
 ```
-直到读到一个特殊的字符序列 `\r\n\r\n`，我们_约定_用它来作为读取的结束标志。
+
 ```rust
 fn handle_connection(mut connection: TcpStream) -> io::Result<()> {
     let mut read = 0;

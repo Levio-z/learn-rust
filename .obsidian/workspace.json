@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/设计模式/创建型/工厂模式/工厂模式.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工厂模式"
+              "title": "未命名"
             }
           },
           {
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -174,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/设计模式/规范与重构/改善代码质量的20条编程规范/规范.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "规范 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -208,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,42 +225,42 @@
   },
   "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/改进点.md",
-    "Projects/设计模式/设计模式/创建型/工厂模式/工厂模式.md",
-    "Projects/设计模式/设计模式/创建型/工厂模式",
-    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ChatGpt提供的优化参考.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/MSRV.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/rust-toolchain.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/step.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci/strategy.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/资料.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/分析.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/ci",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/lazy_static/init_once循环版本.md",
-    "Projects/Rust/note/std/lazyLock/未命名.md",
-    "Projects/Rust/note/cargo/Cargo.lock/package.md",
-    "Projects/Rust/note/cargo/未命名.md",
-    "Projects/Rust/note/cargo/注册表.md",
-    "Projects/Rust/note/cargo/Cargo.lock",
-    "Projects/Rust/note/crates.io/发布流程.md",
-    "Projects/Rust/note/cargo",
-    "Projects/Rust/note/std/ONCE/未命名.md",
-    "Projects/Rust/note/crates.io",
-    "Projects/Rust/note/std/ONCE/ONCE.md",
-    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
-    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange.md",
-    "Projects/Rust/note/core/AtomicBool/未命名.md",
-    "Projects/Rust/note/CAS/CAS和上层语言级别锁比较.md",
-    "Projects/Rust/note/CAS/CAS.md",
-    "Projects/Rust/note/std/内联",
-    "Projects/Rust/note/core/AtomicBool/方法",
-    "Projects/Rust/note/core/AtomicBool",
-    "Projects/Rust/note/std/UnsafeCell/方法",
-    "Projects/Rust/note/CAS",
+    "Projects/Rust/note/clippy/unused_imports.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/资料.md",
+    "Projects/Rust/note/clippy",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/问题.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/1.0 异步核心逻辑.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/2.0 请求逻辑.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/1.0 简单爬虫分析.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/错误返回结构.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/JoinSet.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Error的自动装箱.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/未命名.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500",
+    "Projects/Rust/note/std/迭代器链式处理.md",
+    "Projects/Rust/note/std/集合/排序.md",
+    "Projects/Rust/note/std/集合",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio默认运行时.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio错误类型.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/08 异步的 Web 服务.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/07 任务的调度.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/保存的闭包.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/06 执行器.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/05 Futures.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/epoll.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/continue 'next;.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/为什么要相反顺序移除.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/多线程的问题.md",
+    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/04 多路复用的Web服务.md",
+    "Projects/设计模式/设计模式/结构型/装饰器模式",
+    "Projects/设计模式/设计模式/结构型/代理模式",
+    "Projects/设计模式/设计模式/结构型",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
