@@ -1,0 +1,1 @@
+要等待的地址。如果 _Address_ 的值与 _CompareAddress_ 的值不同，则函数将立即返回。如果值相同，则函数不会返回，直到同一进程中的另一个线程通过调用 [WakeByAddressSingle](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-wakebyaddresssingle) 或 [WakeByAddressAll](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-wakebyaddressall) 发出 Address 的值已更改的信号，或者超时已过，以先到者为准。

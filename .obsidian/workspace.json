@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
+                "file": "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "AtomicBool"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "compare_exchange_weak"
+              "title": "改进点"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "伪失败",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 478.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
+                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "改进点 的大纲"
             }
           },
           {
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,44 +223,44 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8efd4479c3d3f460",
+  "active": "7ba2e67a129ddfbe",
   "lastOpenFiles": [
-    "Projects/Rust/note/clippy/unused_imports.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/smoltcp",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/资料.md",
+    "Areas/Rust/库/lazy_static/lazy_static.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析/ChatGpt提供的优化参考.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第二阶段：rcore/rCore/ch04.md",
+    "Projects/Rust/note/生命周期/'static 生命周期.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
+    "Projects/Rust/note/std/ONCE/ONCE.md",
+    "Projects/Rust/note/std/ONCE/waitOnAdress.md",
+    "Projects/Rust/note/std/ONCE/ONCE阅读.md",
+    "Projects/Rust/note/std/lazyLock/LazyLock分析.md",
+    "Projects/Rust/note/std/ManuallyDrop/ManuallyDrop.md",
+    "Projects/Rust/note/std/ManuallyDrop/take方法.md",
+    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
+    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
+    "Projects/Rust/note/core/AtomicBool/未命名.md",
+    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析/分析.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/资料.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/问题.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/2.0 请求逻辑.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/1.0 异步核心逻辑.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio默认运行时.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio错误类型.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/JoinSet.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Error的自动装箱.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/错误返回结构.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/历史参考",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp",
+    "Projects/2025春夏季开源操作系统训练营/note/未命名",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/smoltcp",
     "Projects/Rust/note/clippy",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/问题.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/1.0 异步核心逻辑.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/2.0 请求逻辑.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/1.0 简单爬虫分析.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/错误返回结构.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/JoinSet.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Error的自动装箱.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/未命名.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/抓取豆瓣top500",
-    "Projects/Rust/note/std/迭代器链式处理.md",
-    "Projects/Rust/note/std/集合/排序.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500",
     "Projects/Rust/note/std/集合",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio默认运行时.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio错误类型.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫/爬虫参考",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/08 异步的 Web 服务.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：基于io_uring的协程运行时/project/用户态爬虫",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/07 任务的调度.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/保存的闭包.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/06 执行器.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/05 Futures.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/epoll.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/continue 'next;.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/为什么要相反顺序移除.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/多线程的问题.md",
-    "Projects/Rust/projects/通过迭代WebServer逐步深入Rust异步编程/过程记录/04 多路复用的Web服务.md",
-    "Projects/设计模式/设计模式/结构型/装饰器模式",
-    "Projects/设计模式/设计模式/结构型/代理模式",
-    "Projects/设计模式/设计模式/结构型",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
