@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
+                "file": "Projects/MIT 6.824/笔记/Paper/MapReduce/03 实现.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AtomicBool"
+              "title": "03 实现"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
+                "file": "Projects/MIT 6.824/笔记/Paper/MapReduce/00 MapReduce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,18 +45,17 @@
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": false,
+                  "showSearch": true,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "改进点"
+              "title": "00 MapReduce"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 333.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -175,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
+                "file": "Projects/MIT 6.824/资料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "改进点 的大纲"
+              "title": "资料 的大纲"
             }
           },
           {
@@ -203,13 +202,23 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "c9a590a5f8bdc933",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,47 +229,51 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "7ba2e67a129ddfbe",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/03-2 外部排序.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/03-1 MapReduce 在并行计算中如何划分任务与调度 Reduce 任务的关键机制.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/03 实现.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/02 编程模型.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/asserts/Pasted image 20250615213936.png",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/asserts",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/00 MapReduce.md",
+    "Projects/MIT 6.824/笔记/分布式系统/01 分布式系统.md",
+    "Projects/MIT 6.824/笔记/简介/简介.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/01 简介.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/02-2 构建检索词向量.md",
+    "Areas/book/paper列表搜集/分布式系统论文.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/02-1示例分布式Grep.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
+    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce",
+    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/README.md",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报/第二周：20250609-20250614.md",
+    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报/第一周：20250603-20250608.md",
+    "Areas/book/paper列表搜集",
+    "Projects/MIT 6.824/资料.md",
+    "Projects/MIT 6.824/笔记/Paper",
+    "Projects/MIT 6.824/笔记/分布式系统",
+    "Projects/MIT 6.824/笔记/简介",
+    "Projects/MIT 6.824/笔记",
+    "Projects/MIT 6.824",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/01 lazy_static/work/改进点.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/01 lazy_static/分析/ChatGpt提供的优化参考.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/01 lazy_static/分析/分析.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/04 smolTcp",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/03 设计模式/资料.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/02 用户态爬虫/资料.md",
+    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/学习资料整理/参考资料和任务.md",
     "Areas/Rust/库/lazy_static/lazy_static.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析/ChatGpt提供的优化参考.md",
     "Projects/2025春夏季开源操作系统训练营/note/第二阶段：rcore/rCore/ch04.md",
     "Projects/Rust/note/生命周期/'static 生命周期.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work/改进点.md",
-    "Projects/Rust/note/std/ONCE/ONCE.md",
-    "Projects/Rust/note/std/ONCE/waitOnAdress.md",
-    "Projects/Rust/note/std/ONCE/ONCE阅读.md",
-    "Projects/Rust/note/std/lazyLock/LazyLock分析.md",
-    "Projects/Rust/note/std/ManuallyDrop/ManuallyDrop.md",
-    "Projects/Rust/note/std/ManuallyDrop/take方法.md",
-    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
-    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange_weak.md",
-    "Projects/Rust/note/core/AtomicBool/未命名.md",
-    "Projects/Rust/note/core/AtomicBool/方法/compare_exchange.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析/分析.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/资料.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/问题.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/2.0 请求逻辑.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500/1.0 异步核心逻辑.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio默认运行时.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Tokio错误类型.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/JoinSet.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/Error的自动装箱.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析/错误返回结构.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/历史参考",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp",
-    "Projects/2025春夏季开源操作系统训练营/note/未命名",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/分析",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/lazy_static/work",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/smoltcp",
-    "Projects/Rust/note/clippy",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/抓取豆瓣top500",
-    "Projects/Rust/note/std/集合",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/project/用户态爬虫/爬虫参考/简单异步爬虫分析",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
@@ -270,7 +283,6 @@
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150546.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150331.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150314.png",
-    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150148.png",
     "未命名.canvas"
   ]
 }

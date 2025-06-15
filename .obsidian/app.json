@@ -4,5 +4,8 @@
   "newFileFolderPath": "asserts",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "./asserts",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false
 }
