@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/设计模式/结构型/适配器模式/1.0 基本定义.md",
+                "file": "Projects/Rust/note/trait/标记trait.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 基本定义"
+              "title": "标记trait"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/MIT 6.824/笔记/Paper/MapReduce/00 MapReduce.md",
+                "file": "Projects/设计模式/设计模式/行为型/2.2 模板代码Rust.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 MapReduce"
+              "title": "2.2 模板代码Rust"
             }
           }
         ]
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 515.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,51 +219,51 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "8efd4479c3d3f460",
   "lastOpenFiles": [
-    "Projects/设计模式/设计模式/结构型/适配器模式/2.0 如何使用.md",
-    "Projects/设计模式/设计模式/结构型/适配器模式/1.0 基本定义.md",
-    "Projects/设计模式/设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
-    "Projects/设计模式/设计模式/结构型/装饰器模式/1.1 Java IO设计.md",
-    "Projects/设计模式/设计模式/结构型/代理模式/1.0 代理模式.md",
+    "Projects/Rust/note/未命名.md",
+    "Projects/Rust/note/trait/标记trait.md",
+    "Projects/Rust/note/trait/未命名",
+    "Projects/Rust/note/trait",
+    "Projects/Rust/note/'statc.md",
+    "Projects/设计模式/设计模式/行为型/3.1 EventBus框架.md",
+    "Projects/设计模式/设计模式/行为型/asserts/Pasted image 20250616170650.png",
+    "Projects/设计模式/设计模式/行为型/asserts/Pasted image 20250616170640.png",
+    "Projects/设计模式/设计模式/行为型/asserts",
+    "Projects/设计模式/设计模式/行为型/2.0 如何使用观察者模式.md",
+    "Projects/设计模式/设计模式/行为型/2.2 模板代码Rust.md",
+    "Projects/设计模式/设计模式/行为型/2.1 观察者模式使用场景.md",
+    "Projects/设计模式/设计模式/行为型/1.0 观察者模式.md",
     "Projects/设计模式/设计模式/结构型/桥接模式.md",
-    "Projects/设计模式/设计模式/结构型/适配器模式/3.1配器模式在 Java 日志中的应用.md",
-    "Projects/设计模式/设计模式/结构型/适配器模式/3.0 案例.md",
-    "Projects/设计模式/设计模式/结构型/适配器模式",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/03 实现.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/问题/MapReduce 中数据流的设计哲学和分布式系统的容错策略.md",
-    "Projects/MIT 6.824/笔记/简介/简介.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/问题",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/03-2 外部排序.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/03-1 MapReduce 在并行计算中如何划分任务与调度 Reduce 任务的关键机制.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/02 编程模型.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/asserts/Pasted image 20250615213936.png",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/asserts",
+    "Projects/Rust/note/rc/Rc.md",
+    "Projects/设计模式/设计模式/结构型/门面模式/1.0 基本定义.md",
+    "Projects/Rust/note/rc",
+    "Projects/设计模式/设计模式/结构型/门面模式/2.0 如何使用门面模式.md",
+    "Projects/设计模式/设计模式/结构型/享元模式/2.0 如何使用享元模式.md",
+    "Projects/设计模式/设计模式/结构型/享元模式/1.0 基本定义.md",
+    "Projects/设计模式/设计模式/行为型",
+    "Projects/设计模式/设计模式/结构型/未命名",
+    "Projects/设计模式/设计模式/结构型/享元模式/3.0 框架中的使用.md",
+    "Projects/设计模式/设计模式/结构型/享元模式/2.1 业务场景.md",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/00 MapReduce.md",
-    "Projects/MIT 6.824/笔记/分布式系统/01 分布式系统.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/01 简介.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/02-2 构建检索词向量.md",
-    "Areas/book/paper列表搜集/分布式系统论文.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接/02-1示例分布式Grep.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/拓展链接",
+    "Projects/设计模式/设计模式/创建型/单例模式/3.0 单例为什么称为反模式.md",
+    "Projects/设计模式/设计模式/创建型/单例模式/2.0 单例模式之线程、集群实现.md",
+    "Projects/设计模式/设计模式/创建型/单例模式/1.0 单例模式.md",
+    "Projects/设计模式/设计模式/创建型/单例模式/4.1 用 `RwLock` 替代 `Mutex.md",
+    "Projects/设计模式/设计模式/创建型/单例模式/4.0 单例模式之Rust实现.md",
+    "Projects/设计模式/设计模式/创建型/单例模式/3.1单例对代码的可测试性不友好.md",
+    "Projects/设计模式/设计模式/结构型/组合模式/2.1 使用场景.md",
+    "Projects/设计模式/设计模式/结构型/享元模式",
+    "Projects/设计模式/设计模式/结构型/组合模式/2.0 如何使用.md",
+    "Projects/设计模式/设计模式/结构型/组合模式/1.0 基本定义.md",
+    "Projects/设计模式/设计模式/结构型/组合模式",
+    "Projects/设计模式/设计模式/结构型/门面模式",
+    "Projects/设计模式/设计模式/结构型/适配器模式",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/asserts/Pasted image 20250615213936.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
-    "Projects/Rust/note/core/AtomicBool/AtomicBool.md",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce",
-    "Projects/2025春夏季开源操作系统训练营/record/daily_documents.md",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/README.md",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报/第二周：20250609-20250614.md",
-    "Projects/2025春夏季开源操作系统训练营/record/第四阶段进展日志/周报/第一周：20250603-20250608.md",
-    "Areas/book/paper列表搜集",
-    "Projects/MIT 6.824/资料.md",
-    "Projects/MIT 6.824/笔记/Paper",
-    "Projects/MIT 6.824/笔记/分布式系统",
-    "Projects/MIT 6.824/笔记/简介",
-    "Projects/MIT 6.824/笔记",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153538.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153141.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608153002.png",
@@ -271,8 +271,6 @@
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608152128.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608151853.png",
     "Projects/设计模式/面向对象/asserts/Pasted image 20250608150546.png",
-    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150331.png",
-    "Projects/设计模式/面向对象/asserts/Pasted image 20250608150314.png",
     "未命名.canvas"
   ]
 }
