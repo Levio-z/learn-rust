@@ -46,6 +46,36 @@
      ------------------------>|TIME WAIT|------------------>| CLOSED  |
                               +---------+                   +---------+
 ```
+##### 初始阶段
+- **CLOSED → LISTEN**：服务器调用 `listen()`，准备接收连接，进入被动 open。
+##### 连接打开过程（三次握手）
+客户端
+- （1）**CLOSED → SYN_SENT**：客户端调用 `connect()` 发起主动连接，发送 SYN，创建 TCB。
+- （3）**SYN_SENT → ESTABLISHED**：客户端收到 SYN+ACK → 回复 ACK → 进入 ESTABLISHED
+服务器：
+- （2）**LISTEN→ SYN_RCVD**：收到 SYN → 回复 SYN+ACK → 进入 SYN_RCVD
+- （4）SYN_RCVD→ ESTABLISHED：收到 ACK → 进入 ESTABLISHED，此时能收到数据
+##### 数据传输
+- ESTABLISHED： 连接建立完毕，双向可以发送应用数据
+##### 连接关闭过程（四次挥手）
+
+客户端
+- （1）**ESTABLISHED → FIN_WAIT_1**：客户端调用 `close()`，发送 FIN，进入 FIN_WAIT_1。
+- （3）**FIN_WAIT_1 → FIN_WAIT_2**：收到对端 ACK，确认自己的 FIN，被动等待对方关闭。
+- （5）**FIN_WAIT_2 → TIME_WAIT**：收到对端 FIN，发送 ACK，进入 TIME_WAIT，等待足够时间确保对方收到确认。
+- （7）**TIME_WAIT → CLOSED**：等待 2MSL 超时后，连接彻底关闭，删除 TCB。
+
+服务器
+- （2）**ESTABLISHED → CLOSE_WAIT**：收到客户端 FIN，发送 ACK，进入 CLOSE_WAIT，等待应用关闭连接。
+- （4）**CLOSE_WAIT → LAST_ACK**：应用调用 `close()`，发送 FIN，进入 LAST_ACK，等待客户端确认。
+- （6）**LAST_ACK → CLOSED**：收到客户端 ACK，连接关闭，删除 TCB。
+
+##### 异常关闭过程（CLOSING状态）
+- （1）**FIN_WAIT_1 → CLOSING**：在主动关闭后（处于 FIN_WAIT_1 状态），收到对端 FIN 而不是 ACK，回复 ACK，进入 CLOSING 状态。
+    
+- （2）**CLOSING → TIME_WAIT**：收到对端对自己 FIN 的确认 ACK，进入 TIME_WAIT，等待确保连接安全关闭。
+
+
 ### 📘 **一、各状态定义与作用**
 
 | 状态名             | 定义与作用                                            |

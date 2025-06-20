@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0da8a752e2e5a736",
+        "id": "a5f05da2f2da2537",
         "type": "tabs",
         "children": [
           {
-            "id": "8efd4479c3d3f460",
+            "id": "69894539fafae899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "过程记录01"
-            }
-          },
-          {
-            "id": "3f0f9eb85a6a802e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/3.4.1构造可靠数据传输协议.md",
+                "file": "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.4.1构造可靠数据传输协议"
-            }
-          },
-          {
-            "id": "7ba2e67a129ddfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/设计模式/设计模式/行为型/观察者模式/2.2 模板代码Rust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": true,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.2 模板代码Rust"
+              "title": "开源操作系统训练营第四阶段总结"
             }
           }
         ]
@@ -111,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "非同",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 258.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -232,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,20 +198,46 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8efd4479c3d3f460",
+  "active": "69894539fafae899",
   "lastOpenFiles": [
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/视频记录.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/$name == hello world.md",
+    "Projects/开源操作系统训练营/record/daily_documents.md",
+    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/README.md",
+    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
+    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录02.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/1981年9月传输控制协议功能规范.md",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/资料.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/视频记录.md",
+    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
+    "Projects/开源操作系统训练营/README.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/分析与思考/为什么内核栈不能立即回收.md",
+    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/参考资料/io_uring/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/未命名.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用/IO多路复用.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用",
+    "README.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/README.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/tun tap crate.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/TCP.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/linux 云服务器安装rust.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/Crate etherparse.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/CAP_NET_ADMIN.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/$name == hello world.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/RFC TCP状态.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.5 关闭连接.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.9 事件处理.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts/Pasted image 20250619175801.png",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.7 数据通信.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/未命名",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.7 数据通信",
+    "Projects/开源操作系统训练营/2025春夏/报告",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/解析库",
     "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/未命名",
-    "Areas/book/自顶向下/3.0 传输层/3.7 TCP拥塞控制/3.7.0.md",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/未命名.md",
     "Areas/book/自顶向下/3.0 传输层/3.7 TCP拥塞控制",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/3.6.2 拥塞控制方法.md",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618202311.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/3.6.1 拥塞原因与代价.md",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618200735.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618195910.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173555.png",
@@ -267,33 +245,7 @@
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173359.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173053.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173052.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/3.6.0 前言.md",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.6 TCP连接管理.md",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理",
     "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/asserts/Pasted image 20250618172221.png",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/asserts/Pasted image 20250618171002.png",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.5 流量控制.md",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.4 可靠数据传输.md",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.3 往返时间的估计与超时.md",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.2 TCP报文段结构.md",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/3.5.1 TCP连接.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/3.4.4 选择重传.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/3.4.3 回退N步.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/3.4.2 流水线可靠传输协议.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/3.4.1构造可靠数据传输协议.md",
-    "Areas/book/自顶向下/2.0/2.1/2.1.1.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理/asserts",
-    "Areas/book/自顶向下/3.0 传输层/3.3 无连接运输 UDP/3.3.1 UDP报文段结构.md",
-    "Areas/book/自顶向下/3.0 传输层/3.4 可靠数据传输原理",
-    "Areas/book/自顶向下/2.0/2.7 套接字编程/2.7.1.md",
-    "Areas/book/自顶向下/2.0/2.7 套接字编程/2.7.2 TCP套接字编程.md",
-    "Areas/book/自顶向下/2.0/2.7 套接字编程/未命名",
-    "Areas/book/自顶向下/2.0/2.7 套接字编程/asserts",
-    "Areas/book/自顶向下/2.0/2.1/2.1.2 进程通信.md",
-    "Areas/book/自顶向下/2.0/2.7 套接字编程",
-    "Areas/book/自顶向下/2.0/2.1/asserts",
-    "Areas/book/自顶向下/2.0/2.1/未命名.md",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
