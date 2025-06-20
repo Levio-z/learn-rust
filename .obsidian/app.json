@@ -2,10 +2,11 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newFileFolderPath": "asserts",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "./asserts",
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showUnsupportedFiles": true
 }
