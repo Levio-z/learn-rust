@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/README.md",
+                "file": "Projects/开源操作系统训练营/2025春夏/报告/总结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "总结"
             }
           }
         ]
@@ -198,18 +198,20 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "67fda9ee0cafb880",
+  "active": "69894539fafae899",
   "lastOpenFiles": [
     "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
-    "Projects/开源操作系统训练营/record/daily_documents.md",
-    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/README.md",
-    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
+    "Projects/开源操作系统训练营/2025春夏/报告/总结.md",
+    "Projects/开源操作系统训练营/2025春夏/README.md",
+    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/README.md",
+    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
+    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
+    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第三周：20250615-20250621.md",
+    "Projects/开源操作系统训练营/2025春夏/record/daily_documents.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录02.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/视频记录.md",
-    "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
-    "Projects/开源操作系统训练营/README.md",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/分析与思考/为什么内核栈不能立即回收.md",
     "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/参考资料/io_uring/来自阿里云的 Linux 内核 io_uring 介绍与实践.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle/未命名.md",
@@ -225,10 +227,8 @@
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/$name == hello world.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/RFC TCP状态.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.5 关闭连接.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.9 事件处理.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts/Pasted image 20250619175801.png",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.7 数据通信.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/未命名",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.7 数据通信",
     "Projects/开源操作系统训练营/2025春夏/报告",
