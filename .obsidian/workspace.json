@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
+                "file": "Projects/开源操作系统训练营/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "开源操作系统训练营第四阶段总结"
+              "title": "README"
             }
           }
         ]
@@ -198,12 +198,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "69894539fafae899",
+  "active": "67fda9ee0cafb880",
   "lastOpenFiles": [
+    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
     "Projects/开源操作系统训练营/record/daily_documents.md",
     "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/README.md",
     "Projects/开源操作系统训练营/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
-    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录02.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
