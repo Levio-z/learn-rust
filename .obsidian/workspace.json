@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "开源操作系统训练营第四阶段总结"
+              "title": "README"
             }
           }
         ],
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 273.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -273,12 +273,17 @@
   },
   "active": "ec33249c68d4c910",
   "lastOpenFiles": [
+    "Resources/学习路线.md",
+    "Projects/设计模式/README.md",
+    "Projects/设计模式/优化设计案例/创建型.md",
+    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/最终报告/最终报告.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
+    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/最终报告",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/README.md",
+    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
     "Projects/开源操作系统训练营/2025春夏/报告/总结.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
-    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用/IO多路复用.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/README.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
     "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/03 设计模式/资料.md",
     "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/02 用户态爬虫/资料.md",
     "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/02 用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
@@ -295,10 +300,6 @@
     "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
     "Projects/开源操作系统训练营/2025春夏/record/daily_documents.md",
     "Projects/开源操作系统训练营/2025春夏/README.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/README.md",
-    "Areas/book/paper列表搜集/分布式系统论文.md",
-    "Areas/basic/408/计算机网络/Tcp/Tcp.md",
-    "Projects/Rust/note/std/ONCE/ONCE.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts/Pasted image 20250619175801.png",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts",
@@ -309,7 +310,6 @@
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/解析库",
     "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/未命名",
-    "Areas/book/自顶向下/3.0 传输层/3.7 TCP拥塞控制",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618202311.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618200735.png",
     "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618195910.png",
