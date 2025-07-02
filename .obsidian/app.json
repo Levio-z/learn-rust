@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newFileFolderPath": "asserts",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "./asserts",
   "useMarkdownLinks": true,
   "strictLineBreaks": false,

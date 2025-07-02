@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/23经典设计模式/行为型/中介模式/2.1 UI控件.md",
+                "file": "Projects/设计模式/23经典设计模式/行为型/中介模式/1.0 概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.1 UI控件"
+              "title": "1.0 概念"
             }
           }
         ]
@@ -200,9 +200,10 @@
   },
   "active": "ec33249c68d4c910",
   "lastOpenFiles": [
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/0.0 综述.md",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/2.1 UI控件.md",
     "Projects/设计模式/23经典设计模式/行为型/中介模式/2.0 使用.md",
     "Projects/设计模式/23经典设计模式/行为型/中介模式/1.0 概念.md",
-    "Projects/设计模式/23经典设计模式/行为型/中介模式/0.0 综述.md",
     "Projects/设计模式/23经典设计模式/行为型/访问者模式/1.0 概念.md",
     "Projects/设计模式/23经典设计模式/行为型/状态模式/1.0 基本概念.md",
     "Projects/设计模式/设计原则/迪米特法则（LOD）.md",
@@ -229,7 +230,6 @@
     "Projects/设计模式/设计模式学习和实践",
     "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts/Pasted image 20250702154208.png",
     "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts",
-    "Projects/设计模式/23经典设计模式/行为型/访问者模式/0.0 综述.md",
     "Projects/设计模式/23经典设计模式/行为型/访问者模式",
     "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702112110.png",
     "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702091340.png",
