@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69894539fafae899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "336f0e78e0010f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "67b9ceaabe87d244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "ec33249c68d4c910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/设计模式/23经典设计模式/行为型/中介模式/2.1 UI控件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,16 +23,15 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2.1 UI控件"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "非同",
+                "query": "tag:#查看版本信息",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 313.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -257,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,52 +200,52 @@
   },
   "active": "ec33249c68d4c910",
   "lastOpenFiles": [
-    "Resources/学习路线.md",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/2.0 使用.md",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/1.0 概念.md",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/0.0 综述.md",
+    "Projects/设计模式/23经典设计模式/行为型/访问者模式/1.0 概念.md",
+    "Projects/设计模式/23经典设计模式/行为型/状态模式/1.0 基本概念.md",
+    "Projects/设计模式/设计原则/迪米特法则（LOD）.md",
+    "Projects/设计模式/面向对象思想/06 为什么基于接口而非实现编程.md",
+    "Projects/设计模式/面向对象思想/07 多用组合少用继承.md",
+    "Projects/设计模式/设计原则/Rule of Three.md",
+    "Projects/设计模式/设计原则/KISS、YAGNI原则/YAGNI.md",
+    "Projects/设计模式/设计模式概览/从哪些维度评判代码质量的好坏.md",
+    "Projects/设计模式/设计模式概览/为什么要学设计模式.md",
+    "Projects/设计模式/设计模式概览/面向对象、设计原则、设计模式、编程规范、重构，这五者有何 关系？.md",
+    "Projects/设计模式/设计模式学习和实践/6.0 作为面试官或候选人，如何面试或回答设计模式问题.md",
+    "Projects/设计模式/设计模式学习和实践/5.0 程序员怎么才能让自己走得更高、更远.md",
+    "Projects/设计模式/设计模式学习和实践/4.0 基础学科的知识如何转化成实际的技术生产力.md",
+    "Projects/设计模式/设计模式学习和实践/未命名",
+    "Projects/设计模式/设计模式学习和实践/3.0 编程能力.md",
+    "Projects/设计模式/设计模式学习和实践/2.3 Google工程师文化.md",
+    "Projects/设计模式/设计模式学习和实践/2.2 Google VS 快速成长.md",
+    "Projects/设计模式/设计模式学习和实践/2.1.1 Google CodeReview指南（chatgpt整理）.md",
+    "Projects/设计模式/设计模式学习和实践/2.1.0 Code Review--Google.md",
+    "Projects/设计模式/设计模式学习和实践/2.0 Google专题.md",
     "Projects/设计模式/README.md",
-    "Projects/设计模式/优化设计案例/创建型.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/最终报告/最终报告.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/最终报告",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/README.md",
-    "Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md",
-    "Projects/开源操作系统训练营/2025春夏/报告/总结.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录01.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用/IO多路复用.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/03 设计模式/资料.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/02 用户态爬虫/资料.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/02 用户态爬虫/爬虫参考/抓取豆瓣top500/3.0 爬虫部分.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/01 lazy_static/work/改进点.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/01 lazy_static/分析/ChatGpt提供的优化参考.md",
-    "Projects/开源操作系统训练营/2025春夏/第四阶段：尝试优化smoltcp/project/01 lazy_static/分析/分析.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.4 建立连接.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.2 术语.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/解析库/Ipv4Header.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/视频记录.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/过程记录/过程记录02.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第三周：20250615-20250621.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
-    "Projects/开源操作系统训练营/2025春夏/record/daily_documents.md",
-    "Projects/开源操作系统训练营/2025春夏/README.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/io多路复用",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts/Pasted image 20250619175801.png",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/asserts",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/未命名",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793/3.7 数据通信",
-    "Projects/开源操作系统训练营/2025春夏/报告",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/RFC 793",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/untitle",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/解析库",
-    "Projects/2025春夏季开源操作系统训练营/note/第四阶段：尝试优化smoltcp/参考资料/smoltcp/未命名",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618202311.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618200735.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618195910.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173555.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173553.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173359.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173053.png",
-    "Areas/book/自顶向下/3.0 传输层/3.6 拥塞控制原理/asserts/Pasted image 20250618173052.png",
-    "Areas/book/自顶向下/3.0 传输层/3.5面向连接的传输TCP/asserts/Pasted image 20250618172221.png",
+    "Projects/设计模式/未命名.md",
+    "Projects/设计模式/设计模式学习和实践/1.0 如何学好.md",
+    "Projects/设计模式/设计模式学习和实践",
+    "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts/Pasted image 20250702154208.png",
+    "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts",
+    "Projects/设计模式/23经典设计模式/行为型/访问者模式/0.0 综述.md",
+    "Projects/设计模式/23经典设计模式/行为型/访问者模式",
+    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702112110.png",
+    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702091340.png",
+    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702091338.png",
+    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts",
+    "Projects/设计模式/23经典设计模式/行为型/迭代器模式",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/asserts/Pasted image 20250701142613.png",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/asserts/Pasted image 20250701142434.png",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式/asserts",
+    "Projects/设计模式/23经典设计模式/行为型/中介模式",
+    "Projects/设计模式/23经典设计模式/行为型/解释器模式",
+    "Projects/设计模式/23经典设计模式/行为型/命令模式",
+    "Projects/OpenCampDocker训练营/note/asserts/Pasted image 20250630024929.png",
+    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629164227.png",
+    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629163237.png",
+    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629163224.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
