@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/导学/2025 飞腾派驱动开发训练营启动会.md",
+                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/README.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025 飞腾派驱动开发训练营启动会"
+              "title": "README.md"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 394.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -200,8 +200,8 @@
   },
   "active": "ec33249c68d4c910",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志/周报/第一周：20250704-20250705.md",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/导学/2025 飞腾派驱动开发训练营启动会.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志/周报/第一周：20250704-20250705.md",
     "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
     "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
     "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第三周：20250615-20250621.md",
