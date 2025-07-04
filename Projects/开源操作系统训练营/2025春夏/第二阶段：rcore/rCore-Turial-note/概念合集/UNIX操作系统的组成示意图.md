@@ -1,0 +1,1 @@
+![](asserts/Pasted%20image%2020250704152613.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/README.md",
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/2.0 什么是操作系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,299 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2.0 什么是操作系统"
+            }
+          },
+          {
+            "id": "33539ed67829f054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "56436e5d07a86566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "dc2445ee6368ed39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "292e473c10a9bcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "3821257057db5d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "b75e43a434923369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "d12ac6ffe04444aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "2491b60411d41c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "8d2ae540203fc326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "718e5b2f52145d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "d4f1d8c25a6f067d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "批处理"
+            }
+          },
+          {
+            "id": "8fabb9263287341a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/3.0 操作系统的系统调用接口.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.0 操作系统的系统调用接口"
             }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -88,7 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 364.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -198,54 +487,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ec33249c68d4c910",
+  "active": "8fabb9263287341a",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025春夏/README.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/README.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/导学/2025 飞腾派驱动开发训练营启动会.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志/周报/第一周：20250704-20250705.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第一周：20250603-20250608.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第二周：20250609-20250614.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/周报/第三周：20250615-20250621.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志/未命名.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志/周报",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record/进展日志",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/record",
-    "Projects/开源操作系统训练营/2025春夏/record/daily_documents.md",
-    "Projects/开源操作系统训练营/2025春夏/record/2025春夏第四阶段进展日志/README.md",
-    "Projects/设计模式/23经典设计模式/行为型/解释器模式/1.0 概念.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/导学",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/专业",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营",
-    "Projects/设计模式/23经典设计模式/行为型/解释器模式/0.0 综述.md",
-    "Projects/设计模式/23经典设计模式/行为型/命令模式/1.0 基本定义.md",
-    "Projects/设计模式/23经典设计模式/行为型/命令模式/2.0 如何使用.md",
-    "Projects/设计模式/23经典设计模式/行为型/命令模式/2.1 游戏中案例.md",
-    "Projects/设计模式/23经典设计模式/行为型/备忘录模式/1.0 基本概念.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/2.1 链表实现.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/2.2 数组实现.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/2.3 敏感词过滤.md",
-    "Projects/Rust/note/生命周期/match 互相独立的作用域.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/2.0 如何使用.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/1.0 基本概念.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/3.1 Tomcat 提供的 FilterChain 的实现类.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/3.2 Spring Interceptor.md",
-    "Projects/设计模式/23经典设计模式/行为型/责任链模式/3.0 源码、框架中的使用.md",
-    "Projects/设计模式/23经典设计模式/行为型/策略模式/2.1 避免分支判断.md",
-    "Projects/设计模式/设计模式学习和实践/未命名",
-    "Projects/设计模式/设计模式学习和实践",
-    "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts/Pasted image 20250702154208.png",
-    "Projects/设计模式/23经典设计模式/行为型/访问者模式/asserts",
-    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702112110.png",
-    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702091340.png",
-    "Projects/设计模式/23经典设计模式/行为型/迭代器模式/asserts/Pasted image 20250702091338.png",
-    "Projects/设计模式/23经典设计模式/行为型/中介模式/asserts/Pasted image 20250701142613.png",
-    "Projects/设计模式/23经典设计模式/行为型/中介模式/asserts/Pasted image 20250701142434.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/asserts/Pasted image 20250630024929.png",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629164227.png",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629163237.png",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/asserts/Pasted image 20250629163224.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/狭义的os：操作系统内核主要组成.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/2.0 什么是操作系统.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/3.0 操作系统的系统调用接口.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/系统软件.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/不同的系统边界不一样.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统如何完成工作.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/1.0 引言.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/系统调用接口示例.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/系统调用接口.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/系统调用接口大致功能及对应系统调用接口.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/抽象和虚拟化初见.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/ABI 与API.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/批处理.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/脱机方式（offline mode）.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/监控程序.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/打孔卡片机.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/UNIX操作系统的组成示意图.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704152613.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/广义的操作系统以及组成.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts/Pasted image 20250704151912.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704151855.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/执行环境.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704151754.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/运行时库.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集",
+    "Projects/Writing an OS in Rust/未命名/1 Bare Bones/1.0 独立式可执行程序.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note",
+    "Projects/Writing an OS in Rust/未命名/资料/0.0 资料.md",
+    "Projects/Writing an OS in Rust/未命名/资料",
+    "Projects/Writing an OS in Rust/未命名/1 Bare Bones",
+    "Projects/Writing an OS in Rust/未命名",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.1 docker version.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Areas/os/工具/QEMU/1.0 概念.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/02.md",
+    "Areas/os/工具/QEMU",
+    "Areas/os/工具",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704100024.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095643.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095559.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095517.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095421.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095408.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
