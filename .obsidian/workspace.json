@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
+                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 独立式可执行程序"
+              "title": "2.0 最小内核"
+            }
+          },
+          {
+            "id": "cb92e7cbc13624f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 最小内核"
+            }
+          },
+          {
+            "id": "3e9de43699bcf022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/ChatGpt/26.3 compiler-builtins-mem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "26.3 compiler-builtins-mem"
+            }
+          },
+          {
+            "id": "322e51e84b128a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 最小内核"
+            }
+          },
+          {
+            "id": "0f8f37cf0903c9c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 最小内核"
+            }
+          },
+          {
+            "id": "bc632e423abd008e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/ChatGpt/23 红区.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "23 红区"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#查看版本信息",
+                "query": "静态变量",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 258.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -198,36 +319,40 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ec33249c68d4c910",
+  "active": "0f8f37cf0903c9c0",
   "lastOpenFiles": [
-    "Projects/Writing an OS in Rust/note/ChatGpt/17 条件配置编译配置.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/16 不同系统的适配.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/29 在 QEMU 中启动内核&配置runner = bootimage runner.md",
+    "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/28 创建引导映象.md",
+    "Areas/Rust/Rust/Unsafe/Unsafe的超能力.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/27 向屏幕打印字符实现.md",
+    "Areas/Rust/Rust/Unsafe",
+    "Projects/Writing an OS in Rust/note/ChatGpt/30 VGA 字符缓冲区.md",
+    "Areas/Rust/Rust/3.常见编程概念/3.3.2 static + 引用 切片 的用法详解.md",
+    "Areas/Rust/Rust/3.常见编程概念/3.3.1 函数声明静态变量.md",
+    "Areas/Rust/Rust/3.常见编程概念/3.3 静态变量.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/26.3 compiler-builtins-mem.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/26.2内置函数.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/26.1 compiler_builtins.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/26.4 设置默认编译目标.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/26 build-std.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/25 编译内核.md",
     "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/15 添加三元组支持和编译.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/14 thumbv7em-none-eabihf.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/13 三元组.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/12 入口点函数.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/11 运行时系统概念.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/8 eh_personality 语言项详解.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/10 构建配置移除栈展开panic 策略.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/9 panic异常调用机制.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/7 语义项.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/6 panic Unwinding.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/5 PanicInfo.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/4 发散函数.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/4 标准库为什么会依赖libc.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3 rust vs C：表达性和高层抽象.md",
-    "Projects/Rust/note/PhantomData/2.3 控制协变性 逆变性.md",
-    "Projects/Rust/note/PhantomData/2.2 表示所有权（drop check）.md",
-    "Projects/Rust/note/PhantomData/2.1 标记引用的生命周期，即使它没有真正持有这个引用.md",
-    "Projects/Rust/note/PhantomData/2.0 如何使用.md",
-    "Projects/Rust/note/PhantomData/1.0 基本定义.md",
-    "Projects/Rust/note/copy/手动实现 `Copy` 和 `Clone` 的例子.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/22 建立x86_64-unknown-linux-gnu的目标配置清单.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/23 红区.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/24 禁用SIMD.md",
+    "Projects/Rust/note/rustup/编译/自定义目标配置清单.md",
+    "Projects/Rust/note/rustup/rustup.md",
+    "Projects/Rust/note/rustup/nightly-特性标签.md",
+    "Projects/Rust/note/rustup/编译",
+    "Projects/Rust/note/rustup/componet/rust-src.md",
+    "Projects/Rust/note/rustup/componet/llvm-tools-preview.md",
+    "Projects/Rust/note/rustup/`rust-toolchain.toml`.md",
+    "Projects/Rust/note/rustup/componet",
+    "Projects/Writing an OS in Rust/note/ChatGpt/21.2 GRUB 和 Multiboot 的局限性.md",
+    "Projects/Rust/note/rustup",
     "Projects/Rust/note/PhantomData",
-    "Projects/Rust/note/copy/Copy.md",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/2.0 什么是操作系统.md",
     "Projects/Rust/note/copy",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1 随机数和标准输出是否依赖系统抽象和特定硬件？.md",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704152613.png",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts/Pasted image 20250704151912.png",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts",
@@ -236,10 +361,6 @@
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集",
     "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note",
-    "Projects/Writing an OS in Rust/note/ChatGpt",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones",
-    "Projects/Writing an OS in Rust/note",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704100024.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095643.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095559.png",
