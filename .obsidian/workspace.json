@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0 最小内核"
+              "title": "01 docker"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "file": "Projects/Writing an OS in Rust/note/ChatGpt/4 标准库为什么会依赖libc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0 最小内核"
+              "title": "4 标准库为什么会依赖libc"
+            }
+          },
+          {
+            "id": "3420813a267fab03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/Git/Pro Git/2.0 Git 基础/查看提交历史.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "查看提交历史"
             }
           },
           {
@@ -151,8 +175,7 @@
               "title": "23 红区"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 292.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -319,54 +342,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0f8f37cf0903c9c0",
+  "active": "ec33249c68d4c910",
   "lastOpenFiles": [
-    "Projects/Writing an OS in Rust/note/ChatGpt/29 在 QEMU 中启动内核&配置runner = bootimage runner.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706205235.png",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706205126.png",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706204840.png",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706204550.png",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/未命名.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.1 docker version.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/查看提交历史.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/Git 别名.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/远程仓库的使用.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/打标签.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/获取 Git 仓库.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/记录每次更新到仓库.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/分支.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/远程分支.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/分支开发工作流.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706190745.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/分支管理.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/分支的新建与合并.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/未命名",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185718.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185532.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185133.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184331.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184211.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184141.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts",
+    "Areas/basic/Git/Pro Git/3.0 分支",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/_git_reset.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/撤消操作.md",
+    "Areas/basic/Git/Pro Git/0.0 总览.md",
+    "Areas/basic/Git/Pro Git/对象数据库.md",
+    "Areas/basic/Git/Pro Git/未命名.md",
+    "Areas/basic/Git/查看当前分支信息.md",
     "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/28 创建引导映象.md",
-    "Areas/Rust/Rust/Unsafe/Unsafe的超能力.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/27 向屏幕打印字符实现.md",
-    "Areas/Rust/Rust/Unsafe",
-    "Projects/Writing an OS in Rust/note/ChatGpt/30 VGA 字符缓冲区.md",
-    "Areas/Rust/Rust/3.常见编程概念/3.3.2 static + 引用 切片 的用法详解.md",
-    "Areas/Rust/Rust/3.常见编程概念/3.3.1 函数声明静态变量.md",
-    "Areas/Rust/Rust/3.常见编程概念/3.3 静态变量.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/26.3 compiler-builtins-mem.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/26.2内置函数.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/26.1 compiler_builtins.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/26.4 设置默认编译目标.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/26 build-std.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/25 编译内核.md",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/22 建立x86_64-unknown-linux-gnu的目标配置清单.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/23 红区.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/24 禁用SIMD.md",
-    "Projects/Rust/note/rustup/编译/自定义目标配置清单.md",
-    "Projects/Rust/note/rustup/rustup.md",
-    "Projects/Rust/note/rustup/nightly-特性标签.md",
-    "Projects/Rust/note/rustup/编译",
-    "Projects/Rust/note/rustup/componet/rust-src.md",
-    "Projects/Rust/note/rustup/componet/llvm-tools-preview.md",
-    "Projects/Rust/note/rustup/`rust-toolchain.toml`.md",
-    "Projects/Rust/note/rustup/componet",
-    "Projects/Writing an OS in Rust/note/ChatGpt/21.2 GRUB 和 Multiboot 的局限性.md",
-    "Projects/Rust/note/rustup",
-    "Projects/Rust/note/PhantomData",
-    "Projects/Rust/note/copy",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704152613.png",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts/Pasted image 20250704151912.png",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述/asserts",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704151855.png",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts/Pasted image 20250704151754.png",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/asserts",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/1.0 操作系统概述",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704100024.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095643.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095559.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095517.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095421.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/asserts/Pasted image 20250704095408.png",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/asserts",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/未命名",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
