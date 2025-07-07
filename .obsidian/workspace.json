@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02 docker镜像构建"
+              "title": "1.0 Docker基础"
+            }
+          },
+          {
+            "id": "52e810d145bd7178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 Docker基础"
             }
           },
           {
@@ -272,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -329,7 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 357.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -439,22 +463,37 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c85ee9c9a15169ae",
+  "active": "52e810d145bd7178",
   "lastOpenFiles": [
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-11 docker exec.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-10 docker attach.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-9 -d.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5 实践案例-运行 Alpine Linux 容器.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-7 秒退.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-6 docker inspect alpine --format='{{.Config.Cmd}}'.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-5 docker ps -a.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-4 为什么我们可以在 docker run alpine ls -a 中运行 ls 命令.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-3 docker run alphine ls -a.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2 docker image ls.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-1 docker pull.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/3 镜像的格式.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/3-1 私有镜像.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/4 docker run的过程.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/1 docker version.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/2 docker info.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
     "Projects/算法和数据结构/算法与数据结构概览/02 数据结构与算法.md",
     "Projects/算法和数据结构/算法与数据结构概览/01 为什么要学习.md",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
     "Projects/算法和数据结构/算法与数据结构概览",
     "Projects/算法和数据结构",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04-01 如何让rust指向Github链接.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/01.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录/01 环境.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-03 rust_entry.md",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707213719.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203831.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203721.png",
@@ -464,21 +503,7 @@
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203459.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203443.png",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203410.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08 实验.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06 中断.md",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203138.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08-04 技术原理和大致过程.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08-01 dts分析.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-03 GPIO引脚复用案例.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/05 设备树.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-02 ARM体系结构的通用中断寄存器.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0201 GICD 寄存器.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0202 GICC寄存器.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0203 中断类型.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07 硬件设备驱动-Pinctrl引脚复用.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-01 引脚.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-01-01引脚输出案例.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/资料/参考资料汇总.md",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts",
     "Projects/开源操作系统训练营/2025春夏/第三阶段：组件化操作系统/CharGpt",
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt",
@@ -486,7 +511,6 @@
     "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录",
     "Projects/Rust/projects/动手实现链表/ChatGPT",
     "Projects/Rust/projects/动手实现链表/过程记录",
-    "Projects/Rust/projects/动手实现链表",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
