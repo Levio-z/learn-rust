@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
+                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,103 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01 docker"
+              "title": "09-04 读写"
+            }
+          },
+          {
+            "id": "24eb61e4f57be1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "09-04 读写"
+            }
+          },
+          {
+            "id": "c85ee9c9a15169ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 docker镜像构建"
+            }
+          },
+          {
+            "id": "03225c3372349959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 我们到底需不需要链表"
+            }
+          },
+          {
+            "id": "e141c8026ab1c55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "侵入式链表"
             }
           },
           {
@@ -175,7 +271,8 @@
               "title": "23 红区"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 379.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -342,54 +439,54 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ec33249c68d4c910",
+  "active": "c85ee9c9a15169ae",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706205235.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706205126.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706204840.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts/Pasted image 20250706204550.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/asserts",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/未命名.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.1 docker version.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/查看提交历史.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/Git 别名.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/远程仓库的使用.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/打标签.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/获取 Git 仓库.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/记录每次更新到仓库.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/分支.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/远程分支.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/分支开发工作流.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706190745.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/分支管理.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/分支的新建与合并.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/未命名",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185718.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185532.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706185133.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184331.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184211.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250706184141.png",
-    "Areas/basic/Git/Pro Git/3.0 分支/asserts",
-    "Areas/basic/Git/Pro Git/3.0 分支",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/_git_reset.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/撤消操作.md",
-    "Areas/basic/Git/Pro Git/0.0 总览.md",
-    "Areas/basic/Git/Pro Git/对象数据库.md",
-    "Areas/basic/Git/Pro Git/未命名.md",
-    "Areas/basic/Git/查看当前分支信息.md",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/asserts",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/未命名",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础",
-    "Areas/basic/Git/Pro Git/99.0 Chatgpt",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/算法和数据结构/算法与数据结构概览/02 数据结构与算法.md",
+    "Projects/算法和数据结构/算法与数据结构概览/01 为什么要学习.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
+    "Projects/算法和数据结构/算法与数据结构概览",
+    "Projects/算法和数据结构",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04-01 如何让rust指向Github链接.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/视频/01.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录/01 环境.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-03 rust_entry.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707213719.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203831.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203721.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203639.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203545.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203521.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203459.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203443.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203410.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08 实验.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06 中断.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203138.png",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08-04 技术原理和大致过程.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/08-01 dts分析.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-03 GPIO引脚复用案例.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/05 设备树.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-02 ARM体系结构的通用中断寄存器.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0201 GICD 寄存器.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0202 GICC寄存器.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/06-0203 中断类型.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07 硬件设备驱动-Pinctrl引脚复用.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-01 引脚.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/07-01-01引脚输出案例.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/资料/参考资料汇总.md",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts",
+    "Projects/开源操作系统训练营/2025春夏/第三阶段：组件化操作系统/CharGpt",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录/asserts",
+    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录",
+    "Projects/Rust/projects/动手实现链表/ChatGPT",
+    "Projects/Rust/projects/动手实现链表/过程记录",
+    "Projects/Rust/projects/动手实现链表",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
