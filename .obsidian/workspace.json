@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec33249c68d4c910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "09-04 读写"
-            }
-          },
-          {
-            "id": "24eb61e4f57be1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "09-04 读写"
-            }
-          },
-          {
-            "id": "c85ee9c9a15169ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.0 Docker基础"
-            }
-          },
-          {
             "id": "52e810d145bd7178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+                "file": "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.1 Java IO设计.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 Docker基础"
+              "title": "1.1 Java IO设计"
             }
           },
           {
-            "id": "03225c3372349959",
+            "id": "8a48b428f33ee08e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,179 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 我们到底需不需要链表"
-            }
-          },
-          {
-            "id": "e141c8026ab1c55a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "侵入式链表"
-            }
-          },
-          {
-            "id": "cb92e7cbc13624f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.0 最小内核"
-            }
-          },
-          {
-            "id": "3e9de43699bcf022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/ChatGpt/26.3 compiler-builtins-mem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "26.3 compiler-builtins-mem"
-            }
-          },
-          {
-            "id": "322e51e84b128a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.0 最小内核"
-            }
-          },
-          {
-            "id": "0f8f37cf0903c9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/ChatGpt/4 标准库为什么会依赖libc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4 标准库为什么会依赖libc"
-            }
-          },
-          {
-            "id": "3420813a267fab03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/basic/Git/Pro Git/2.0 Git 基础/查看提交历史.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "查看提交历史"
-            }
-          },
-          {
-            "id": "bc632e423abd008e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/ChatGpt/23 红区.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "23 红区"
+              "title": "5-8 docker run -it alpine"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 345.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -465,52 +224,52 @@
   },
   "active": "52e810d145bd7178",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-11 docker exec.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-10 docker attach.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-9 -d.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5 实践案例-运行 Alpine Linux 容器.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-7 秒退.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-6 docker inspect alpine --format='{{.Config.Cmd}}'.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-5 docker ps -a.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-4 为什么我们可以在 docker run alpine ls -a 中运行 ls 命令.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-3 docker run alphine ls -a.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2 docker image ls.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-1 docker pull.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/3 镜像的格式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/3-1 私有镜像.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/4 docker run的过程.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/1 docker version.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/2 docker info.md",
+    "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
+    "Projects/设计模式/23经典设计模式/结构型/桥接模式/1.0 基本概念.md",
+    "Projects/设计模式/23经典设计模式/结构型/代理模式/1.0 代理模式.md",
+    "Projects/简历&博客/模板参考.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-8 端口映射.md",
+    "Projects/简历&博客",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-7 EXPOSE.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-6 COPY.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-5 WORKDIR.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-2 jupyter_sample.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-1docker build.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-4 pip.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-3 apt-get.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6 构建镜像.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 Docker file.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
-    "Projects/算法和数据结构/算法与数据结构概览/02 数据结构与算法.md",
-    "Projects/算法和数据结构/算法与数据结构概览/01 为什么要学习.md",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/09-04 读写.md",
-    "Projects/算法和数据结构/算法与数据结构概览",
-    "Projects/算法和数据结构",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707213719.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203831.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203721.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203639.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203545.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203521.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203459.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203443.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203410.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts/Pasted image 20250707203138.png",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt/asserts",
-    "Projects/开源操作系统训练营/2025春夏/第三阶段：组件化操作系统/CharGpt",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/Chatgpt",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录/asserts",
-    "Projects/开源操作系统训练营/2025飞腾派驱动开发训练营/基础/过程记录",
-    "Projects/Rust/projects/动手实现链表/ChatGPT",
-    "Projects/Rust/projects/动手实现链表/过程记录",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-10 docker attach.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-9 -d.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-11 docker exec.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-7 秒退.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
+    "Projects/设计模式/23经典设计模式/结构型/组合模式/1.0 基本定义.md",
+    "Projects/Rust/projects/手写RPC/Rpc/3.1 序列化方式分析.md",
+    "Projects/Rust/projects/手写RPC/Rpc/3.0 资料汇总.md",
+    "Projects/Rust/projects/手写RPC/Rpc/序列化方式分析",
+    "Projects/设计模式/23经典设计模式/结构型/桥接模式",
+    "Projects/Rust/projects/手写RPC/如何设计一个RPC",
+    "Projects/Rust/projects/手写RPC/ChatGpt",
+    "Projects/Rust/projects/手写RPC/过程记录",
+    "Projects/Rust/projects/手写RPC/Rpc",
+    "Projects/Rust/projects/手写RPC",
+    "Projects/MIT 6.824/笔记/Go",
+    "Projects/MIT 6.824/笔记/分布式系统/02 RFC and Threads",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708174721.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154552.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154354.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154301.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708153828.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708153434.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708124031.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708121427.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708120335.png",
+    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708115151.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
