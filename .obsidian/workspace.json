@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.1 Java IO设计.md",
+                "file": "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1 Java IO设计"
+              "title": "理解生命周期的十个误区-博客阅读"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "静态变量",
+                "query": "tag:#rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "52e810d145bd7178",
+  "active": "67fda9ee0cafb880",
   "lastOpenFiles": [
+    "Projects/Rust/projects/README.md",
+    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
+    "Projects/Rust/projects/未命名",
+    "Projects/MIT 6.824/资料.md",
+    "Areas/basic/系统设计/具体业务场景/任务调度系统/01 Google TechLead系统设计 - 任务调度系统.md",
+    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714142220.png",
+    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714135226.png",
+    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts",
+    "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.1 Java IO设计.md",
+    "Areas/basic/系统设计/具体业务场景/未命名.md",
+    "Areas/basic/系统设计/具体业务场景/任务调度系统",
+    "Areas/basic/系统设计/未命名.md",
+    "Areas/basic/系统设计/具体业务场景",
+    "Areas/basic/系统设计",
+    "Areas/basic/未命名.md",
     "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
     "Projects/设计模式/23经典设计模式/结构型/桥接模式/1.0 基本概念.md",
     "Projects/设计模式/23经典设计模式/结构型/代理模式/1.0 代理模式.md",
@@ -243,23 +258,10 @@
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-10 docker attach.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-9 -d.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-11 docker exec.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-7 秒退.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
-    "Projects/设计模式/23经典设计模式/结构型/组合模式/1.0 基本定义.md",
-    "Projects/Rust/projects/手写RPC/Rpc/3.1 序列化方式分析.md",
-    "Projects/Rust/projects/手写RPC/Rpc/3.0 资料汇总.md",
     "Projects/Rust/projects/手写RPC/Rpc/序列化方式分析",
     "Projects/设计模式/23经典设计模式/结构型/桥接模式",
     "Projects/Rust/projects/手写RPC/如何设计一个RPC",
     "Projects/Rust/projects/手写RPC/ChatGpt",
-    "Projects/Rust/projects/手写RPC/过程记录",
-    "Projects/Rust/projects/手写RPC/Rpc",
-    "Projects/Rust/projects/手写RPC",
-    "Projects/MIT 6.824/笔记/Go",
-    "Projects/MIT 6.824/笔记/分布式系统/02 RFC and Threads",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708174721.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154552.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154354.png",
@@ -268,8 +270,6 @@
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708153434.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708124031.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708121427.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708120335.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708115151.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
