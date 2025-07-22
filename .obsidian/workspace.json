@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
+                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "理解生命周期的十个误区-博客阅读"
+              "title": "1.0 我们到底需不需要链表"
+            }
+          },
+          {
+            "id": "b965622d2cf0a342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 我们到底需不需要链表"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "5-8 docker run -it alpine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -199,8 +224,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -212,18 +237,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67fda9ee0cafb880",
+  "active": "b965622d2cf0a342",
   "lastOpenFiles": [
+    "Projects/Rust/projects/动手实现链表/资料/参考链接.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+    "Projects/Rust/projects/动手实现链表/资料",
+    "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
+    "Projects/简历&博客/模板参考.md",
+    "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
     "Projects/Rust/projects/README.md",
     "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
     "Projects/Rust/projects/未命名",
@@ -242,7 +273,6 @@
     "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
     "Projects/设计模式/23经典设计模式/结构型/桥接模式/1.0 基本概念.md",
     "Projects/设计模式/23经典设计模式/结构型/代理模式/1.0 代理模式.md",
-    "Projects/简历&博客/模板参考.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-8 端口映射.md",
     "Projects/简历&博客",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-7 EXPOSE.md",
@@ -254,14 +284,9 @@
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-3 apt-get.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6 构建镜像.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 Docker file.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-10 docker attach.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-9 -d.md",
     "Projects/Rust/projects/手写RPC/Rpc/序列化方式分析",
     "Projects/设计模式/23经典设计模式/结构型/桥接模式",
     "Projects/Rust/projects/手写RPC/如何设计一个RPC",
-    "Projects/Rust/projects/手写RPC/ChatGpt",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708174721.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154552.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154354.png",
