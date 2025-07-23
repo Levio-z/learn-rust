@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 如何分析、统计算法的执行效率和资源消耗"
+              "title": "0.0 Docker 原理"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/模式匹配/2 as_ref.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 as_ref"
+              "title": "0.0 Docker 原理"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "2 as_ref"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52e810d145bd7178",
+  "active": "b965622d2cf0a342",
   "lastOpenFiles": [
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 Docker file.md",
+    "Projects/Rust/note/模式匹配/2 as_ref.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/1 docker version.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-1 docker pull.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723221457.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214716.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214427.png",
@@ -255,13 +267,11 @@
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723212709.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts",
     "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
-    "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204505.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204439.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204332.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204253.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204133.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203900.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/Untitled.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts",
     "Projects/Rust/note/map/map 详解.md",
@@ -271,7 +281,6 @@
     "Projects/Rust/projects/动手实现链表/过程记录/3.6 实现IterMut.md",
     "Projects/Rust/projects/动手实现链表/过程记录/3.5 实现iter.md",
     "Projects/Rust/note/生命周期/生命周期-基础.md",
-    "Projects/Rust/note/模式匹配/2 as_ref.md",
     "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
     "Projects/Rust/note/生命周期/'static 生命周期.md",
     "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
@@ -280,14 +289,6 @@
     "Projects/Rust/projects/动手实现链表/过程记录/2.5 测试.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.1 基本内存布局.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.2 新增功能.md",
-    "Projects/Rust/note/自动解引用机制/自动解引用.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.3 Peek.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.4 实现迭代.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.2 让它更通用.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.4 pop.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.1使用Option.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.0 还算ok的单向链表.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.7 最终代码.md",
     "Projects/Rust/note/模式匹配",
     "Projects/Rust/note/所有权",
     "Areas/Rust/Rust/5.结构体/Untitled",
