@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+                "file": "Projects/Rust/note/模式匹配/2 ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 我们到底需不需要链表"
+              "title": "2 ref"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
+                "file": "Projects/Rust/note/模式匹配/2 ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 我们到底需不需要链表"
+              "title": "2 ref"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
+                "file": "Projects/Rust/note/模式匹配/2 ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5-8 docker run -it alpine"
+              "title": "2 ref"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 289.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -247,46 +247,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b965622d2cf0a342",
+  "active": "8a48b428f33ee08e",
   "lastOpenFiles": [
-    "Projects/Rust/projects/动手实现链表/资料/参考链接.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/1.0 我们到底需不需要链表.md",
-    "Projects/Rust/projects/动手实现链表/资料",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.5 测试.md",
+    "Projects/Rust/note/模式匹配/2 ref.md",
+    "Projects/Rust/note/自动解引用机制/as_ref 剖析.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.5 实现iter.md",
+    "Projects/Rust/note/自动解引用机制/as_deref && as_deref_mut.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.1 基本内存布局.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.2 新增功能.md",
+    "Projects/Rust/note/自动解引用机制/自动解引用.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.3 Peek.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.4 实现迭代.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.2 让它更通用.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.4 pop.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.1使用Option.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.0 还算ok的单向链表.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.0 单向链表.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.7 最终代码.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.6 Drop.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.3 push.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
     "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
-    "Projects/简历&博客/模板参考.md",
-    "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
-    "Projects/Rust/projects/README.md",
-    "Projects/Rust/projects/在 Rust 中实现 TCP/TCP/资料.md",
+    "Projects/Rust/note/模式匹配/1 模式匹配会move.md",
+    "Projects/Rust/note/模式匹配",
+    "Projects/Rust/projects/动手实现链表/ChatGPT/4 pub 结构体 和 pub 枚举的可变性.md",
+    "Areas/Rust/Rust/5.结构体/1.6.4 关联方法.md",
+    "Projects/Rust/note/所有权/1 从可变借用中怎么移出字段.md",
+    "Projects/Rust/note/所有权",
+    "Areas/Rust/Rust/5.结构体/1.6.1 第一个参数必须为self.md",
+    "Areas/Rust/Rust/5.结构体/1.6 方法语法.md",
+    "Areas/Rust/Rust/5.结构体/Untitled",
+    "Areas/Rust/Rust/5.结构体",
+    "Projects/Rust/projects/动手实现链表/资料",
     "Projects/Rust/projects/未命名",
-    "Projects/MIT 6.824/资料.md",
-    "Areas/basic/系统设计/具体业务场景/任务调度系统/01 Google TechLead系统设计 - 任务调度系统.md",
     "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714142220.png",
     "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714135226.png",
     "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts",
-    "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.1 Java IO设计.md",
-    "Areas/basic/系统设计/具体业务场景/未命名.md",
     "Areas/basic/系统设计/具体业务场景/任务调度系统",
-    "Areas/basic/系统设计/未命名.md",
     "Areas/basic/系统设计/具体业务场景",
     "Areas/basic/系统设计",
-    "Areas/basic/未命名.md",
-    "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
-    "Projects/设计模式/23经典设计模式/结构型/桥接模式/1.0 基本概念.md",
-    "Projects/设计模式/23经典设计模式/结构型/代理模式/1.0 代理模式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-8 端口映射.md",
-    "Projects/简历&博客",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-7 EXPOSE.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-6 COPY.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-5 WORKDIR.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-2 jupyter_sample.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-1docker build.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-4 pip.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-3 apt-get.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6 构建镜像.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 Docker file.md",
-    "Projects/Rust/projects/手写RPC/Rpc/序列化方式分析",
-    "Projects/设计模式/23经典设计模式/结构型/桥接模式",
-    "Projects/Rust/projects/手写RPC/如何设计一个RPC",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708174721.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154552.png",
     "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154354.png",
