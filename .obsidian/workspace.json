@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/模式匹配/2 ref.md",
+                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 ref"
+              "title": "1.0 启动会"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/模式匹配/2 ref.md",
+                "file": "Projects/Rust/note/模式匹配/2 as_ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 ref"
+              "title": "2 as_ref"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/模式匹配/2 ref.md",
+                "file": "Projects/Rust/note/模式匹配/2 as_ref.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 ref"
+              "title": "2 as_ref"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 340.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -247,13 +246,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a48b428f33ee08e",
+  "active": "52e810d145bd7178",
   "lastOpenFiles": [
-    "Projects/Rust/projects/动手实现链表/过程记录/2.5 测试.md",
-    "Projects/Rust/note/模式匹配/2 ref.md",
-    "Projects/Rust/note/自动解引用机制/as_ref 剖析.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204505.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204439.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204332.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204253.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204133.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203900.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203740.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203652.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203527.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203452.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203341.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/Untitled.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts",
+    "Projects/Rust/note/map/map 详解.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.0 单向链表.md",
+    "Projects/Rust/note/map",
+    "Projects/Rust/projects/动手实现链表/过程记录/3.6 实现IterMut.md",
     "Projects/Rust/projects/动手实现链表/过程记录/3.5 实现iter.md",
+    "Projects/Rust/note/生命周期/生命周期-基础.md",
+    "Projects/Rust/note/模式匹配/2 as_ref.md",
+    "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
+    "Projects/Rust/note/生命周期/'static 生命周期.md",
+    "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
+    "Projects/Rust/note/自动解引用机制/as_ref 剖析.md",
     "Projects/Rust/note/自动解引用机制/as_deref && as_deref_mut.md",
+    "Projects/Rust/projects/动手实现链表/过程记录/2.5 测试.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.1 基本内存布局.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.2 新增功能.md",
     "Projects/Rust/note/自动解引用机制/自动解引用.md",
@@ -263,38 +285,15 @@
     "Projects/Rust/projects/动手实现链表/过程记录/2.4 pop.md",
     "Projects/Rust/projects/动手实现链表/过程记录/3.1使用Option.md",
     "Projects/Rust/projects/动手实现链表/过程记录/3.0 还算ok的单向链表.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.0 单向链表.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.7 最终代码.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.6 Drop.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.3 push.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-8 docker run -it alpine.md",
-    "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
-    "Projects/Rust/note/模式匹配/1 模式匹配会move.md",
     "Projects/Rust/note/模式匹配",
-    "Projects/Rust/projects/动手实现链表/ChatGPT/4 pub 结构体 和 pub 枚举的可变性.md",
-    "Areas/Rust/Rust/5.结构体/1.6.4 关联方法.md",
-    "Projects/Rust/note/所有权/1 从可变借用中怎么移出字段.md",
     "Projects/Rust/note/所有权",
-    "Areas/Rust/Rust/5.结构体/1.6.1 第一个参数必须为self.md",
-    "Areas/Rust/Rust/5.结构体/1.6 方法语法.md",
     "Areas/Rust/Rust/5.结构体/Untitled",
     "Areas/Rust/Rust/5.结构体",
     "Projects/Rust/projects/动手实现链表/资料",
     "Projects/Rust/projects/未命名",
-    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714142220.png",
-    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts/Pasted image 20250714135226.png",
     "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts",
-    "Areas/basic/系统设计/具体业务场景/任务调度系统",
-    "Areas/basic/系统设计/具体业务场景",
-    "Areas/basic/系统设计",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708174721.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154552.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154354.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708154301.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708153828.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708153434.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708124031.png",
-    "Projects/MIT 6.824/笔记/分布式系统/asserts/Pasted image 20250708121427.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]

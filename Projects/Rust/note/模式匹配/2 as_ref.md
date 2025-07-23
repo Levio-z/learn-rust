@@ -1,3 +1,19 @@
+### 源码
+```rust
+    pub const fn as_ref(&self) -> Option<&T> {
+
+        match *self {
+
+            Some(ref x) => Some(x),
+
+            None => None,
+
+        }
+
+    }
+```
+
+
 ```rust
 Some(ref x) => Some(x)
 ```
@@ -26,3 +42,5 @@ pub const fn as_ref(&self) -> Option<&T> {
 - `*self` 解引用一次变成 `Option<T>`
 - `Some(ref x)` 不 move `T`，而是构造 `&T`
 - `Some(x)` 返回的是 `Option<&T>`
+
+这是 `Option<T>` 提供的非常经典的 `as_ref()` 方法实现方式：把一个 `Option<T>` 转成一个 `Option<&T>`。

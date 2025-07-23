@@ -1,5 +1,19 @@
-`as_deref` 和 `as_deref_mut` 是 Rust 标准库中 `Option` 类型提供的两个便捷方法，从 **Rust 1.40** 开始稳定。
+### 源码
+```rust
+    pub fn as_deref(&self) -> Option<&T::Target>
 
+    where
+
+        T: Deref,
+
+    {
+
+        self.as_ref().map(|t| t.deref())
+    }
+```
+
+`as_deref` 和 `as_deref_mut` 是 Rust 标准库中 `Option` 类型提供的两个便捷方法，从 **Rust 1.40** 开始稳定。
+[2 as_ref](../模式匹配/2%20as_ref.md)
 它们的设计初衷是：  
 
 让你**更方便地将 `Option<T>` 转换为 `Option<&U>` 或 `Option<&mut U>`，其中 `T: Deref<Target = U>`**，即适用于如 `Box<T>`、`Rc<T>`、`Arc<T>`、`String`、`Vec<T>` 这样的智能指针或拥有类似行为的类型。
