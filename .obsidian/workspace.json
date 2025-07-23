@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
+                "file": "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 启动会"
+              "title": "03 如何分析、统计算法的执行效率和资源消耗"
             }
           },
           {
@@ -248,19 +248,21 @@
   },
   "active": "52e810d145bd7178",
   "lastOpenFiles": [
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723221457.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214716.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214427.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214406.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723212709.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
+    "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204505.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204439.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204332.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204253.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204133.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203900.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203740.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203652.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203527.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203452.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723203341.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/Untitled.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts",
     "Projects/Rust/note/map/map 详解.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营",
@@ -286,14 +288,12 @@
     "Projects/Rust/projects/动手实现链表/过程记录/3.1使用Option.md",
     "Projects/Rust/projects/动手实现链表/过程记录/3.0 还算ok的单向链表.md",
     "Projects/Rust/projects/动手实现链表/过程记录/2.7 最终代码.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.6 Drop.md",
     "Projects/Rust/note/模式匹配",
     "Projects/Rust/note/所有权",
     "Areas/Rust/Rust/5.结构体/Untitled",
     "Areas/Rust/Rust/5.结构体",
     "Projects/Rust/projects/动手实现链表/资料",
     "Projects/Rust/projects/未命名",
-    "Areas/basic/系统设计/具体业务场景/任务调度系统/asserts",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
