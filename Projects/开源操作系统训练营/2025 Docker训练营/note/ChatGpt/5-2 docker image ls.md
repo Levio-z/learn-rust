@@ -64,6 +64,7 @@ docker image ls nginx
 
 #### 6️⃣ 自定义输出格式
 
+##### 6.1 表格显示
 ```bash
 docker image ls --format "table {{.Repository}}\t{{.Tag}}\t{{.Size}}"
 ```
@@ -75,6 +76,36 @@ REPOSITORY      TAG         SIZE
 nginx           latest      142MB
 ubuntu          20.04       72MB
 ```
+##### 6.2 一行显示
+
+```
+docker image ls --format "{{.ID}} created {{.CreatedSince}}"
+```
+
+输出示例
+```
+4bcff63911fc created 8 days ago
+```
+##### 6.3 脚本用法
+```
+docker image ls nginx --format "{{.ID}}"
+
+```
+配合清理命令：
+```
+docker rmi $(docker image ls nginx --format "{{.ID}}")
+```
+##### 6.4 自定义为 CSV 格式（用于导出分析）
+```
+docker image ls --format "{{.Repository}},{{.Tag}},{{.Size}}" > images.csv
+```
+生成内容示例：
+```
+nginx,latest,133MB
+ubuntu,20.04,72MB
+```
+
+
 
 #### 7️⃣ 只输出镜像 ID（用于脚本处理）
 
