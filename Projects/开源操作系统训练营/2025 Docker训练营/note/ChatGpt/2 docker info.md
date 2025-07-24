@@ -76,12 +76,12 @@ Client:
 
 ```
 
-|字段|含义|
-|---|---|
-|`Version`|Docker CLI 的版本。`26.1.3` 是目前非常新的稳定版。|
-|`Context`|当前使用的连接上下文，`default` 说明本地连接默认 Docker 守护进程。|
-|`Debug Mode`|是否开启调试日志模式（`false` 表示未开启）。|
-|`Plugins`|CLI 插件列表：  <br>① `buildx`：构建增强插件，支持多平台构建（比如 `--platform=linux/arm64`）  <br>② `compose`：用于 `docker compose` 指令，管理多容器应用。|
+| 字段           | 含义                                                                                                                     |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| `Version`    | Docker CLI 的版本。`26.1.3` 是目前非常新的稳定版。                                                                                    |
+| `Context`    | 当前使用的连接上下文，`default` 说明本地连接默认 Docker 守护进程。                                                                             |
+| `Debug Mode` | 是否开启调试日志模式（`false` 表示未开启）。                                                                                             |
+| `Plugins`    | CLI 插件列表：  <br>① `buildx`：构建增强插件，支持多平台构建（比如 `--platform=linux/arm64`）  <br>② `compose`：用于 `docker compose` 指令，管理多容器应用。 |
 二、Server 信息解析（重点）
 
 1. 容器与镜像信息
@@ -104,14 +104,14 @@ Storage Driver: overlay2
 
 这是容器文件系统的关键组成，解释如下：
 
-|字段|含义|
-|---|---|
-|`overlay2`|推荐使用的联合挂载驱动，性能和兼容性都较好。|
-|`xfs`|宿主机底层文件系统是 `xfs`，在大规模服务器上常用，适合高并发写入。|
-|`Supports d_type`|表示支持区分文件类型（必要条件），值为 `true` 正常。|
-|`Using metacopy`|`true` 表示优化了元数据复制过程，提高构建/启动速度。|
-|`Native Overlay Diff`|`false` 表示未启用本地 Diff 模式，通常不影响使用。|
-|`userxattr`|是否启用用户扩展属性。值为 `false` 表示不支持，如需安全模块可启用。|
+| 字段                    | 含义                                     |
+| --------------------- | -------------------------------------- |
+| `overlay2`            | 推荐使用的联合挂载驱动，性能和兼容性都较好。                 |
+| `xfs`                 | 宿主机底层文件系统是 `xfs`，在大规模服务器上常用，适合高并发写入。   |
+| `Supports d_type`     | 表示支持区分文件类型（必要条件），值为 `true` 正常。         |
+| `Using metacopy`      | `true` 表示优化了元数据复制过程，提高构建/启动速度。         |
+| `Native Overlay Diff` | `false` 表示未启用本地 Diff 模式，通常不影响使用。       |
+| `userxattr`           | 是否启用用户扩展属性。值为 `false` 表示不支持，如需安全模块可启用。 |
 
 
 4. 日志与 Cgroup
@@ -149,11 +149,11 @@ Init Binary: docker-init
 
 ```
 
-|字段|含义|
-|---|---|
-|`Swarm: inactive`|Swarm 容器编排模式未启用（和 Kubernetes 类似，但不流行了）。|
-|`runc`|Docker 默认使用的 OCI 容器运行时，负责真正的 `chroot + namespace` 隔离等。|
-|`docker-init`|容器内的第一个进程，负责处理孤儿子进程等（PID 1 问题）。|
+| 字段                | 含义                                                     |
+| ----------------- | ------------------------------------------------------ |
+| `Swarm: inactive` | Swarm 容器编排模式未启用（和 Kubernetes 类似，但不流行了）。                |
+| `runc`            | Docker 默认使用的 OCI 容器运行时，负责真正的 `chroot + namespace` 隔离等。 |
+| `docker-init`     | 容器内的第一个进程，负责处理孤儿子进程等（PID 1 问题）。                        |
 7. 运行环境信息
 ```
 Kernel Version: 5.4.241-1-tlinux4-0017.16

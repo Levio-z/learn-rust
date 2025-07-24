@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.1.1 常用命令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0.0 Docker 原理"
+              "title": "2.1.1 常用命令"
+            }
+          },
+          {
+            "id": "cdd3c6dbb13309b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2 docker image ls.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5-2 docker image ls"
             }
           },
           {
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0.0 Docker 原理"
+              "title": "1.0 基本概念"
             }
           },
           {
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/note/模式匹配/2 as_ref.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.1 Docker基础.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +100,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 as_ref"
+              "title": "2.1 Docker基础"
+            }
+          },
+          {
+            "id": "7b7e4e117dd22000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.1.1 常用命令.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.1.1 常用命令"
+            }
+          },
+          {
+            "id": "02ce9ab8bf5dfbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2-1 中间层镜像.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5-2-1 中间层镜像"
             }
           }
         ],
@@ -247,18 +319,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b965622d2cf0a342",
+  "active": "cdd3c6dbb13309b4",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 Docker file.md",
-    "Projects/Rust/note/模式匹配/2 as_ref.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2-2 摘要是什么.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2 docker image ls.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.1.1 常用命令.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-1 docker pull.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-2-1 中间层镜像.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-3 docker run alphine ls -a.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5 实践案例-运行 Alpine Linux 容器.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 原理.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 Docker基础.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.1 Docker基础.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/2 docker info.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.4 Docker底层原理.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 基本概念.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.2 Docker file.md",
+    "Projects/Rust/note/模式匹配/2 as_ref.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724081651.png",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.2 Docker的理念、目标、功能模块.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.3 VS 传统解决方案.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.1 Docker为什么出现.md",
+    "Areas/basic/DevOps/基本概念/1.0 DevOps.md",
+    "Areas/basic/DevOps/基本概念",
+    "Areas/basic/DevOps",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/1 docker version.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-1 docker pull.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
     "Projects/算法和数据结构/算法与数据结构概览/03 如何分析、统计算法的执行效率和资源消耗.md",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723221457.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214716.png",
@@ -266,35 +357,16 @@
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723214406.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250723212709.png",
     "Projects/算法和数据结构/算法与数据结构概览/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204505.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204439.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204332.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204253.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/asserts/Pasted image 20250723204133.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/Untitled.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/asserts",
-    "Projects/Rust/note/map/map 详解.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.0 单向链表.md",
     "Projects/Rust/note/map",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.6 实现IterMut.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/3.5 实现iter.md",
-    "Projects/Rust/note/生命周期/生命周期-基础.md",
-    "Projects/Rust/note/生命周期/理解生命周期的十个误区-博客阅读.md",
-    "Projects/Rust/note/生命周期/'static 生命周期.md",
-    "Projects/Rust/projects/动手实现链表/ChatGPT/侵入式链表.md",
-    "Projects/Rust/note/自动解引用机制/as_ref 剖析.md",
-    "Projects/Rust/note/自动解引用机制/as_deref && as_deref_mut.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.5 测试.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.1 基本内存布局.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.2 新增功能.md",
     "Projects/Rust/note/模式匹配",
     "Projects/Rust/note/所有权",
     "Areas/Rust/Rust/5.结构体/Untitled",
-    "Areas/Rust/Rust/5.结构体",
-    "Projects/Rust/projects/动手实现链表/资料",
-    "Projects/Rust/projects/未命名",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
