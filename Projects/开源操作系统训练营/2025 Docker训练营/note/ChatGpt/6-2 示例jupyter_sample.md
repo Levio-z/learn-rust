@@ -96,11 +96,11 @@ RUN apt-get update && \
 * `apt-get update`: 更新包索引。
     
 * `apt-get install`: 安装 `curl`，用于网络请求、调试等。
-    
-* `--no-install-recommends`: 避免安装不必要的依赖，减小镜像体积。
+	- `-y` 是 `apt-get install` 命令的一个选项，其含义是：
+	* `--no-install-recommends`: 避免安装不必要的依赖，减小镜像体积。
     
 * `rm -rf /var/lib/apt/lists/*`: 删除缓存，**进一步瘦身**，是最佳实践。
-- `-y` 是 `apt-get install` 命令的一个选项，其含义是：
+
 > **自动确认所有提示（自动回答 yes）**。
 
 #### 💡 延伸
@@ -204,14 +204,14 @@ CMD ["jupyter", "lab", "--ip=0.0.0.0", "--allow-root", "--no-browser", "--Notebo
 
 #### 🧠 分段解释：
 
-| 参数 | 作用 |
-| --- | --- |
-| `jupyter lab` | 启动 JupyterLab 而非经典 Notebook |
-| `--ip=0.0.0.0` | 绑定所有网络接口（容器外可访问） |
-| `--allow-root` | 允许以 root 用户运行 Jupyter（容器默认即 root） |
-| `--no-browser` | 启动时不自动打开浏览器（容器内无 GUI） |
-| `--NotebookApp.token=''` | 关闭 token 登录认证（开发调试用） |
-| `--NotebookApp.disable_check_xsrf=True` | 关闭 CSRF 校验（降低安全性，仅适用于内网/测试） |
+| 参数                                      | 作用                                |
+| --------------------------------------- | --------------------------------- |
+| `jupyter lab`                           | 启动 JupyterLab 而非经典 Notebook       |
+| `--ip=0.0.0.0`                          | 绑定所有网络接口（容器外可访问）                  |
+| `--allow-root`                          | 允许以 root 用户运行 Jupyter（容器默认即 root） |
+| `--no-browser`                          | 启动时不自动打开浏览器（容器内无 GUI）             |
+| `--NotebookApp.token=''`                | 关闭 token 登录认证（开发调试用）              |
+| `--NotebookApp.disable_check_xsrf=True` | 关闭 CSRF 校验（降低安全性，仅适用于内网/测试）       |
 
 #### ⚠️ 安全建议
 
