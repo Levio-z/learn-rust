@@ -5,7 +5,7 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./asserts",
   "useMarkdownLinks": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": true,
   "rightToLeft": false,
   "showUnsupportedFiles": true

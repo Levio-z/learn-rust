@@ -1,0 +1,1 @@
+Rust 中，`Option<T>` 实现了 `Clone` trait，前提是 `T: Clone`，而这里的 `T` 是 `Rc<Node<T>>`，而 `Rc` 本身实现了 `Clone`，所以整个结构是可 clone 的。

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习/练习 3：Rust 多阶段构建.md",
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.1.1 Docker基础常用命令.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "练习 3：Rust 多阶段构建"
+              "title": "2.1.1 Docker基础常用命令"
+            }
+          },
+          {
+            "id": "4c286e6919c1ba1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/1.1 什么是RAG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.1 什么是RAG"
+            }
+          },
+          {
+            "id": "4327ef96f91e1947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2.1.2 关于主用户.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.2.1.2 关于主用户"
+            }
+          },
+          {
+            "id": "9e8590c3019744fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.2.4 场景二：案例2使用Volume管理mysql.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.1.2.4 场景二：案例2使用Volume管理mysql"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +127,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -88,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 210.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -188,64 +261,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f499b69fb8a7c47d",
+  "active": "4c286e6919c1ba1d",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习/练习 2：Python 应用构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习/练习 3：Rust 多阶段构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习/Untitled",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习/练习 1：基础镜像和命令使用.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-13 rmi 删除镜像.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.1.1 Docker基础常用命令.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.1 Docker基础.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.0 如何使用Docker.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/7-4 Dockerfile 使用 USER 指令切换用户怎么使用.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/02 docker镜像构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/基础阶段练习",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/基础阶段/视频/01 docker.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.2 课程资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/6-15 环境变量动态配置.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.1 开营仪式.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/1.0 资料.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-2-3 多阶段构建.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2.3 多阶段构建详解.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-14 history.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2.1 Docker file 常用命令.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/6-1 docker build.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/1.1 什么是RAG.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/1.0 RAG基本资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/Untitled.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/1.1 什么是RAG.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/1.0 资料.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/2.0 task.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/案例/1.0 基础 使用 Docker Volume 持久化 MySQL.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.1 文件存储常见命令.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.2 实际案例.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.2.3 场景三：使用 Bind Mount.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/案例/练习 1：基础镜像和命令使用.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/案例/练习 2：Python 应用构建（Python模板）.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/案例/练习 3：Rust 多阶段构建.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/3.3.2.1 YAML文件结构和启动流程.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/5-14 查看日志.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.2.4 场景二：案例2使用Volume管理mysql.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储/3.1.2.5 场景三：使用 Bind Mounts 运行 DeepSeek-R1.md",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2 Docker file.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 基本概念/1.0 基本概念.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控/3.4.1 容器生命周期管理.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控/3.4.4 实践练习 使用 Portainer 对 docker 进行可视化管理.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控/3.4.3 容器日志与调试.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控/3.4.2 容器资源监控.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控/3.4 监控.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.4 监控",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.2.0 网络管理详解",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.1.0 文件存储",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/1.0 基本概念",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/0.0 Docker 基本原理",
+    "golang_sample/main.go.md",
+    "golang_sample",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/chatgpt/1.0 脚本文件自动执行.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/chatgpt/2.0 挂在卷.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/案例",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.2.0 网络管理详解/3.2.0 网络管理详解.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.0 进阶.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/案例",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2.3 多阶段构建详解.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/2.0 如何使用Docker/2.2.1.3 docker镜像构建层缓存.md",
+    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/3.0 进阶/3.3 Docker compose/chatgpt",
+    "Areas/book/Rust/Rust程序设计/Chapter 02/Untitled",
+    "Projects/Rust/note/枚举类型",
+    "Areas/book/Rust/Rust程序设计/Chapter 02/asserts/Pasted image 20250726155954.png",
+    "Areas/book/Rust/Rust程序设计/Chapter 02/asserts",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204931.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204400.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204234.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204209.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725201356.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725200237.png",
+    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725200026.png",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250725110238.png",
     "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250725110232.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724185138.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724184724.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724184614.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/ChatGpt/asserts/Pasted image 20250724184503.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724183547.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724165948.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724165814.png",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/asserts/Pasted image 20250724141942.png",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
