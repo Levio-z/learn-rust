@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 899.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +185,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "67fda9ee0cafb880",
   "lastOpenFiles": [
     "Areas/basic/Docker/Docker/README.md",
     "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/README.md",
