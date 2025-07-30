@@ -11,10 +11,24 @@
             "id": "468a464ead98b4ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/Git/Pro Git/3.0 分支/3.1.6 远程分支.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "3.1.6 远程分支"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rust",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 406.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -170,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,54 +199,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "67fda9ee0cafb880",
+  "active": "468a464ead98b4ae",
   "lastOpenFiles": [
-    "Areas/basic/Docker/Docker/README.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/README.md",
-    "4.0%20项目实战/RAG%20智能问答系统容器化实践/README.md",
-    "4.0%20项目实战/RAG%20智能问答系统容器化实践",
-    "4.0%20项目实战",
-    "Areas/basic/Docker/asserts/Pasted image 20250630024929.png",
-    "jupyter_sample/Dockerfile.md",
-    "golang_sample/main.go.md",
-    "Areas/basic/Docker/Archive",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/1.0 资料.md",
-    "Areas/basic/Docker",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/1.1 开营仪式.md",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/1.2 课程资料.md",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/01 docker.md",
-    "Areas/basic/Docker/Archive/Project",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/02 docker镜像构建.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/任务/1.0 task.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/任务",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/1.1 什么是RAG.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/运行/1. 运行.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/过程记录/3.0 运行项目.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/CICD/1.0 上传文件.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/过程记录/1.0 配置文件分析/1. env配置文件.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/过程记录/1.0 配置文件分析",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/过程记录/2.0 尝试定义ollama服务dockefile/2.1 模型配置.md",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/过程记录/2.0 尝试定义ollama服务dockefile/1 ollama.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/文件分析/4.0 ci 自动打包镜像上传.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/文件分析/1. docker文件分析.md",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/文件分析/4.0 ci 自动打包镜像上传",
-    "Projects/开源操作系统训练营/2025 Docker训练营/note/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/过程记录/从镜像启动服务/1.0 从镜像启动.md",
-    "Areas/basic/Docker/Docker/3.0 进阶/3.3 Docker compose/3.3.2 如何使用/3.3.2.1 YAML文件结构和启动流程.md",
-    "Areas/basic/Docker/Docker/3.0 进阶/3.3 Docker compose/3.3.0 Docker compose.md",
-    "Areas/basic/Docker/Docker/3.0 进阶/3.3 Docker compose/3.3.2 如何使用/3.3.2.2 常用命令与实战演示.md",
-    "Areas/basic/Docker/Docker/2.0 如何使用Docker/2.3其他/2.3.1 从容器创建镜像.md",
-    "Areas/basic/Docker/Docker/3.0 进阶/3.3 Docker compose/案例/1.0 实践项目：使用 docker compose 构建 Todo 应用.md",
-    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250728214019.png",
-    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250728212405.png",
-    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250728212227.png",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/asserts/Pasted image 20250728092607.png",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/asserts/Pasted image 20250728092335.png",
-    "Areas/basic/Docker/Docker/4.0 项目实战/RAG 智能问答系统容器化实践/什么是RAG/asserts/Pasted image 20250728092326.png",
-    "Areas/book/Rust/Rust程序设计/Chapter 02/asserts/Pasted image 20250726155954.png",
-    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204931.png",
-    "Projects/算法和数据结构/算法与数据结构概览/asserts/Pasted image 20250725204400.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.1.5 分支开发工作流.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730213547.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730213444.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730211233.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.1.4 分支管理（查看与删除）.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.1.3 分支的新建与合并.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730204334.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730204240.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730204115.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730203830.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730203756.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730203722.png",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.1.2 分支切换.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.1.1 分支创建.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.0.1 分支概念.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/3.0 分支简介.md",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt/4 git分支.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.3 查看提交历史.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/变基.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.5 跳过使用暂存区域.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.4 git commit 提交更新.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.3 git diff.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.2 状态简览.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.1 git status.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.2.6 移除文件.md",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt/3 Git 内部对象模型.md",
+    "Areas/basic/Git/Pro Git/4.0 专题/4.1 `.gitignore`/4.2 示例.md",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt/5 tree对象的数据结构.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/1.0.1 详解.md",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt/2 原理.md",
+    "Areas/basic/Git/Pro Git/99.0 Chatgpt/1 Git 编辑器.md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/1..md",
+    "Areas/basic/Git/Pro Git/3.0 分支/asserts/Pasted image 20250730195727.png",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.4 撤消操作.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.7 Git 别名.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.6 打标签.md",
+    "Areas/basic/Git/Pro Git/2.0 Git 基础/未命名",
+    "Areas/basic/Git/Pro Git/4.0 专题/4.1 `.gitignore`",
+    "Areas/basic/Git/Pro Git/4.0 专题",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/小甲鱼",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learncpp.com",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/项目",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/讲义",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
