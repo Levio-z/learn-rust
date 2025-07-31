@@ -1,11 +1,11 @@
 
-### 已学习内容
-- [ ] 起步
-- [ ] Git基础
-- [ ] Git分支
-- [ ] 服务器上的Git
-- [ ] 分布式Git
-- [ ] Github
+### Todo
+- [x] 起步
+- [x] Git基础
+- [x] Git分支
+- [x] 服务器上的Git
+- [x] 分布式Git
+- [x] Github
 - [ ] Git工具
 - [ ] 自定义Git
 - [ ] Git与其他系统
