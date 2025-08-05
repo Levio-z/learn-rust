@@ -44,3 +44,15 @@ pub const fn as_ref(&self) -> Option<&T> {
 - `Some(x)` 返回的是 `Option<&T>`
 
 这是 `Option<T>` 提供的非常经典的 `as_ref()` 方法实现方式：把一个 `Option<T>` 转成一个 `Option<&T>`。
+
+### 智能指针
+- 智能指针（如 `Rc<T>`、`Box<T>`、`Arc<T>`）解引用的结果类型通常是 `&T`
+- 这是因为这些智能指针都实现了：
+```
+impl<T> Deref for Rc<T> {
+    type Target = T;
+    fn deref(&self) -> &T {
+        ...
+    }
+}
+```

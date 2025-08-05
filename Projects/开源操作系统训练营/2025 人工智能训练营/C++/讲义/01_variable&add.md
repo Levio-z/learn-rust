@@ -1,3 +1,4 @@
+> READ: 运算符 <https://zh.cppreference.com/w/cpp/language/expressions#.E8.BF.90.E7.AE.97.E7.AC.A6>
 第二题是变量定义。
 
 做题还是非常容易的，随便给 x 一个定义就好。C++ 能出现的所有运算符见 [cppreference](https://zh.cppreference.com/w/cpp/language/expressions#.E8.BF.90.E7.AE.97.E7.AC.A6)。它们的优先级在这里列出了，大家可以自行学习。我们看到其中有两个算术运算符 `<<` 左移和 `>>` 右移，它们具有比计算更低的优先级，但是具有比比较和其他位运算更高的优先级，这意味着什么呢？

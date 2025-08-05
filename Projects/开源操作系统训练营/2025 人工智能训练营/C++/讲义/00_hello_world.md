@@ -65,3 +65,8 @@ xmake run learn 0 2>err.txt      # 输出流到控制台，错误流到文件
 ```
 
 好的，跟 C++ 输出相关的内容就讲这么多。标准输入流 `std::cin` 在我们的项目里完全用不到，这里就不讲了，需要的同学可以到 [cppreference](https://zh.cppreference.com/w/cpp/io/cin) 自学。
+
+### 参考
+- [x] READ: std streams <https://zh.cppreference.com/w/cpp/io/c/std_streams>
+- [x] READ: 流修饰符 <https://zh.cppreference.com/w/cpp/io/manip>
+- [x] READ: format in cxx20 <https://zh.cppreference.com/w/cpp/utility/format/format>
