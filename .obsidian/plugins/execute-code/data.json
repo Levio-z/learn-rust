@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "rust",
+  "lastOpenLanguageTab": "cpp",
   "releaseNote2_1_0wasShowed": true,
   "persistentOuput": false,
   "timeout": 10000,
@@ -97,8 +97,8 @@
   "cppFileExtension": "cpp",
   "cppInject": "",
   "cppArgs": "",
-  "cppUseMain": false,
-  "clingPath": "cling",
+  "cppUseMain": true,
+  "clingPath": "C:/Program Files/root_v6.36.02/bin/rootcling.exe",
   "clingArgs": "",
   "clingStd": "c++17",
   "rustFileExtension": "rs",

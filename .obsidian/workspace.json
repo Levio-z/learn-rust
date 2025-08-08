@@ -4,89 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e59fd5aacb192964",
+        "id": "97c6126e9cb85bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "468a464ead98b4ae",
+            "id": "4e1b87071b9de3a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/变量/赋值/1 定义.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1 定义"
-            }
-          },
-          {
-            "id": "29a5a569f1e44ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/前向传播的过程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "前向传播的过程"
-            }
-          },
-          {
-            "id": "1c6884239a675e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/简历&博客/al-folio/config/2.0 博客设置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.0 博客设置"
-            }
-          },
-          {
-            "id": "c9165344966a57de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Rust/note/智能指针/rc/1 try_unwrap.md",
-                "mode": "source",
+                "file": "Projects/算法和数据结构/算法与数据结构概览/4-队列/1.0 概念/1.2.0 基本实现.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 try_unwrap"
+              "title": "1.2.0 基本实现"
             }
           },
           {
-            "id": "41db3da31aa3e48f",
+            "id": "ff783189dcc0e7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/Git/Pro Git/5.0 服务器上的git/5.1 协议.md",
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/1.0 概念/1.2 经典问题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.1 协议"
+              "title": "1.2 经典问题"
             }
           },
           {
-            "id": "7926938c68e5c8c8",
+            "id": "fb8b8fad092eb539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/Git/Pro Git/5.0 服务器上的git/5.1 协议.md",
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/1.0 概念/1.0 概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +76,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.1 协议"
+              "title": "1.0 概念"
+            }
+          },
+          {
+            "id": "ce378e0dafa5207d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/1.0 概念/1.0 概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.0 概念"
+            }
+          },
+          {
+            "id": "35ecddf6278a21ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/2.0 使用/2.0 使用.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 使用"
+            }
+          },
+          {
+            "id": "22d813c385b6370d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/2.0 使用/2.0 使用.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 使用"
+            }
+          },
+          {
+            "id": "749352d9ae956a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/算法和数据结构/算法与数据结构概览/5-递归/2.0 使用/2.1.0 如何编写递归代码.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.1.0 如何编写递归代码"
+            }
+          },
+          {
+            "id": "c1b5077c1ccd7188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.6 元数据.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.6 元数据"
+            }
+          },
+          {
+            "id": "a7b71be5b2b95837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/1.2.2 插入排序.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.2.2 插入排序"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Deref",
+                "query": "链表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 375.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -320,54 +392,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "29a5a569f1e44ba6",
+  "active": "a7b71be5b2b95837",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805180635.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805180415.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805180001.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805175850.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/损失函数.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/前向传播的过程.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805175539.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805175530.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805175504.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/梯度是什么.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/梯度下降法.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805175220.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/1 训练基础介绍.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/神经网络的基本结构.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts/Pasted image 20250805170616.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/01 AI模型推理基础原理.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/资料.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/1.0 启动会.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/未命名",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/基础概念",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/作业.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/asserts/Pasted image 20250805165855.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/作业/题目.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/作业/asserts/Pasted image 20250805160443.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/作业/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/作业",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/进度/进度.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/模板/模板.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/进度",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/修饰符/expect.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/1 定义.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/函数声明/函数声明详解.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/修饰符/什么是 `cv-qualification`.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/容器/容器的构造/STL：能安全地移动就移动，否则退回复制.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/修饰符/ref-qualification.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/修饰符/`attr`.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/QA.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/讲义/02_function.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/变量/赋值/1 定义.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808224151.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808223927.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808223756.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/1.2.1 冒泡排序.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/1.2.2 插入排序.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808223209.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808223100.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808221108.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808221044.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808220953.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作/4.5 过期副本检测.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作/4.4 垃圾搜集.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作/4.3 创建、重新复制、再平衡.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/03 实现.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/02 编程模型.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/01 简介.md",
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/00 MapReduce.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作/4.2 副本放置.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作/4.1 命名空间管理和锁定.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.4 快照.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.3 原子记录附加.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.2 数据流.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.1 租约和变更顺序.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/asserts/Pasted image 20250808212300.png",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/asserts",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/3.系统交互.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.7 一致性模型.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.6 元数据.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts/Pasted image 20250808205904.png",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/未命名.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.5 块大小.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.4 单主.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.3 架构.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts/Pasted image 20250808203426.png",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.2 接口.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.1 假设.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/抽象.md",
+    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述",
+    "Projects/MIT 6.824/笔记/Paper/GFS",
+    "Projects/MIT 6.824/笔记/分布式系统/03 GFS/asserts",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
