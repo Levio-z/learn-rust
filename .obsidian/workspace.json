@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "1.2.2 插入排序"
             }
+          },
+          {
+            "id": "f9142bf4541d8a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/2 函数/2.0 函数简介.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.0 函数简介"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -377,7 +401,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -392,14 +416,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a7b71be5b2b95837",
+  "active": "f9142bf4541d8a98",
   "lastOpenFiles": [
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.11 总结.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/2 函数/2.0 函数简介.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/2 函数",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.10 开发第一个程序.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.9 表达式简介.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.8 字面值和操作符简介.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.7 空白字符与代码样式.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.6 关键字和变量命名规则.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.5 未初始化的变量及定义的行为.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.4 iostream.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/1 序章/1.3 变量初始化和赋值.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.3 选择排序/1.2.3 选择排序算法.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.3 选择排序/asserts/Pasted image 20250808225659.png",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.3 选择排序/asserts",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/1.2.2 插入排序.md",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.3 选择排序",
+    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/未命名.md",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808224151.png",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808223927.png",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts/Pasted image 20250808223756.png",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/asserts",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/1.2.1 冒泡排序.md",
-    "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序/1.2.2 插入排序.md",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.2 插入排序",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808223209.png",
     "Projects/算法和数据结构/算法与数据结构概览/6-排序/1.2.0 经典排序算法/1.2.1 冒泡排序/asserts/Pasted image 20250808223100.png",
@@ -420,26 +460,10 @@
     "Projects/MIT 6.824/笔记/Paper/GFS/4 主操作",
     "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.3 原子记录附加.md",
     "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.2 数据流.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/3.1 租约和变更顺序.md",
     "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/asserts/Pasted image 20250808212300.png",
     "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互/asserts",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/3.系统交互.md",
     "Projects/MIT 6.824/笔记/Paper/GFS/3 系统交互",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.7 一致性模型.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.6 元数据.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts/Pasted image 20250808205904.png",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/未命名.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.5 块大小.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.4 单主.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.3 架构.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts/Pasted image 20250808203426.png",
     "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/asserts",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.2 接口.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述/2.1 假设.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/抽象.md",
-    "Projects/MIT 6.824/笔记/Paper/GFS/2 设计概述",
-    "Projects/MIT 6.824/笔记/Paper/GFS",
-    "Projects/MIT 6.824/笔记/分布式系统/03 GFS/asserts",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
   ]
