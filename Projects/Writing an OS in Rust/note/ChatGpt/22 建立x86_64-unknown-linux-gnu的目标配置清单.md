@@ -1,6 +1,6 @@
-[自定义目标配置清单](../../../Rust/note/rustup/编译/自定义目标配置清单.md)
+[自定义目标配置清单](../../../../Areas/Rust/复用概念/rustup/2%20rustup%20使用/2.3%20rustup%20常见问题与优化/2.3.1%20FAQ/自定义目标配置清单.md)
 ```json
-```json
+
 {
     "llvm-target": "x86_64-unknown-none",
     "data-layout": "e-m:e-p270:32:32-p271:32:32-p272:64:64-i64:64-i128:128-f80:128-n8:16:32:64-S128",
