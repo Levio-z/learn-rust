@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 515.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,25 +199,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "da4fd4563ed95770",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812161157.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812160624.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812160227.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812160203.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/3 修改性能计数器权限.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.4 HtoD 和 DtoH 的耗时均远大于核函数时间.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812152011.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812151909.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.0.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812151432.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812150915.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812150847.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812150831.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812150817.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.3 设备信息.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812165417.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812165233.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812164756.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812164740.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812164636.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812164514.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.1 优化核函数和性能分析工具.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.4 HtoD 和 DtoH 的耗时均远大于核函数时间.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812164336.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.2 性能分析工具Nsight Systems.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812163132.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812163120.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/5 特化版本.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/3 修改性能计数器权限.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812162825.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/4 模板函数定义.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250812161322.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.0.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2.3 设备信息.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.2 性能优化.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2 CUDA编程.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1.2.1 入门案例-加法函数.md",
@@ -237,8 +239,6 @@
     "Areas/basic/Git/Pro Git/99.0 Chatgpt/11 创建并跟踪远程分支.md",
     "Areas/basic/Git/Pro Git/99.0 Chatgpt/10 推送.md",
     "Areas/basic/Git/Pro Git/99.0 Chatgpt/21 查看远程地址分支.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/3.2 远程分支/3.2.1.0 远程分支.md",
-    "Areas/basic/Git/Pro Git/3.0 分支/3.2 远程分支/3.2.1.1 远程分支基本概念.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/5 常量",
     "Projects/算法和数据结构/资料",
     "Projects/算法和数据结构/算法与数据结构概览/8-二分查找/asserts",
