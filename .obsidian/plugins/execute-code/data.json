@@ -96,7 +96,7 @@
   "cppRunner": "cling",
   "cppFileExtension": "cpp",
   "cppInject": "",
-  "cppArgs": "",
+  "cppArgs": "-std=c++17",
   "cppUseMain": true,
   "clingPath": "C:/Program Files/root_v6.36.02/bin/rootcling.exe",
   "clingArgs": "",
