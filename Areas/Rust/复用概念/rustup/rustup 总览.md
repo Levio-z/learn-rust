@@ -1,6 +1,6 @@
 # 1 核心概念
 ## 1.1 概念
-[1.1.1 rustup简介](1%20rustup%20概念/1.1%20rustup%20核心概念/1.1.1%20rustup简介.md)
+[1.1.1 rustup简介](1%20rustup%20概念/1.1%20rustup%20核心概念/1.1.1%20简介/1.1.1%20rustup简介.md)
 ### 1.2.1 概念汇总
  [nightly-特性标签](1%20rustup%20概念/1.2%20rustup%20概念/1.2.1%20概念汇总/nightly-特性标签.md)
 ## 2 rustup使用
