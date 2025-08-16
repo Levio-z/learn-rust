@@ -11,24 +11,12 @@
             "id": "93c582d8ca119347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/02 大模型原理与结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813234101.png"
               },
-              "icon": "lucide-file",
-              "title": "02 大模型原理与结构"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250813234101"
             }
           },
           {
@@ -218,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,18 +223,29 @@
   },
   "active": "93c582d8ca119347",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/01 AI模型推理基础原理.md",
+    "Areas/book/Rust/Rust程序设计/Chapter 03/3.7 字符串类型.md",
+    "Areas/book/Rust/Rust程序设计/Chapter 03/asserts/Pasted image 20250815164215.png",
+    "Areas/book/Rust/Rust程序设计/Chapter 03/asserts",
+    "Areas/book/Rust/Rust程序设计/Chapter 03/2.6.md",
+    "Areas/Rust/Rust-MOC.md.md",
+    "Projects/并发编程/视频内容/03.md",
+    "Projects/并发编程/视频内容/01 Setting up Visual Studio Code.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿/未命名.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿/asserts/Pasted image 20250815160608.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿/asserts/Pasted image 20250815160422.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿/asserts/Pasted image 20250815160331.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿/asserts",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/04 大模型计算优化与分布式推理.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/前沿",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815155709.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815154934.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815154831.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815154734.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815154637.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250815154028.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/03 从大模型推理到ai对话.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/02 大模型原理与结构.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224831.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224754.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224620.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224502.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224348.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224301.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224149.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813224144.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813223912.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts/Pasted image 20250813223716.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/01 AI模型推理基础原理.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/作业/题目.md",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/大模型推理系统/课程/asserts",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/1 训练系统概念/1.1 基础概念/1.1.2 分布式训练/为什么需要分布式训练.md",
@@ -268,19 +267,7 @@
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/2 训练系统使用/2.3 训练系统常见问题与优化",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/2 训练系统使用/2.2 训练系统使用示例",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/2 训练系统使用/2.1 训练系统功能与进阶",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/1 训练系统概念/1.1 基础概念/1.1.1 概念解释",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/1 训练系统概念/1.1 基础概念",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/训练系统/3 训练系统参考资料",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/CUDA 编程概览.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/paper/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.1 入门案例-加法函数/08 roofline 增加 W 和减少 Q 的其他方法.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.1 入门案例-加法函数/07 CUDA入门案例优化04-半精度-计算向量化.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.1 入门案例-加法函数/01 CUDA入门案例-加法函数.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/3 CUDA 参考资料/备忘录.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/3 CUDA 参考资料/3.1 学习路线/CUDA 课程介绍.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/8 向量化倍数和寄存器的关系.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/7 算术强度.md",
     "Areas/Rust/Rust/未命名.canvas",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
