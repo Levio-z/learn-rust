@@ -1,0 +1,1 @@
+[static](../CppReference/存储类说明符/static.md)

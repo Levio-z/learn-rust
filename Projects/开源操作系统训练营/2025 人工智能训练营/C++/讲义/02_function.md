@@ -25,3 +25,5 @@ int main(int argc, char **argv) {
 这就是说 add 是一个接受 2 个 int 参数，返回一个 int 值的函数。到 `main` 里，就已知它是个什么函数了，可以编译下去，直到在下面看到定义。由于在声明的时候我们只关心 `add` 是什么东西，所以这些参数是不需要名字的。
 
 >**NOTICE** 虽然把函数视作完全特殊的一种语法现象是很自然的，但是更好的理解是把函数、数组、指针和 `const`、`volatile` 都视作类型修饰符，它们共同作用在预定义和自定义类型上形成了对标识符的类型声明。阅读 [cppreference](https://zh.cppreference.com/w/cpp/language/declarations) 中的示例和链接来学习复杂类型解读法。
+
+

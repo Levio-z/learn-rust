@@ -21,24 +21,17 @@ struct Args {
     - `Debug`：实现调试输出能力，可以用 `{:?}` 格式打印结构体内容，方便调试。
 - **作用**：让 `Args` 结构体能够直接从命令行参数解析出数据，并且可以打印调试信息。
 #### 2. `#[command(version, about, long_about = None)]`
-
 - **定义**：这是为命令行程序设置元信息的宏属性，`command` 宏是 `clap` 的一部分。
-    
 - **字段说明**：
-    
     - `version`：自动从 `Cargo.toml` 中读取版本号。
-        
     - `about`：简短的程序说明（通常自动取自注释或手动配置）。
-        
     - `long_about = None`：表示没有更详细的长说明。
-        
 - **作用**：生成命令行帮助信息，支持 `--help` 和 `--version` 等参数。
 #### 3. 结构体字段和属性说明
 ```rust
 /// Name of the person to greet
 #[arg(short, long)]
 name: String,
-
 ```
 - **`name: String`**：代表用户输入的名字，类型是字符串。
 - **`#[arg(short, long)]`**：

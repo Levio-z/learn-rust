@@ -1,0 +1,8 @@
+- [Jon Gjengset](https://www.youtube.com/@jonhoo)
+	- 解释器：https://www.youtube.com/watch?v=mNOLaw-_Buc&t=13007s
+		- https://www.bilibili.com/video/BV12R4y1v7jw/?spm_id_from=333.337.search-card.all.click&vd_source=12808b3c6a27d423857284969f17ae7c
+	- BitTorrent：https://www.youtube.com/watch?v=jf_ddGnum_4
+	- Porting Java's ConcurrentHashMap to Rust (part 1)
+	- 危险指针：无锁数据结构
+	- Git
+- 手写操作系统

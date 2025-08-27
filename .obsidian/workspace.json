@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe081da7fe071fd4",
+            "id": "29529b729b56694a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/10 数组中点的树状规约.md",
+                "file": "Areas/Rust/库/clap/如何使用/案例/案例-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,21 +23,21 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "10 数组中点的树状规约"
+              "title": "案例-01"
             }
           },
           {
-            "id": "d219da8b6863ee48",
+            "id": "43a4935b3840efdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/未命名.md",
+                "file": "Areas/course/浙大软件工程/note/第 2 章 软件工程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "第 2 章 软件工程"
+            }
+          },
+          {
+            "id": "fd799b75d0bbe99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/course/浙大软件工程/note/第 7 章 指导软件工程实践的核心原则总结.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "第 7 章 指导软件工程实践的核心原则总结"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "add_gpu02",
+                "query": "clap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5086555480957
+    "width": 347.5086555480957
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -223,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -234,53 +259,55 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d219da8b6863ee48",
+  "active": "fd799b75d0bbe99e",
   "lastOpenFiles": [
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/10 数组中点的树状规约.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.3 Bank Conflict.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/asserts/Pasted image 20250821094635.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.4 CUDA 的线程组织方式.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/09 Two-Pass vs. Grid Sync.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/08 入门案例- 累加函数-分治规约-寄存器同步块间线程-Grid-sync Reduce.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/asserts/Pasted image 20250820163047.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/asserts/Pasted image 20250820161130.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/asserts/Pasted image 20250820161116.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820155223.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820154942.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820154925.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820154629.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820154607.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/07 入门案例- 累加函数-分治规约-原子操作改为两个核函数-Two-Pass Reduce.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/06 入门案例- 累加函数-分治规约-wrap间规约优化-Smem-Warp Shuffle.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/05 入门案例- 累加函数-分治规约-wrap内规约优化-Smen-Tree Reduce.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts/Pasted image 20250820154220.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/04 入门案例- 累加函数-分治规约-树状规约.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/10 __shfl_down_sync.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/9 常量内存和纹理内存.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/03 入门案例-累加函数-分治规约.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/02 入门案例-累加函数-原子并行.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.2 内存结构/GPU 内存层级结构.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.2 内存结构/未命名.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.1 cuda/CUDA编程.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/CUDA 编程概览.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/chatgpt/8 向量化倍数和寄存器的关系.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.2 内存结构/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/1 CUDA 概念/1.1 基础概念/1.1.2 内存结构",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.1 功能与进阶/2.1.2 内存模型",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/00 入门案例-累加函数-TOC.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/01入门案例-累加函数-DEMO.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.3 常见问题与优化/2.3.2 优化/03 CUDA优化 向量化.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.3 常见问题与优化/2.3.2 优化/02 CUDA优化 优化访存密集型.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/资料.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/2 CUDA 使用/2.2 使用示例/2.2.2 入门案例-累加函数",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/Ai编译器概述/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/Ai编译器概述",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CPU大模型推理加速技术/asserts",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CPU大模型推理加速技术",
+    "Areas/course/浙大软件工程/note/第 1 m章 软件的本质.md",
+    "Areas/course/浙大软件工程/note/第 6 章 软件工程中的人为因素总结.md",
+    "Areas/course/浙大软件工程/note/第 5 章 敏捷开发（Agile Development）.md",
+    "Areas/course/浙大软件工程/note/第 4 章 过程模型.md",
+    "Areas/course/浙大软件工程/note/第 3 章 软件过程结构（Ch.3 Software Process Structure）.md",
+    "Areas/course/浙大软件工程/note/第 2 章 软件工程.md",
+    "Areas/course/浙大软件工程/note/第 7 章 指导软件工程实践的核心原则总结.md",
+    "Areas/course/浙大软件工程/atomic note/过程适应.md",
+    "Areas/course/浙大软件工程/软件工程.md",
+    "Areas/course/浙大软件工程/atomic note",
+    "Areas/course/浙大软件工程/note",
+    "Resources/资料.md",
+    "Projects/rust项目.md",
+    "README.md",
+    "Areas/course/浙大软件工程",
+    "Areas/course",
+    "Resources/学习路线.md",
+    "Areas/Rust/库/clap/如何使用/常用选项/未命名.md",
+    "Areas/Rust/库/clap/如何使用/案例/案例-01.md",
+    "Areas/Rust/库/clap/如何使用/常用选项",
+    "Areas/Rust/复用概念/cargo/常用组件安装/组件/1.0 cargo-edit.md",
+    "Areas/Rust/库/clap/如何使用/案例",
+    "Areas/Rust/库/clap/如何使用",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/讲义/04_static.md",
+    "Areas/Rust/库/clap/eample.md",
+    "Areas/Rust/库/clap/clap.md",
+    "Areas/Rust/环境配置/提效环境库.md",
+    "Areas/Rust/Rust-MOC.md.md",
+    "Areas/Rust/库/README.md",
+    "Areas/Rust/环境配置",
+    "Areas/basic/Git/Pro Git/6.0 分布式Git/6.2 向一个项目贡献.md",
+    "Areas/basic/Docker/Archive/ChatGpt/5-8 docker run -it alpine.md",
+    "Areas/basic/Git/Pro Git/7.0 Github/3.0 维护项目.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/2 函数/2.10 头文件.md",
+    "Areas/Rust/复用概念/Github_ci/joohoo",
+    "Areas/Rust/复用概念/Github_ci/实际",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/12 复合类型 引用与指针/asserts/Pasted image 20250823224142.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/6 运算符/asserts/Pasted image 20250822212311.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151915.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151833.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151727.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151704.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151621.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151530.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151315.png",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151226.png",
     "Areas/Rust/Rust/未命名.canvas",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"

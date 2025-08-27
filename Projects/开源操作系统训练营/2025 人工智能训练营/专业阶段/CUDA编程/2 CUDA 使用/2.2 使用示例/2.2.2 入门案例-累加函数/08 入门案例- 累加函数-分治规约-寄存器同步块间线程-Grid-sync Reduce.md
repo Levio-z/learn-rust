@@ -10,6 +10,10 @@ nsys stats target/sum_gpu_07_cooperative.nsys-rep
 
 ```
 sum_gpu_07_cooperative
+windows下
+```
+nvcc -std=c++17 -Xcompiler "/utf-8" sum_gpu/sum_gpu_07_cooperative.cu -o target/sum_gpu_07_cooperative
+```
 ### 问题
 ◆ 之前用了两个 kernel 来完成跨 block 规约，避免原子操作 
 ◆ 为什么不能像同步 **块内/warp内** 线程一样**同步块间线程**呢？
