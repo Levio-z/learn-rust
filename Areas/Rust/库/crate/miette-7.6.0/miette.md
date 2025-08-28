@@ -1,6 +1,6 @@
 ### 简介
 `miette` 是 Rust 的诊断库。它包括一系列的 traits/protocols，允许你连接到它的 error reports工具，甚至编写你自己的 error reports！它允许您定义可以像这样打印出来的error类型（或以任何您喜欢的格式！）：
-![](Pasted%20image%2020250528101920.png)
+![](asserts/Pasted%20image%2020250528101920.png)
 **注意：您必须启用 `“fancy”`crate 功能才能获得上面截图中的 fancy 报告输出。** 你应该只在你的顶级 crate 中这样做，因为这个奇特的特性会引入一些库等可能不需要的依赖项。
 ### 特征
 - 通用[`诊断`](https://docs.rs/miette/latest/miette/trait.Diagnostic.html "trait miette::Diagnostic")协议，兼容（并依赖于） [`std：：error`](https://doc.rust-lang.org/nightly/core/error/trait.Error.html "trait core::error::Error")_std..

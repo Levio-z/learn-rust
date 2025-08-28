@@ -16,13 +16,21 @@
         
 - **示例**：
     
-    - 项目管理（Project Management）
+- **项目管理（Project Management）**：
+    
+    - 项目管理是伞形活动中最核心的一部分，涉及项目的规划、组织、资源分配、进度跟踪、预算管理等内容。它贯穿整个项目生命周期，确保项目按时、按质量和按预算完成。
         
-    - 配置管理（Configuration Management）
+- **配置管理（Configuration Management）**：
+    
+    - 配置管理确保软件开发过程中所有项目文件（包括源代码、文档、配置文件等）的版本控制和一致性。它避免了不同版本间的混淆，保证了不同开发阶段的可追溯性和一致性。
         
-    - 质量保证（Quality Assurance）
+- **质量保证（Quality Assurance）**：
+    
+    - 质量保证活动确保软件在整个开发周期内始终符合质量标准。这包括代码审查、自动化测试、缺陷管理等，以提高软件的稳定性、性能和安全性。质量保证不仅仅是测试，更多的是贯穿开发的每个环节，持续提高产品质量。
         
-    - 风险管理（Risk Management）
+- **风险管理（Risk Management）**：
+    
+    - 风险管理在项目初期识别潜在的风险因素，并通过计划、监控和应对措施来控制这些风险的影响。风险管理贯穿项目生命周期，在项目执行过程中持续评估和调整，确保项目目标不会因风险而受阻
 #### 框架活动（Framework Activities）
 
 - **定义**：软件开发中主要的高层次活动，是开发过程的骨架
@@ -170,6 +178,25 @@ C3 --> D
 D --> E[软件过程改进（Software Process Improvement）]
 E --> F[推动软件过程优化（motivates Software Process）]
 ```
+- **软件过程（Software Process）**：指软件开发和管理的整体流程，包括需求分析、设计、编码、测试等各个阶段。
+    
+- **过程评估（Process Assessment）**：对软件过程进行评估，识别出当前过程中的能力、潜在风险以及改进的建议。
+    
+    - **识别能力（identifies capabilities）**：评估当前过程的优势和能有效达成目标的能力。
+        
+    - **识别风险（identifies risk of）**：识别在当前过程中可能存在的风险或薄弱环节，可能导致问题的因素。
+        
+    - **识别改进修改建议（identifies modifications to）**：根据评估结果，提出优化和改进过程的建议。
+        
+- **能力确定（Capability Determination）**：评估过程中，对现有能力进行确定，以明确其强项和弱项，识别哪些方面能够被提升。
+    
+- **软件过程改进（Software Process Improvement）**：基于评估结果，提出具体的改进措施，推动软件过程优化。
+    
+- **推动软件过程优化（motivates Software Process）**：通过改进推动软件过程的持续优化，使其更加高效、符合需求和提高质量。
+
+
+
+
 ## 能力成熟度模型集成（The Capability Maturity Model Integration）
 
 该模型由卡内基梅隆大学（CMU）的软件工程研究所（SEI）提出，将软件过程成熟度分为 5 个等级（含 1 个未完成等级），具体定义如下：
