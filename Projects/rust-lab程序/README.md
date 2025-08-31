@@ -4,6 +4,6 @@
 - 一个命令行脚本程序
 ### 使用指南
 ```
-cargo build --release --manifest-path mvp/Cargo.toml && sudo cp mvp/target/release/mvp /usr/local/bin/mvp
+cargo build --release --manifest-path mvp/Cargo.toml && sudo cp target/release/mvp /usr/local/bin/mvp
 
 ```

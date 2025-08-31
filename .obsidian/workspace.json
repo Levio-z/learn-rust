@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0ced845ee47e46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/环境配置/vscode/配置/配置模板/配置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "配置"
-            }
-          },
-          {
-            "id": "9a7273ebdd1db783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/rust-lab程序/命令行脚本mvp/通用软件过程/1 沟通/1 需求.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1 需求"
-            }
-          },
-          {
             "id": "ccc839fa429e109e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
+                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0 最小内核"
+              "title": "实现fmt write的好处"
             }
           },
           {
@@ -85,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/并发编程/视频内容/5 并行服务器/作业.md",
+                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "作业"
+              "title": "实现fmt write的好处"
             }
           },
           {
-            "id": "d41e42b873fb4eee",
+            "id": "4ecb915c01de8c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/rust-lab程序/README.md",
+                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/3.0 VGA 字符模式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "3.0 VGA 字符模式"
             }
           },
           {
-            "id": "ef8c238df50c1ff3",
+            "id": "a041b328d85a7e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/course/浙大软件工程/note/第 4 章 过程模型.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试/11.1 如何编写测试.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第 4 章 过程模型"
+              "title": "11.1 如何编写测试"
+            }
+          },
+          {
+            "id": "2fee45e9754ef08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/33 易失操作.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "33 易失操作"
             }
           }
         ],
@@ -184,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cargo real",
+                "query": "format_args",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957
+    "width": 494.5086555480957
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -315,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,45 +307,47 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "48549e3b689aba4e",
+  "active": "a041b328d85a7e43",
   "lastOpenFiles": [
-    "Projects/并发编程/学习路线.md",
-    "Projects/并发编程/视频内容/5 并行服务器/作业.md",
-    "Projects/并发编程/视频内容/5 并行服务器",
-    "Projects/并发编程/视频内容/4 基于锁的并发/4.1：安全 API 原文翻译的动机.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.1 并行计算时代的到来.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.2 并发性与并行性：理解资源调度与利用的本质.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.3 并发的挑战.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.4 驯服不确定性的方法.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.5 并发策略对比解析：简单型 vs 困难型.md",
-    "Projects/并发编程/视频内容/3 并行与并发/3.6 并发编程的一般建议.md",
-    "Projects/并发编程/视频内容/4 基于锁的并发/asserts/Pasted image 20250828223219.png",
-    "Projects/并发编程/视频内容/4 基于锁的并发/asserts",
-    "Projects/并发编程/视频内容/4 基于锁的并发",
-    "Resources/对每项技能的描述模板.md",
-    "Projects/rust项目.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/4.0 测试/36.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试/11.1 如何编写测试.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/未命名.md",
+    "Projects/Writing an OS in Rust/note/1 Bare Bones/4.0 测试.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/4.0 测试",
     "Projects/Writing an OS in Rust/note/1 Bare Bones/3.0 VGA 字符模式.md",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
     "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/29 在 QEMU 中启动内核&配置runner = bootimage runner.md",
-    "Projects/Writing an OS in Rust/资料.md",
-    "Projects/rust-lab程序/软件工程.md",
-    "Areas/basic/Git/模板/提交信息规范.md",
-    "Areas/basic/Git/Area/2.2 git提交规范.md",
-    "Areas/basic/Git/模板",
-    "Areas/basic/Git/Area/2.1 基本命令速查表.md",
-    "Areas/basic/Git/Pro Git/2.0 Git 基础/2.8 提交信息规范.md",
-    "Areas/basic/Git/Pro Git/7.0 Github/5.0 脚本 GitHub.md",
-    "Areas/basic/Git/Pro Git/README.md",
-    "Projects/rust-lab程序/README.md",
-    "Areas/Rust/Rust-MOC.md.md",
-    "Areas/Rust/库/README.md",
-    "Areas/Rust/库/crate/thiserror/模板",
-    "Areas/Rust/库/crate/thiserror/未命名/未命名",
-    "Areas/Rust/库/crate/thiserror/组件",
-    "Areas/Rust/环境配置/vscode/插件",
-    "Areas/Rust/环境配置/vscode/chatgpt",
-    "Areas/Rust/环境配置/vscode/配置/配置模板",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/33 易失操作.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.6 宏系统/宏/宏详解/format_args/fmt Arguments.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.6 宏系统/宏/宏详解/format_args/format_args.md",
+    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/io 和格式化/9  format.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/MaybeUninit/MaybeUninit.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/30 VGA 字符缓冲区.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/34 内存映射文件 (Memory-mapped file).md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/35 内存映射 IO (MMIO) 和 端口映射 IO (PMIO).md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/31 包装到Rust模块.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/未命名",
+    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/28 创建引导映象.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/27 向屏幕打印字符实现.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/19 启动流程.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式",
+    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/18 主流架构.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核",
+    "Projects/Writing an OS in Rust/敏捷开发每日站会15min.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/fmt/Write/格式化宏详解.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt",
+    "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/10 构建配置移除栈展开panic 策略.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/8 eh_personality 语言项详解.md",
+    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/9 panic异常调用机制.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.7 模块组织、工具和文档/模块系统和封装/概念",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.7 模块组织、工具和文档/未命名",
+    "Areas/Rust/Area/1 基本概念/2 进阶/asserts/Pasted image 20250526104939.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/asserts/Pasted image 20250526104916.png",
+    "Projects/并发编程/视频内容/4 基于锁的并发/asserts/Pasted image 20250828223219.png",
     "Areas/course/浙大软件工程/note/asserts/Pasted image 20250827165443.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/12 复合类型 引用与指针/asserts/Pasted image 20250823224142.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
@@ -378,8 +356,6 @@
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151833.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151727.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151704.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151621.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151530.png",
     "Areas/Rust/Rust/未命名.canvas",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"
