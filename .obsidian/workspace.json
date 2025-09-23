@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97c6126e9cb85bbb",
+        "id": "814442236fa345d6",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc839fa429e109e",
+            "id": "5357a34c2275ddba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现fmt write的好处"
+              "title": "02 ls-tree、write-tree、commit"
             }
           },
           {
-            "id": "48549e3b689aba4e",
+            "id": "28246f8b4b634a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
+                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/rust-iter-TOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现fmt write的好处"
+              "title": "rust-iter-TOC"
             }
           },
           {
-            "id": "4ecb915c01de8c1e",
+            "id": "3a534c6eded1af5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Writing an OS in Rust/note/1 Bare Bones/3.0 VGA 字符模式.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/研究/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.0 VGA 字符模式"
-            }
-          },
-          {
-            "id": "a041b328d85a7e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试/11.1 如何编写测试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11.1 如何编写测试"
-            }
-          },
-          {
-            "id": "2fee45e9754ef08e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/33 易失操作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "33 易失操作"
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format_args",
+                "query": "take",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5086555480957
+    "width": 452.501522064209
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -247,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/MIT 6.824/资料.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "资料 的大纲"
+              "title": "02 ls-tree、write-tree、commit 的大纲"
             }
           },
           {
@@ -272,12 +223,12 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
-            "id": "94d3ef9301baac05",
+            "id": "00ea477a60cb474f",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -291,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 506.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,55 +258,56 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a041b328d85a7e43",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
-    "Projects/Writing an OS in Rust/note/ChatGpt/4.0 测试/36.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试/11.1 如何编写测试.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/11. 测试",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/未命名.md",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/4.0 测试.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/4.0 测试",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/3.0 VGA 字符模式.md",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/2.0 最小内核.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/33 易失操作.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.6 宏系统/宏/宏详解/format_args/fmt Arguments.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.6 宏系统/宏/宏详解/format_args/format_args.md",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/io 和格式化/9  format.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/MaybeUninit/MaybeUninit.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write/实现fmt write的好处.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/30 VGA 字符缓冲区.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/34 内存映射文件 (Memory-mapped file).md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/35 内存映射 IO (MMIO) 和 端口映射 IO (PMIO).md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/31 包装到Rust模块.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式/未命名",
-    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/28 创建引导映象.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/27 向屏幕打印字符实现.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核/19 启动流程.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/3.0 VGA字符模式",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/18 主流架构.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/2.0 最小内核",
-    "Projects/Writing an OS in Rust/敏捷开发每日站会15min.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/fmt/Write/格式化宏详解.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt/Write",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/fmt",
-    "Projects/Writing an OS in Rust/note/1 Bare Bones/1.0 独立式可执行程序.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/10 构建配置移除栈展开panic 策略.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/8 eh_personality 语言项详解.md",
-    "Projects/Writing an OS in Rust/note/ChatGpt/1.0 独立式可执行程序/9 panic异常调用机制.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.7 模块组织、工具和文档/模块系统和封装/概念",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.7 模块组织、工具和文档/未命名",
-    "Areas/Rust/Area/1 基本概念/2 进阶/asserts/Pasted image 20250526104939.png",
-    "Areas/Rust/Area/1 基本概念/2 进阶/asserts/Pasted image 20250526104916.png",
-    "Projects/并发编程/视频内容/4 基于锁的并发/asserts/Pasted image 20250828223219.png",
-    "Areas/course/浙大软件工程/note/asserts/Pasted image 20250827165443.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/12 复合类型 引用与指针/asserts/Pasted image 20250823224142.png",
+    "Projects/Build Your Qwn Git/过程记录/03 clone.md",
+    "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
+    "Projects/Build Your Qwn Git/过程记录/01 init、read a blob 、write a blob.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/常用方法.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/rust-iter-TOC.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/rust-闭包-TOC.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/闭包使用实例.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/闭包.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/研究/writeln! 与write_all.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/fs/rust-std-fs-TOC.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/rust-stdout-TOC.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/研究/read 和 stdout()的使用指南.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/cmp/相等性.md",
+    "Projects/Build Your Qwn Git/过程记录/研究/未命名.md",
+    "Projects/Build Your Qwn Git/过程记录/03 commit.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/flate2/struct/ZlibEncoder/ZlibEncoder-TOC.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/cmp",
+    "Projects/Build Your Qwn Git/过程记录/研究/解压缩异步化思路.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/ffi/Cstr/场景/1、处理c风格字符串的一般方法.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/一些方法依赖缓冲区以减少对底层流的调用次数.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/take的底层原理限制读取器.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/take.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/read_until.md",
+    "Projects/Build Your Qwn Git/Build Your Git TOC.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/场景/创建一个临时文件，多次操作.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/rust-crate-tempfile-TOC.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/flate2/struct/ZlibEncoder/flush.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/zlibDecoder",
+    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/问题",
+    "Projects/Build Your Qwn Git/过程记录/asserts/Pasted image 20250911143929.png",
+    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/commit",
+    "Areas/basic/Aicoding/案例",
+    "Areas/basic/Aicoding",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/clap/如何使用/研究",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/场景",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/str/底层原理解析",
+    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913073811.png",
+    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913073330.png",
+    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913072655.png",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
+    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/参考/asserts/Pasted image 20250910163627.png",
+    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/参考/asserts/Pasted image 20250910163321.png",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/2.0 应用程序执行环境/asserts/Pasted image 20250909203114.png",
+    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909200022.png",
+    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909195746.png",
+    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909162801.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/C++/learnC++/6 运算符/asserts/Pasted image 20250822212311.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151915.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151833.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151727.png",
-    "Projects/开源操作系统训练营/2025 人工智能训练营/专业阶段/CUDA编程/asserts/Pasted image 20250822151704.png",
     "Areas/Rust/Rust/未命名.canvas",
     "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
     "未命名.canvas"

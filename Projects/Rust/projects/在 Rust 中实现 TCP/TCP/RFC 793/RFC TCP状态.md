@@ -71,6 +71,7 @@
 - （6）**LAST_ACK → CLOSED**：收到客户端 ACK，连接关闭，删除 TCB。
 
 ##### 异常关闭过程（CLOSING状态）
+
 - （1）**FIN_WAIT_1 → CLOSING**：在主动关闭后（处于 FIN_WAIT_1 状态），收到对端 FIN 而不是 ACK，回复 ACK，进入 CLOSING 状态。
     
 - （2）**CLOSING → TIME_WAIT**：收到对端对自己 FIN 的确认 ACK，进入 TIME_WAIT，等待确保连接安全关闭。

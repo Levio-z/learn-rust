@@ -5,4 +5,5 @@
 	- Porting Java's ConcurrentHashMap to Rust (part 1)
 	- 危险指针：无锁数据结构
 	- Git
+	- https://1000hv.seiya.me/en/ 手写虚拟机
 - 手写操作系统

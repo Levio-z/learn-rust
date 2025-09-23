@@ -1,5 +1,7 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 10,
   "baseFontSizeAction": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "cssTheme": "",
+  "theme": "moonstone"
 }

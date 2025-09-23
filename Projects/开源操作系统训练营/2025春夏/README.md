@@ -15,3 +15,8 @@
 	- record(记录)
 		- 第四阶段周报
 
+[https://github.com/LearningOS/2025s-rustling-Levio-z](https://github.com/LearningOS/2025s-rustling-Levio-z)
+
+[https://github.com/LearningOS/2025s-arceos-Levio-z](https://github.com/LearningOS/2025s-arceos-Levio-z)
+
+[https://github.com/LearningOS/2025s-rcore-Levio-z](https://github.com/LearningOS/2025s-rcore-Levio-z)
