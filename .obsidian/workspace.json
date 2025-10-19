@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "814442236fa345d6",
+        "id": "ead31b06c8652629",
         "type": "tabs",
         "children": [
           {
-            "id": "5357a34c2275ddba",
+            "id": "847553742abfa19e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
+                "file": "Areas/basic/工具/VSCODE/开发环境配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02 ls-tree、write-tree、commit"
+              "title": "开发环境配置"
             }
           },
           {
-            "id": "28246f8b4b634a2f",
+            "id": "e74bd9a2196e4ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/rust-iter-TOC.md",
+                "file": "Areas/basic/os/面试题/notes/管道/管道的设计哲学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,88 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rust-iter-TOC"
+              "title": "管道的设计哲学"
             }
           },
           {
-            "id": "3a534c6eded1af5c",
+            "id": "b68404619fb6a500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/研究/未命名.md",
+                "file": "Zettelkasten/permanent/Rust-切片常量vs数组常量.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rust-切片常量vs数组常量"
+            }
+          },
+          {
+            "id": "320bee1dedcf4a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IPC-消息队列接收的延迟来源"
+            }
+          },
+          {
+            "id": "90a5c97afde182a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IPC-消息队列接收的延迟来源"
+            }
+          },
+          {
+            "id": "1e024ef9dba4cb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -79,7 +151,8 @@
               "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,30 +166,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67fda9ee0cafb880",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "0fe5b33cf789f8bd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "take",
-                "matchingCase": false,
+                "query": "切片",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "搜索"
@@ -131,12 +191,26 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "17479cae4de7a937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 452.501522064209
+    "width": 200
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -198,13 +272,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02 ls-tree、write-tree、commit 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -228,7 +301,17 @@
             }
           },
           {
-            "id": "00ea477a60cb474f",
+            "id": "e4352b9833d98aac",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "db5050d780cac60f",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -236,13 +319,23 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "68197b81fb277331",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,61 +348,62 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
-    "Projects/Build Your Qwn Git/过程记录/03 clone.md",
-    "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
-    "Projects/Build Your Qwn Git/过程记录/01 init、read a blob 、write a blob.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/常用方法.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter/rust-iter-TOC.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/rust-闭包-TOC.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/闭包使用实例.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.4 函数式编程特性/2.4.1 闭包/闭包.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/研究/writeln! 与write_all.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/iter",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/fs/rust-std-fs-TOC.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/rust-stdout-TOC.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/stdout/研究/read 和 stdout()的使用指南.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/cmp/相等性.md",
-    "Projects/Build Your Qwn Git/过程记录/研究/未命名.md",
-    "Projects/Build Your Qwn Git/过程记录/03 commit.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/flate2/struct/ZlibEncoder/ZlibEncoder-TOC.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/cmp",
-    "Projects/Build Your Qwn Git/过程记录/研究/解压缩异步化思路.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/ffi/Cstr/场景/1、处理c风格字符串的一般方法.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/一些方法依赖缓冲区以减少对底层流的调用次数.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/take的底层原理限制读取器.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/take.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/std/io/BufRead/read_until.md",
-    "Projects/Build Your Qwn Git/Build Your Git TOC.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/场景/创建一个临时文件，多次操作.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/rust-crate-tempfile-TOC.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/flate2/struct/ZlibEncoder/flush.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/zlibDecoder",
-    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/问题",
-    "Projects/Build Your Qwn Git/过程记录/asserts/Pasted image 20250911143929.png",
-    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/commit",
-    "Areas/basic/Aicoding/案例",
-    "Areas/basic/Aicoding",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/clap/如何使用/研究",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/tempfile/场景",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.8 标准库/core/str/底层原理解析",
-    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913073811.png",
-    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913073330.png",
-    "Areas/basic/Git/Pro Git/8.0 Git底层原理/内存模型/对象/asserts/Pasted image 20250913072655.png",
+    "Areas/basic/系统设计/资料.md",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt/未命名.md",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO",
+    "Areas/basic/云原生/资料.md",
+    "Areas/Rust/Rust-MOC.md.md",
+    "Areas/basic/云原生",
+    "Areas/book/UNIX环境高级编程/高价值内容.md",
+    "Areas/book/资料.md",
+    "Areas/basic/os/面试题/notes/共享内存/IPC-共享内存.md",
+    "Areas/basic/os/面试题/notes/共享内存/IPC-映射同一物理页到多个虚拟地址空间.md",
+    "Areas/basic/os/面试题/notes/共享内存/asserts/Pasted image 20251018223144.png",
+    "Areas/basic/os/面试题/notes/共享内存/asserts",
+    "Areas/basic/os/面试题/notes/共享内存/未命名.md",
+    "Areas/basic/os/面试题/notes/共享内存/IPC-共享内存-数据传递与同步的分离思想.md",
+    "Areas/basic/os/面试题/notes/共享内存/模板 1.md",
+    "Areas/basic/os/面试题/notes/管道/内核空间数据拷贝开销.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列-TOC.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/队列可跨进程、跨时间存在（除非删除）.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/消息队列：异步解耦的高效VS非阻塞管道.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/TPC-消息队列-消息体大小限制导致不适合大数据传输.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
+    "Areas/basic/os/面试题/notes/管道/Rust-右值静态提升.md",
+    "Areas/basic/os/面试题/notes/管道/IPC-管道-TOC.md",
+    "Areas/basic/os/面试题/notes/管道/Rust中如何创建匿名和命名管道呢？.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列-保存在内核中的消息链表.md",
+    "Areas/basic/os/面试题/notes/IPC-消息队列/模板 1.md",
+    "Areas/basic/os/面试题/notes/管道/编写 shell 脚本时，能使用一个管道搞定的事情，就不要多用一个管道.md",
+    "Areas/basic/os/面试题/notes/管道/操作系统如何判断管道应该销毁呢？.md",
+    "Areas/basic/os/面试题/notes/管道/创建命名管道，没有进程使用，是不是会一直存在内存里面？.md",
+    "Areas/basic/os/面试题/notes/管道/管道的大小为何需要限制以及大小的权衡.md",
+    "Areas/basic/os/面试题/notes/共享内存",
+    "Areas/basic/os/面试题/notes/IPC-消息队列",
+    "Zettelkasten/tools/Z-永久笔记内容.base",
+    "Areas/basic/os/面试题/notes/socket/asserts/Pasted image 20251018200111.png",
+    "Areas/basic/os/面试题/notes/socket/asserts",
+    "Areas/basic/os/面试题/reference/reference中未整理.base",
+    "Areas/basic/os/面试题/reference/socket",
+    "Areas/basic/os/面试题/reference/asserts/Pasted image 20251018095643.png",
+    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205126.png",
+    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205235.png",
+    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706204840.png",
+    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706204550.png",
+    "Areas/Rust/Area/1 基本概念/3 库/库/crate/miette-7.6.0/asserts/Pasted image 20250528101920.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/2. 引用、借用和切片类型/asserts/Pasted image 20250904111340.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/2. 引用、借用和切片类型/asserts/Pasted image 20250904111305.png",
+    "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
-    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/参考/asserts/Pasted image 20250910163627.png",
-    "Projects/Writing an OS in Rust/note/ChatGpt/11.0 堆分配器设计/参考/asserts/Pasted image 20250910163321.png",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/2.0 应用程序执行环境/asserts/Pasted image 20250909203114.png",
-    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909200022.png",
-    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909195746.png",
-    "Areas/basic/编译原理/函数调用/函数调用与栈/asserts/Pasted image 20250909162801.png",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
     "Areas/Rust/Rust/未命名.canvas",
-    "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas",
-    "未命名.canvas"
+    "Projects/MIT 6.824/笔记/Paper/MapReduce/未命名.canvas"
   ]
 }

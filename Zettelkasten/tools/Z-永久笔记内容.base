@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("permanent")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 316

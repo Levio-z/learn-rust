@@ -103,7 +103,7 @@ __global__ void reduce_warp_shfl_register_kernel(T* output, const T* input, size
 
 
 ◆ 抽象出一个使用 __shfl_down_sync() 的 warp_reduce() 函数 
-◆ #pragma unroll: 暗示编译器进行循环展开 
+◆ `#pragma unroll: 暗示编译器进行循环展开 `
 - 对于这样情况，效率会更高
 ◆ 前面跟之前一样，grid stride 循环 + warp 内 规约 
 - 步骤

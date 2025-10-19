@@ -16,3 +16,10 @@
 - [[Rust-Borrowing|借用规则]]
 - [[Rust-Lifetimes|生命周期详解]]
 - [[Rust-Ownership-FAQ|常见问题]]
+### 阅读清单
+
+
+## 编译报错
+[错误代码](https://doc.rust-lang.org/error_codes/error-index.html)
+
+### 问题

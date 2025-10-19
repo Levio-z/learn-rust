@@ -1,0 +1,2 @@
+- https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md
+- https://xiaolincoding.com/network/2_http/http_interview.html#http-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5

@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "checkbox",
+    "date": "datetime",
+    "da'te": "datetime",
+    "update_date": "datetime",
+    "create_date": "datetime",
+    "alog_tag": "multitext",
+    "status": "multitext",
+    "难度": "multitext"
+  }
+}

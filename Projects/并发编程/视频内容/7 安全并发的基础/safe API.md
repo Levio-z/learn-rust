@@ -22,7 +22,7 @@
     - 当且仅当 `&T: Send` 时，`T: Sync`。
     - 也就是说：如果 `T` 的共享引用 `&T` 能被安全地转移到另一个线程，那么 `T` 本身就是 `Sync`。
 
-[Spawn方法](../../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/thread/Spawn/Spawn方法.md)
+[Spawn方法](../../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/thread/Spawn/Spawn方法.md)
 - Scoped thread example: [https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=24a32b6b8e806e6139cca20e001b6a70](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=24a32b6b8e806e6139cca20e001b6a70)
 
 

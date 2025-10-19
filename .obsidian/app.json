@@ -8,5 +8,6 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "rightToLeft": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }

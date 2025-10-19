@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Areas/basic/os/面试题/reference")
+        - file.tags.isEmpty()

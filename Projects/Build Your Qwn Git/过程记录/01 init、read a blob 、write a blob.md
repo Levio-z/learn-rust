@@ -1,5 +1,4 @@
-
-### 1 知识点
+### 1 参考
 #### 1.1 挑战内容
 - https://github.com/codecrafters-io/build-your-own-git/blob/main/stage_descriptions/base-01-gg4.md
 - https://github.com/codecrafters-io/build-your-own-git/blob/main/stage_descriptions/base-02-ic4.md
@@ -9,14 +8,14 @@
 [Git对象](https://git-scm.com/book/zh/v2/Git-%e5%86%85%e9%83%a8%e5%8e%9f%e7%90%86-Git-%e5%af%b9%e8%b1%a1)：你是否好奇git add. , git commit的底层原理，跟着这个可以很快理解内部原理和存储过程
 [Git引用](https://git-scm.com/book/zh/v2/Git-%e5%86%85%e9%83%a8%e5%8e%9f%e7%90%86-Git-%e5%bc%95%e7%94%a8)
 #### 1.3 知识点
-- 文件相关：[rust-std-fs-TOC](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/fs/rust-std-fs-TOC.md)
+- 文件相关：[rust-std-fs-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/fs/rust-std-fs-TOC.md)
 - zlibDecoder：[ZlibEncoder-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/crate/flate2/struct/ZlibEncoder/ZlibEncoder-TOC.md)
-- 什么是c风格字符串：[Rust  CStr TOC](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/ffi/Cstr/Rust%20%20CStr%20TOC.md)
-- 分割字符串：[Rust `&str` 常用字符串操作方法概览](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/core/str/常用方法/Rust%20`&str`%20常用字符串操作方法概览.md)
-- 装饰器（限制读取）：[take](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/io/BufRead/take.md)
-- 解析为数值：[解析为数值](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/core/str/常用方法/解析为数值.md)
-- print的底层：[rust-stdout-TOC](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/io/stdout/rust-stdout-TOC.md)
-	- [copy reader to writer](../../../Areas/Rust/Area/1%20基本概念/2%20进阶/2.8%20标准库/std/io/methods/io%20copy/copy%20reader%20to%20writer.md)
+- 什么是c风格字符串：[Rust  CStr TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/ffi/Cstr/Rust%20%20CStr%20TOC.md)
+- 分割字符串：[Rust `&str` 常用字符串操作方法概览](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/core/str/常用方法/Rust%20`&str`%20常用字符串操作方法概览.md)
+- 装饰器（限制读取）：[take](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/io/BufRead/take.md)
+- 解析为数值：[解析为数值](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/core/str/常用方法/解析为数值.md)
+- print的底层：[rust-stdout-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/io/stdout/rust-stdout-TOC.md)
+	- [copy reader to writer](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/标准库/std/io/methods/io%20copy/copy%20reader%20to%20writer.md)
 - 错误处理： [rust-anyhow-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/crate/anyhow/rust-anyhow-TOC.md)
 - 临时文件：[rust-crate-tempfile-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/crate/tempfile/rust-crate-tempfile-TOC.md)
 - 命令行工具：[rust-clap-TOC](../../../Areas/Rust/Area/1%20基本概念/3%20库/库/crate/clap/rust-clap-TOC.md)

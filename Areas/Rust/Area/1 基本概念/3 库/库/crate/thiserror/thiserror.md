@@ -1,6 +1,6 @@
 `thiserror` 是一个 Rust 宏库，提供方便的 **派生宏（derive macro）** 用于自动为自定义错误类型实现标准库中的 `std::error::Error` trait。
 换句话说，它帮助开发者快速定义错误类型，而不用手写 `impl Error`、`Display` 和 `Debug`。
-[Error](../../../../2%20进阶/2.8%20标准库/std/error/Error.md)
+[Error](../../标准库/std/error/Error.md)
 ### 主要作用
 换句话说，它帮助开发者快速定义错误类型，而不用手写 `impl Error`、`Display` 和 `Debug`。
 手写这些实现不仅繁琐，而且容易出错，尤其是当错误枚举类型有很多变体时。  
