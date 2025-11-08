@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/系统设计和架构/Area/notes/permanent/无状态设计的运维优势.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "无状态设计的运维优势"
+              "title": "Git 的智能 HTTP 传输协议"
+            }
+          },
+          {
+            "id": "b0c394d82ba5824d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/英语/Projects/Love in the cholera/句子解析/The words I am about to express -They now have their own crowned goddess.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The words I am about to express -They now have their own crowned goddess"
             }
           },
           {
@@ -344,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -402,7 +426,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 723.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -530,7 +554,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -547,44 +571,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9f2692da55cdfc06",
+  "active": "b0c394d82ba5824d",
   "lastOpenFiles": [
-    "Templates/note/卡片笔记模板 1.md",
-    "Areas/basic/系统设计和架构/Area/notes/permanent/无状态设计的运维优势.md",
-    "Projects/Build Your Qwn Git/notes/Git-服务器-会话状态.md",
-    "Areas/basic/系统设计和架构/Area/notes/permanent",
-    "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
-    "Projects/Build Your Qwn Git/notes/Git-URL Format  URL 格式.md",
-    "Projects/Build Your Qwn Git/notes/Git-服务器要求-SSL.md",
-    "Projects/Build Your Qwn Git/notes/Git-Authentication  认证.md",
-    "Projects/Build Your Qwn Git/notes/Git-两种传输协议.md",
-    "Projects/Build Your Qwn Git/过程记录/03 clone.md",
-    "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
-    "Projects/Build Your Qwn Git/过程记录/01 init、read a blob 、write a blob.md",
-    "Projects/Build Your Qwn Git/过程记录/研究/解压缩异步化思路.md",
-    "Projects/Build Your Qwn Git/Build Your Git TOC.md",
-    "Projects/Build Your Qwn Git/notes/Git-智能服务git-receive-pack.md",
-    "Projects/Build Your Qwn Git/notes/Git-协商算法.md",
-    "Projects/Build Your Qwn Git/notes/Git-智能服务-git-upload-pack.md",
-    "Projects/Build Your Qwn Git/notes/未命名",
-    "Projects/Build Your Qwn Git/notes/Git-发现引用/未命名 1.md",
-    "Projects/Build Your Qwn Git/notes/Git-发现引用/Git- 智能客户端.md",
-    "Projects/Build Your Qwn Git/notes/Git-智能服务器响应.md",
-    "Projects/Build Your Qwn Git/notes/Git-发现引用/Git-愚蠢的客户端.md",
-    "Zettelkasten/permanent/Rust-Rc-为什么需要Rc.md",
-    "Projects/Build Your Qwn Git/notes/Git-发现引用/未命名.md",
-    "Projects/Build Your Qwn Git/notes/Git-一般请求处理.md",
-    "Projects/Build Your Qwn Git/notes/Git-发现引用",
-    "Projects/Build Your Qwn Git/notes/Git-客户端访问示例.md",
-    "Projects/Build Your Qwn Git/notes/Git 两种传输协议.md",
-    "Projects/Build Your Qwn Git/过程记录/阅读记录",
-    "Areas/basic/Git/Git TOC.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/基础",
-    "Zettelkasten/tools/Z-永久笔记内容.base",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/vec",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/方法",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec",
-    "Projects/设计模式/面向对象思想/未命名.base",
+    "Areas/basic/英语/Projects/Love in the cholera/句子解析/It was inevitable-the scent of bitter almonds always reminded him of the fate of unrequited love..md",
+    "Areas/basic/英语/Projects/Love in the cholera/句子解析/The words I am about to express -They now have their own crowned goddess.md",
+    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-形式主语 it is&it seemed.md",
+    "Areas/basic/英语/Areas/语法/英语-显示结构依赖性 1.md",
+    "Areas/basic/英语/Areas/语法/英语-显示结构依赖性.md",
+    "Areas/basic/英语/Areas/语法/英语-名词性从句-基本概念.md",
+    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句.md",
+    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-基本概念.md",
+    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-that.md",
+    "Areas/basic/英语/Areas/语法/英语-双宾语结构的被动化.md",
+    "Areas/basic/英语/Areas/语法/英语-定语从句-限定性和非限定性.md",
+    "Areas/basic/英语/Areas/单词/f/英语-单词-fate.md",
+    "Areas/basic/英语/Areas/单词/r/英语-单词-remind.md",
+    "Areas/basic/英语/Areas/单词/a/英语-单词-almonds.md",
+    "Areas/basic/英语/Areas/单词/r",
+    "Areas/basic/英语/Areas/单词/f",
+    "Areas/basic/英语/Areas/单词/b/英语-单词-bitter.md",
+    "Areas/basic/英语/Areas/单词/a",
+    "Areas/basic/英语/Projects/Love in the cholera/日志.md",
+    "Areas/basic/英语/Areas/单词/b/英语-单词-board.md",
+    "Areas/basic/英语/Areas/单词/s/英语-单词-scent.md",
+    "Areas/basic/英语/Areas/单词/s/英语-单词-storm.md",
+    "Areas/basic/英语/Areas/单词/i/英语-单词-inevitable.md",
+    "Areas/basic/英语/Areas/单词/g/英语-单词-grocery.md",
+    "Areas/basic/英语/Projects/100个句子记完7000个雅思单词/01 There is considerable debate over how we should react if we detect a signal from an alien civilisation..md",
+    "Areas/basic/英语/Projects/Love in the cholera/未命名",
+    "Areas/basic/英语/Areas/单词/g/英语-单词-goddess.md",
+    "Areas/basic/英语/Areas/单词/i",
+    "Areas/basic/英语/Areas/语法/英语-定语从句-关系代词.md",
+    "Areas/basic/英语/Areas/单词/c/英语-单词-crown.md",
+    "Areas/basic/英语/Areas/语法/未命名",
+    "Areas/basic/英语/Areas/语法/英语-定语从句-基本概念.md",
+    "Areas/basic/英语/Areas/语法/asserts/Pasted image 20251108150753.png",
+    "Areas/basic/英语/Areas/语法/asserts",
+    "Areas/basic/英语/Areas/单词/s",
+    "Areas/basic/英语/Areas/单词/p",
+    "Areas/basic/英语/Areas/单词/o",
     "Areas/basic/算法和数据机构/Project/代码随想录/数组/asserts/Pasted image 20251027155720.png",
     "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/Pasted image 20251020170131.png",
     "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/asserts/Pasted image 20251020162958.png",
@@ -594,7 +619,6 @@
     "Areas/basic/os/面试题/reference/asserts/Pasted image 20251018095643.png",
     "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205126.png",
     "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205235.png",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706204840.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
