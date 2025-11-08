@@ -7,8 +7,6 @@ views:
     order:
       - file.name
       - tags
-    sort:
-      - property: tags
-        direction: DESC
+    sort: []
     columnSize:
       file.name: 316

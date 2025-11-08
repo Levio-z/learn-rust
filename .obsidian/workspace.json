@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ead31b06c8652629",
+        "id": "96232337eba79a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "847553742abfa19e",
+            "id": "1584b86e302f6898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/工具/VSCODE/开发环境配置.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "开发环境配置"
+              "title": "Git 的智能 HTTP 传输协议"
             }
           },
           {
-            "id": "e74bd9a2196e4ee7",
+            "id": "2272b47b854b7914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/os/面试题/notes/管道/管道的设计哲学.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "管道的设计哲学"
+              "title": "Git 的智能 HTTP 传输协议"
             }
           },
           {
-            "id": "b68404619fb6a500",
+            "id": "4fb7c6a998cfcfdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/permanent/Rust-切片常量vs数组常量.md",
+                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust-切片常量vs数组常量"
+              "title": "Git 的智能 HTTP 传输协议"
             }
           },
           {
-            "id": "320bee1dedcf4a0a",
+            "id": "9f2692da55cdfc06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
+                "file": "Areas/basic/系统设计和架构/Area/notes/permanent/无状态设计的运维优势.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IPC-消息队列接收的延迟来源"
+              "title": "无状态设计的运维优势"
             }
           },
           {
-            "id": "90a5c97afde182a9",
+            "id": "df21da0486d930df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
+                "file": "Projects/Build Your Qwn Git/notes/Git-客户端访问示例.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IPC-消息队列接收的延迟来源"
+              "title": "Git-客户端访问示例"
             }
           },
           {
-            "id": "1e024ef9dba4cb98",
+            "id": "8a4ae88e7c4fc16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt/未命名.md",
+                "file": "Projects/Build Your Qwn Git/notes/Git-发现引用/Git- 智能客户端.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,203 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Git- 智能客户端"
+            }
+          },
+          {
+            "id": "60491b26650fd8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Build Your Qwn Git/notes/Git-智能服务-git-upload-pack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Git-智能服务-git-upload-pack"
+            }
+          },
+          {
+            "id": "4f1ffa82ee7f2d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/permanent/Rust-Rc-为什么需要Rc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rust-Rc-为什么需要Rc"
+            }
+          },
+          {
+            "id": "bad6535b8f9dba7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/permanent/Rust-Rc-基本概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rust-Rc-基本概念"
+            }
+          },
+          {
+            "id": "aa521fbe698e3edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/02 架构设计的历史背景.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 架构设计的历史背景"
+            }
+          },
+          {
+            "id": "d0af9451e0f96751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/编译原理/机器语言/编译原理-汇编语言-基本概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "编译原理-汇编语言-基本概念"
+            }
+          },
+          {
+            "id": "3e5dd4fa42502dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/02 架构设计的历史背景.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02 架构设计的历史背景"
+            }
+          },
+          {
+            "id": "90a880b1d7332311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/方法/std-vec-Vec-truncate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "std-vec-Vec-truncate"
+            }
+          },
+          {
+            "id": "2bf0f0447e97f320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/设计模式/面向对象思想/架构-面向对象-基本概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "架构-面向对象-基本概念"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,10 +363,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "切片",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               },
@@ -210,7 +402,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 541.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -226,6 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/basic/算法和数据机构/plan-算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +428,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "plan-算法 的反向链接列表"
             }
           },
           {
@@ -244,11 +437,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/basic/算法和数据机构/plan-算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "plan-算法 的出链列表"
             }
           },
           {
@@ -272,12 +466,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Areas/basic/算法和数据机构/plan-算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "plan-算法 的大纲"
             }
           },
           {
@@ -296,8 +491,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -306,18 +501,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "db5050d780cac60f",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -326,8 +511,18 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
+              "icon": "lucide-ghost",
+              "title": "code-execute-manage-executors"
+            }
+          },
+          {
+            "id": "7d22e942b43be298",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -335,7 +530,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,54 +547,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "9f2692da55cdfc06",
   "lastOpenFiles": [
-    "Areas/basic/系统设计/资料.md",
-    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt/未命名.md",
-    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/gpt",
-    "Areas/book/UNIX环境高级编程/第 14 章：高级IO",
-    "Areas/basic/云原生/资料.md",
-    "Areas/Rust/Rust-MOC.md.md",
-    "Areas/basic/云原生",
-    "Areas/book/UNIX环境高级编程/高价值内容.md",
-    "Areas/book/资料.md",
-    "Areas/basic/os/面试题/notes/共享内存/IPC-共享内存.md",
-    "Areas/basic/os/面试题/notes/共享内存/IPC-映射同一物理页到多个虚拟地址空间.md",
-    "Areas/basic/os/面试题/notes/共享内存/asserts/Pasted image 20251018223144.png",
-    "Areas/basic/os/面试题/notes/共享内存/asserts",
-    "Areas/basic/os/面试题/notes/共享内存/未命名.md",
-    "Areas/basic/os/面试题/notes/共享内存/IPC-共享内存-数据传递与同步的分离思想.md",
-    "Areas/basic/os/面试题/notes/共享内存/模板 1.md",
-    "Areas/basic/os/面试题/notes/管道/内核空间数据拷贝开销.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列-TOC.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/队列可跨进程、跨时间存在（除非删除）.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/消息队列：异步解耦的高效VS非阻塞管道.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/TPC-消息队列-消息体大小限制导致不适合大数据传输.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列接收的延迟来源.md",
-    "Areas/basic/os/面试题/notes/管道/Rust-右值静态提升.md",
-    "Areas/basic/os/面试题/notes/管道/IPC-管道-TOC.md",
-    "Areas/basic/os/面试题/notes/管道/Rust中如何创建匿名和命名管道呢？.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/IPC-消息队列-保存在内核中的消息链表.md",
-    "Areas/basic/os/面试题/notes/IPC-消息队列/模板 1.md",
-    "Areas/basic/os/面试题/notes/管道/编写 shell 脚本时，能使用一个管道搞定的事情，就不要多用一个管道.md",
-    "Areas/basic/os/面试题/notes/管道/操作系统如何判断管道应该销毁呢？.md",
-    "Areas/basic/os/面试题/notes/管道/创建命名管道，没有进程使用，是不是会一直存在内存里面？.md",
-    "Areas/basic/os/面试题/notes/管道/管道的大小为何需要限制以及大小的权衡.md",
-    "Areas/basic/os/面试题/notes/共享内存",
-    "Areas/basic/os/面试题/notes/IPC-消息队列",
+    "Templates/note/卡片笔记模板 1.md",
+    "Areas/basic/系统设计和架构/Area/notes/permanent/无状态设计的运维优势.md",
+    "Projects/Build Your Qwn Git/notes/Git-服务器-会话状态.md",
+    "Areas/basic/系统设计和架构/Area/notes/permanent",
+    "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
+    "Projects/Build Your Qwn Git/notes/Git-URL Format  URL 格式.md",
+    "Projects/Build Your Qwn Git/notes/Git-服务器要求-SSL.md",
+    "Projects/Build Your Qwn Git/notes/Git-Authentication  认证.md",
+    "Projects/Build Your Qwn Git/notes/Git-两种传输协议.md",
+    "Projects/Build Your Qwn Git/过程记录/03 clone.md",
+    "Projects/Build Your Qwn Git/过程记录/02 ls-tree、write-tree、commit.md",
+    "Projects/Build Your Qwn Git/过程记录/01 init、read a blob 、write a blob.md",
+    "Projects/Build Your Qwn Git/过程记录/研究/解压缩异步化思路.md",
+    "Projects/Build Your Qwn Git/Build Your Git TOC.md",
+    "Projects/Build Your Qwn Git/notes/Git-智能服务git-receive-pack.md",
+    "Projects/Build Your Qwn Git/notes/Git-协商算法.md",
+    "Projects/Build Your Qwn Git/notes/Git-智能服务-git-upload-pack.md",
+    "Projects/Build Your Qwn Git/notes/未命名",
+    "Projects/Build Your Qwn Git/notes/Git-发现引用/未命名 1.md",
+    "Projects/Build Your Qwn Git/notes/Git-发现引用/Git- 智能客户端.md",
+    "Projects/Build Your Qwn Git/notes/Git-智能服务器响应.md",
+    "Projects/Build Your Qwn Git/notes/Git-发现引用/Git-愚蠢的客户端.md",
+    "Zettelkasten/permanent/Rust-Rc-为什么需要Rc.md",
+    "Projects/Build Your Qwn Git/notes/Git-发现引用/未命名.md",
+    "Projects/Build Your Qwn Git/notes/Git-一般请求处理.md",
+    "Projects/Build Your Qwn Git/notes/Git-发现引用",
+    "Projects/Build Your Qwn Git/notes/Git-客户端访问示例.md",
+    "Projects/Build Your Qwn Git/notes/Git 两种传输协议.md",
+    "Projects/Build Your Qwn Git/过程记录/阅读记录",
+    "Areas/basic/Git/Git TOC.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/基础",
     "Zettelkasten/tools/Z-永久笔记内容.base",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/vec",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/方法",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec",
+    "Projects/设计模式/面向对象思想/未命名.base",
+    "Areas/basic/算法和数据机构/Project/代码随想录/数组/asserts/Pasted image 20251027155720.png",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/Pasted image 20251020170131.png",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/asserts/Pasted image 20251020162958.png",
+    "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/Pasted image 20251020161416.png",
+    "Areas/basic/os/面试题/notes/共享内存/asserts/Pasted image 20251018223144.png",
     "Areas/basic/os/面试题/notes/socket/asserts/Pasted image 20251018200111.png",
-    "Areas/basic/os/面试题/notes/socket/asserts",
-    "Areas/basic/os/面试题/reference/reference中未整理.base",
-    "Areas/basic/os/面试题/reference/socket",
     "Areas/basic/os/面试题/reference/asserts/Pasted image 20251018095643.png",
     "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205126.png",
     "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205235.png",
     "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706204840.png",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706204550.png",
-    "Areas/Rust/Area/1 基本概念/3 库/库/crate/miette-7.6.0/asserts/Pasted image 20250528101920.png",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/2. 引用、借用和切片类型/asserts/Pasted image 20250904111340.png",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/2. 引用、借用和切片类型/asserts/Pasted image 20250904111305.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

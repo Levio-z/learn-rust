@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference")
+        - file.tags.isEmpty()
