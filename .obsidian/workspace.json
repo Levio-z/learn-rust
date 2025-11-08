@@ -554,7 +554,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -571,7 +571,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b0c394d82ba5824d",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
     "Areas/basic/英语/Projects/Love in the cholera/句子解析/It was inevitable-the scent of bitter almonds always reminded him of the fate of unrequited love..md",
     "Areas/basic/英语/Projects/Love in the cholera/句子解析/The words I am about to express -They now have their own crowned goddess.md",
