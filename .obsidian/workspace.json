@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1584b86e302f6898",
+            "id": "880b6c70cc709d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
+                "file": "Areas/basic/编译原理/null值的设计/编译原理-null值的设计.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 的智能 HTTP 传输协议"
+              "title": "编译原理-null值的设计"
             }
           },
           {
-            "id": "2272b47b854b7914",
+            "id": "587ff0bc87149051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
+                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/option/Option/Rust-Option-基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 的智能 HTTP 传输协议"
+              "title": "Rust-Option-基本概念"
             }
           },
           {
-            "id": "4fb7c6a998cfcfdd",
+            "id": "834722a06fc29f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 的智能 HTTP 传输协议"
+              "title": "Rust-模式匹配-基本概念"
             }
           },
           {
-            "id": "9f2692da55cdfc06",
+            "id": "b75f2a4921922a21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/过程记录/阅读记录/Git 的智能 HTTP 传输协议.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-绑定方式-基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git 的智能 HTTP 传输协议"
+              "title": "Rust-模式-绑定方式-基本概念"
             }
           },
           {
-            "id": "b0c394d82ba5824d",
+            "id": "a3a0fe9e37efc82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/英语/Projects/Love in the cholera/句子解析/The words I am about to express -They now have their own crowned goddess.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The words I am about to express -They now have their own crowned goddess"
+              "title": "Rust-模式-基本概念"
             }
           },
           {
-            "id": "df21da0486d930df",
+            "id": "124432cfc5747cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-客户端访问示例.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git-客户端访问示例"
+              "title": "README"
             }
           },
           {
-            "id": "8a4ae88e7c4fc16e",
+            "id": "8e11d9b2efbd11a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-发现引用/Git- 智能客户端.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-StructPatternEtCetera.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git- 智能客户端"
+              "title": "Rust-模式-模式分类-StructPatternEtCetera"
             }
           },
           {
-            "id": "60491b26650fd8f9",
+            "id": "d1b4515f34025f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-智能服务-git-upload-pack.md",
+                "file": "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-Option vs 空值-基本概念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,16 +196,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git-智能服务-git-upload-pack"
+              "title": "Rust-Option vs 空值-基本概念"
             }
           },
           {
-            "id": "4f1ffa82ee7f2d38",
+            "id": "bdb3ce5c7160c56d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/permanent/Rust-Rc-为什么需要Rc.md",
+                "file": "Areas/basic/编译原理/null值的设计/编译原理-null值的设计.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,155 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust-Rc-为什么需要Rc"
-            }
-          },
-          {
-            "id": "bad6535b8f9dba7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/permanent/Rust-Rc-基本概念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rust-Rc-基本概念"
-            }
-          },
-          {
-            "id": "aa521fbe698e3edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/02 架构设计的历史背景.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 架构设计的历史背景"
-            }
-          },
-          {
-            "id": "d0af9451e0f96751",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/basic/编译原理/机器语言/编译原理-汇编语言-基本概念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "编译原理-汇编语言-基本概念"
-            }
-          },
-          {
-            "id": "3e5dd4fa42502dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/02 架构设计的历史背景.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02 架构设计的历史背景"
-            }
-          },
-          {
-            "id": "90a880b1d7332311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/vec/方法/std-vec-Vec-truncate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "std-vec-Vec-truncate"
-            }
-          },
-          {
-            "id": "2bf0f0447e97f320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/设计模式/面向对象思想/架构-面向对象-基本概念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "架构-面向对象-基本概念"
+              "title": "编译原理-null值的设计"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -387,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rust",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -426,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 723.5
+    "width": 527.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -490,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/basic/算法和数据机构/plan-算法.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "plan-算法 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -515,8 +371,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -525,8 +381,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -535,8 +391,8 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "code-execute-manage-executors"
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
             }
           },
           {
@@ -545,8 +401,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -554,7 +410,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 690.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -573,52 +429,52 @@
   },
   "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
-    "Areas/basic/英语/Projects/Love in the cholera/句子解析/It was inevitable-the scent of bitter almonds always reminded him of the fate of unrequited love..md",
-    "Areas/basic/英语/Projects/Love in the cholera/句子解析/The words I am about to express -They now have their own crowned goddess.md",
-    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-形式主语 it is&it seemed.md",
-    "Areas/basic/英语/Areas/语法/英语-显示结构依赖性 1.md",
-    "Areas/basic/英语/Areas/语法/英语-显示结构依赖性.md",
-    "Areas/basic/英语/Areas/语法/英语-名词性从句-基本概念.md",
-    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句.md",
-    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-基本概念.md",
-    "Areas/basic/英语/Areas/语法/英语-名词性从句-主语从句-that.md",
-    "Areas/basic/英语/Areas/语法/英语-双宾语结构的被动化.md",
-    "Areas/basic/英语/Areas/语法/英语-定语从句-限定性和非限定性.md",
-    "Areas/basic/英语/Areas/单词/f/英语-单词-fate.md",
-    "Areas/basic/英语/Areas/单词/r/英语-单词-remind.md",
-    "Areas/basic/英语/Areas/单词/a/英语-单词-almonds.md",
-    "Areas/basic/英语/Areas/单词/r",
-    "Areas/basic/英语/Areas/单词/f",
-    "Areas/basic/英语/Areas/单词/b/英语-单词-bitter.md",
-    "Areas/basic/英语/Areas/单词/a",
-    "Areas/basic/英语/Projects/Love in the cholera/日志.md",
-    "Areas/basic/英语/Areas/单词/b/英语-单词-board.md",
-    "Areas/basic/英语/Areas/单词/s/英语-单词-scent.md",
-    "Areas/basic/英语/Areas/单词/s/英语-单词-storm.md",
-    "Areas/basic/英语/Areas/单词/i/英语-单词-inevitable.md",
-    "Areas/basic/英语/Areas/单词/g/英语-单词-grocery.md",
-    "Areas/basic/英语/Projects/100个句子记完7000个雅思单词/01 There is considerable debate over how we should react if we detect a signal from an alien civilisation..md",
-    "Areas/basic/英语/Projects/Love in the cholera/未命名",
-    "Areas/basic/英语/Areas/单词/g/英语-单词-goddess.md",
-    "Areas/basic/英语/Areas/单词/i",
-    "Areas/basic/英语/Areas/语法/英语-定语从句-关系代词.md",
-    "Areas/basic/英语/Areas/单词/c/英语-单词-crown.md",
-    "Areas/basic/英语/Areas/语法/未命名",
-    "Areas/basic/英语/Areas/语法/英语-定语从句-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-reference patterns引用模式.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-Non-reference patterns非引用模式.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-Literal patterns 字面值模式.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-Rest Pattern.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-绑定模式-自动调整 2024.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-功能-解构.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-从变体中提取值.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-匹配与所有权互动.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-绑定方式-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/15.智能指针/15.0 智能指针基本概念/Rust-智能指针-基本概念.md",
+    "Areas/Rust/Area/998 待办/Rust-智能指针待办.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-特点-可反驳.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式-模式分类-StructPatternEtCetera.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-枚举-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-模式匹配-匹配所有模式和 `_` 占位符.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-Option vs 空值-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/6. 枚举和模式匹配/Rust-枚举-递归类型中大小如何计算.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/option/Option/Rust-Option-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/option/Option/Rust-Option-与普通类型的区别.md",
+    "Areas/basic/编译原理/null值的设计/编译原理-null值的设计.md",
+    "Areas/basic/编译原理/指针/引用.md",
+    "Areas/basic/编译原理/null值的设计",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/option/Option/map/map 详解.md",
+    "Areas/Rust/plan-rust.md",
+    "Areas/Rust/Area/997 日志/Rust-日志.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251111093721.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251111092442.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251111092120.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251111092032.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/997.架构案例",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/98 日志",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/99 capture",
+    "Areas/basic/编译原理/Lisp 语言中核心构造机制——cons 函数",
+    "Areas/Rust/Area/997 日志",
+    "Areas/Rust/Area/998 待办",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/15.智能指针/未命名",
+    "Areas/basic/编译原理/指针",
     "Areas/basic/英语/Areas/语法/asserts/Pasted image 20251108150753.png",
-    "Areas/basic/英语/Areas/语法/asserts",
-    "Areas/basic/英语/Areas/单词/s",
-    "Areas/basic/英语/Areas/单词/p",
-    "Areas/basic/英语/Areas/单词/o",
     "Areas/basic/算法和数据机构/Project/代码随想录/数组/asserts/Pasted image 20251027155720.png",
     "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/Pasted image 20251020170131.png",
     "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/asserts/Pasted image 20251020162958.png",
     "Areas/book/UNIX环境高级编程/第 14 章：高级IO/reference/14.2 记录锁/asserts/Pasted image 20251020161416.png",
     "Areas/basic/os/面试题/notes/共享内存/asserts/Pasted image 20251018223144.png",
-    "Areas/basic/os/面试题/notes/socket/asserts/Pasted image 20251018200111.png",
-    "Areas/basic/os/面试题/reference/asserts/Pasted image 20251018095643.png",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205126.png",
-    "Areas/basic/Docker/Archive/Project/2025docker训练营/项目资料/视频/asserts/Pasted image 20250706205235.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

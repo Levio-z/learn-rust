@@ -13,8 +13,8 @@
 	- 报告：[开源操作系统训练营第四阶段总结](Projects/开源操作系统训练营/2025春夏/报告/开源操作系统训练营第四阶段总结.md)
 
 
-# 理论依据
+# 理论参考
 - [我们需要通过写作，来让我们清晰的思考](https://paulgraham.com/writes.html)
-- 通过日拱一卒，不断投资知识、技术，产生指数级的复利
+- [People Die, but Long Live GitHub](https://laike9m.com/blog/people-die-but-long-live-github,122/)
 
-### 222
+
