@@ -3,7 +3,7 @@ echo 1a410efbd13591db07496601ebc7a059dd55cfe9 > .git/refs/heads/master
 ```
 就是将一个master文件，里面存放最新提交的哈希值
 
-![](../../../../../../../Projects/Build%20Your%20Qwn%20Git/开发日志/asserts/Pasted%20image%2020250911143929.png)
+![](../../../../../../../Archive/projects/Build%20Your%20Qwn%20Git/开发日志/asserts/Pasted%20image%2020250911143929.png)
 
 
 ### Git引用

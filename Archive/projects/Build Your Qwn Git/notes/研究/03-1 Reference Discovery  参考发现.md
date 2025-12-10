@@ -35,7 +35,7 @@
 **虽然可以绕过上述缓冲问题，在不读取 IDX 文件的情况下解析软件包文件，但索引文件让这一切变得更加简单**。与软件包文件类似，版本 2 的索引文件也以文件头开头，但索引文件头只有 8 个字节，而不是 12 个字节。前四个字节始终为 `255, 116, 79, 99` ，之所以选择这四个字节，是因为第一个版本的索引文件没有任何文件头信息，而这四个字节对于版本 1 的索引文件来说是一个无效的开头。接下来的四个字节明确地表示版本号——在本例中为版本 2。
 ![](asserts/Pasted%20image%2020251207131608.png)
 
-[fan-out 表](../../notes/Reference/fan-out%20表.md)
+[fan-out 表](../Reference/fan-out%20表.md)
 - **第一层**（fan-out 表）：
     - 已知：每个条目记录了 **首字节 ≤ N 的对象数量**。
     - 通过最后一个条目（第 255 个条目）可以得到索引中 **对象总数**。
@@ -65,5 +65,5 @@
 	- https://codewords.recurse.com/issues/three/unpacking-git-packfiles
 	- 解析使用 z-lib 算法压缩的 pack 文件。
 - https://git-scm.com/docs/gitformat-pack
-- [Git Packfile 对象长度编码机制解析](../../notes/Reference/Git%20Packfile%20对象长度编码机制解析.md)
-- [Git 对象长度的计算移位公式](../../notes/Reference/Git%20对象长度的计算移位公式.md)
+- [Git Packfile 对象长度编码机制解析](../Reference/Git%20Packfile%20对象长度编码机制解析.md)
+- [Git 对象长度的计算移位公式](../Reference/Git%20对象长度的计算移位公式.md)

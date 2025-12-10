@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/Build Your Git TOC.md",
+                "file": "Archive/archive_links/projects/build-your-own-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "build-your-own-git"
+            }
+          },
+          {
+            "id": "e18a492384a7e3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/projects/Build Your Qwn Git/Build Your Git TOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Reference/RefDelta 如何确定基础对象类型.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/Reference/RefDelta 如何确定基础对象类型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -205,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
+                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -229,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
+                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -253,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
+                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -277,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Build Your Qwn Git/notes/Reference/Rust-ZlibDecoder-使用bufread避免多读数据.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/Reference/Rust-ZlibDecoder-使用bufread避免多读数据.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -319,7 +343,8 @@
               "title": "Rust-cursor-基本概念-TOC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -522,29 +547,29 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8a88f8c1e452ff97",
+  "active": "17479cae4de7a937",
   "lastOpenFiles": [
-    "Projects/Build Your Qwn Git/开发日志/03 clone.md",
-    "Projects/Build Your Qwn Git/开发日志/03-clone-5. read the pack file footer.md",
-    "Projects/Build Your Qwn Git/开发日志/03-clone-4. read the pack file footer and compute hash.md",
-    "Projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
-    "Projects/Build Your Qwn Git/开发日志/03-clone-2. 发送 want have 获取packfile（拉取数据）.md",
-    "Projects/Build Your Qwn Git/开发日志/03-clone-1. discover references and parse_pkt_lines （确认服务端的内容）.md",
-    "Projects/Build Your Qwn Git/开发日志/02 ls-tree、write-tree、commit.md",
-    "Projects/Build Your Qwn Git/Build Your Git TOC.md",
-    "Projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
     "Archive/archive_links/projects/build-your-own-git.md",
+    "Archive/projects/Build Your Qwn Git/Build Your Git TOC.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-create_dir_all-递归创建目录.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03 clone.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-5. read the pack file footer.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-4. read the pack file footer and compute hash.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-2. 发送 want have 获取packfile（拉取数据）.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-1. discover references and parse_pkt_lines （确认服务端的内容）.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/02 ls-tree、write-tree、commit.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
     "Archive/archive_links/projects",
     "Archive/archive_links",
     "Archive/archive_links/atomic",
     "Archive/projects",
     "Archive",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-create_dir_all-递归创建目录.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-write-写入切片作为整个文件内容.md",
-    "Projects/Build Your Qwn Git/notes/Reference/Rust-ZlibDecoder-使用bufread避免多读数据.md",
+    "Archive/projects/Build Your Qwn Git/notes/Reference/Rust-ZlibDecoder-使用bufread避免多读数据.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/io/Cursor/Rust-cursor-基本概念-TOC.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/io/Cursor/Cursor.md",
-    "Projects/Build Your Qwn Git/notes/deltification 概念/Git-Parsing packfiles  object entry 格式.md",
+    "Archive/projects/Build Your Qwn Git/notes/deltification 概念/Git-Parsing packfiles  object entry 格式.md",
     "Templates/note/卡片笔记模板 1.md",
     "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/alloc/Vec/Rust-vec-try_into-将vec转换为数组.md",
@@ -553,17 +578,17 @@
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/methods/metadata.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/methods/read.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/path/PathBuf/Rust PathBuf.md",
-    "Projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - pkt-line 格式.md",
+    "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - pkt-line 格式.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/result/Result-methods-map_err.md",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/result 1",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/result",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/traits",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/num",
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/option",
-    "Projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131731.png",
-    "Projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131608.png",
-    "Projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251206150959.png",
-    "Projects/Build Your Qwn Git/开发日志/asserts/Pasted image 20250911143929.png",
+    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131731.png",
+    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131608.png",
+    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251206150959.png",
+    "Archive/projects/Build Your Qwn Git/开发日志/asserts/Pasted image 20250911143929.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204164714.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204163314.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204163241.png",
