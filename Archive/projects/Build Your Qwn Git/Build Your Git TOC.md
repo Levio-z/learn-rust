@@ -11,6 +11,6 @@ https://app.codecrafters.io/courses/git/overview
 ### learn
 了解 .git 目录、Git 对象、底层命令等等。
 ### work log
-[01 init、read a blob 、write a blob](开发日志/01%20init、read%20a%20blob%20、write%20a%20blob.md)
-[02 ls-tree、write-tree、commit](开发日志/02%20ls-tree、write-tree、commit.md)
-[03 clone](开发日志/03%20clone.md)
+- [01 init、read a blob 、write a blob](开发日志/01%20init、read%20a%20blob%20、write%20a%20blob.md)
+- [02 ls-tree、write-tree、commit](开发日志/02%20ls-tree、write-tree、commit.md)
+- [03 clone](开发日志/03%20clone.md)
