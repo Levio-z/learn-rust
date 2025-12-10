@@ -10,7 +10,7 @@ http://<host>:<port>/<path>?<searchpart>
 
 [末尾附加额外的路径组件来区分协议](#末尾附加额外的路径组件来区分协议)
 [删除末尾斜杆](#删除末尾斜杆)
-[Git-一般请求处理](../Git-一般请求处理.md)
+[Git-一般请求处理](../draft/Git-一般请求处理.md)
 ## 2. 背景/出处  
 - 来源：
 - 引文/摘要：  
@@ -88,8 +88,8 @@ URL request:  http://example.com/git/repo.git/path/submodule.git/info/refs
 - 前置卡片：
 - 后续卡片：
 	- [Git-Authentication  认证](../Reference/Git-Authentication%20%20认证.md)
-	- [Git-服务器要求-SSL](../Git-服务器要求-SSL.md)
-	- [Git-服务器-会话状态](../Git-服务器-会话状态.md)
+	- [Git-服务器要求-SSL](../draft/Git-服务器要求-SSL.md)
+	- [Git-服务器-会话状态](../draft/Git-服务器-会话状态.md)
 - 相似主题：
 
 ## 5. 应用/启发  
