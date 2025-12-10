@@ -25,7 +25,7 @@ Tony Hoare 所说的“十亿美元错误”本质上是 **空指针引用（nul
 - 前置卡片：
 	- 
 - 后续卡片：
-	- [Rust-Option vs 空值-基本概念](../../../Rust/Area/1%20基本概念/1%20基础知识/6.%20枚举和模式匹配/Rust-Option%20vs%20空值-基本概念.md)
+	- [Rust-Option vs 空值-基本概念](../../../Rust/Area/1%20基本概念/1%20基础知识/RustBook/6.%20枚举和模式匹配/Rust-Option%20vs%20空值-基本概念.md)
 - 相似主题：
 - 
 

@@ -175,6 +175,10 @@ mindmap-plugin: basic
 
 ###### 不安全代码指南参考 - 不安全编码实践
 
+##### [Ergonomic Self‑Referential Types for Rust](https://colobu.com/effective-rust/)
+
+###### Advanced Rust
+
 #### 工具链和版本以及代码规范
 
 ##### [Rust Playground](https://play.rust-lang.org/)

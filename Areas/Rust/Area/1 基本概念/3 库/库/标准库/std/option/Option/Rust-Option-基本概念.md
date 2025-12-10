@@ -34,7 +34,7 @@ enum Option<T> {
 - 前置卡片：
 - 后续卡片：
 	- [Rust-Option-与普通类型的区别](Rust-Option-与普通类型的区别.md)
-	- [Rust-Option vs 空值-基本概念](../../../../../../1%20基础知识/6.%20枚举和模式匹配/Rust-Option%20vs%20空值-基本概念.md)
+	- [Rust-Option vs 空值-基本概念](../../../../../../1%20基础知识/RustBook/6.%20枚举和模式匹配/Rust-Option%20vs%20空值-基本概念.md)
 - 相似主题：
 
 ## 5. 应用/启发  
