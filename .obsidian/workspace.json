@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/10 架构设计-识别复杂度.md",
+                "file": "Archive/projects/Build Your Qwn Git/notes/研究/架构-Git-设计-采取了三种措施来减少磁盘空间占用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10 架构设计-识别复杂度"
+              "title": "架构-Git-设计-采取了三种措施来减少磁盘空间占用"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&str",
+                "query": "架构-Git-设计-采取了三种措施来减少磁盘空间占用",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,8 +235,8 @@
   },
   "active": "c7858c43f3a0560d",
   "lastOpenFiles": [
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/架构设计-原则-案例-QQ.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/10 架构设计-识别复杂度.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/架构设计-原则-案例-QQ.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140816.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140807.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/09 架构设计原则案例.md",
