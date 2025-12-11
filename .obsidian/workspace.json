@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a88f8c1e452ff97",
+            "id": "c7858c43f3a0560d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/archive_links/projects/build-your-own-git.md",
+                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/10 架构设计-识别复杂度.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,323 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "build-your-own-git"
-            }
-          },
-          {
-            "id": "e18a492384a7e3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/Build Your Git TOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Build Your Git TOC"
-            }
-          },
-          {
-            "id": "8fa77c96e0a136e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-create_dir_all-递归创建目录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rust-fs-create_dir_all-递归创建目录"
-            }
-          },
-          {
-            "id": "9472c0733593049a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/alloc/Vec/Rust-vec-try_into-将vec转换为数组.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rust-vec-try_into-将vec转换为数组"
-            }
-          },
-          {
-            "id": "9d11336e8b6a0b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/设计模式/23经典设计模式/结构型/装饰器模式/1.0 装饰器模式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.0 装饰器模式"
-            }
-          },
-          {
-            "id": "fdd2800041107747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式"
-            }
-          },
-          {
-            "id": "4ead16c112ffa14c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/Reference/RefDelta 如何确定基础对象类型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RefDelta 如何确定基础对象类型"
-            }
-          },
-          {
-            "id": "c46591db1f173e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式"
-            }
-          },
-          {
-            "id": "73da3779f609069a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/Git-智能协议/Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Git-gitprotocol-pack - 3-如何通过网络传输软件包-packfile文件格式"
-            }
-          },
-          {
-            "id": "c49660248b6441f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03-clone-3. read the pack file header and process each object"
-            }
-          },
-          {
-            "id": "07b9a37d7b902a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03-clone-3. read the pack file header and process each object"
-            }
-          },
-          {
-            "id": "1fd36ed8739be1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03-clone-3. read the pack file header and process each object"
-            }
-          },
-          {
-            "id": "51a4d698f0ba9220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/Reference/Rust-ZlibDecoder-使用bufread避免多读数据.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rust-ZlibDecoder-使用bufread避免多读数据"
-            }
-          },
-          {
-            "id": "f711717d6607c0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/io/Cursor/Rust-cursor-基本概念-TOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rust-cursor-基本概念-TOC"
+              "title": "10 架构设计-识别复杂度"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -363,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursor",
+                "query": "&str",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -402,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 463.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -547,54 +234,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e18a492384a7e3bd",
+  "active": "c7858c43f3a0560d",
   "lastOpenFiles": [
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/架构设计-原则-案例-QQ.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/10 架构设计-识别复杂度.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140816.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140807.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/09 架构设计原则案例.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/08 架构设计三原则.md",
+    "Templates/对每项技能的描述模板.md",
+    "Zettelkasten/tools/该项目遵循的卡片笔记类型.md",
+    "Templates/project/4 note/project/done",
+    "Templates/project/4 note/project/doing",
+    "Templates/project/4 note/project/todo",
+    "Templates/project/4 note/project/misc",
+    "Templates/project/4 note/project/inbox",
+    "Templates/project/3 开发日志/Task/done",
+    "Templates/project/3 开发日志/Task/doing",
+    "Templates/project/3 开发日志/Task/未命名.md",
+    "Templates/project/3 开发日志/Task/todo",
+    "Templates/project/3 开发日志/Task/misc",
+    "Templates/project/3 开发日志/Task/inbox",
+    "Zettelkasten/fleeting/卡片笔记模板.md",
     "Archive/projects/Build Your Qwn Git/notes/研究/架构-Git-设计-采取了三种措施来减少磁盘空间占用.md",
-    "Archive/projects/Build Your Qwn Git/notes/Reference/git-OBJ_OFS_DELTA （偏移量增量对象）.md",
-    "Archive/projects/Build Your Qwn Git/notes/deltification 概念/Git-Parsing packfiles  IDX files  IDX 文件.md",
-    "Archive/projects/Build Your Qwn Git/notes/deltification 概念/Git-Parsing packfiles  解析包文件概念.md",
-    "Archive/projects/Build Your Qwn Git/notes/deltification 概念/Git-Parsing packfiles  扇出表.md",
-    "Archive/projects/Build Your Qwn Git/notes/研究/未命名.md",
-    "Archive/projects/Build Your Qwn Git/notes/draft/Git-智能服务git-receive-pack.md",
-    "Archive/projects/Build Your Qwn Git/notes/draft/03-1 Reference Discovery  参考发现.md",
-    "Archive/projects/Build Your Qwn Git/notes/draft/Git-从服务器获取数据-Reference Discovery.md",
-    "Archive/projects/Build Your Qwn Git/notes/未命名",
     "Archive/projects/Build Your Qwn Git/Build Your Git TOC.md",
-    "Archive/projects/Build Your Qwn Git/notes/draft",
-    "Templates/project/5 输出",
-    "Templates/project/4 note/toc/笔记-note-TOC.md",
-    "Templates/project/4 note/toc",
-    "Templates/project/4 note/reference",
-    "Templates/project/4 note/project",
-    "Templates/project/4 note/permanent",
-    "Templates/project/4 note/fleeting",
-    "Templates/project/4 note/draft",
-    "Templates/project/4 note/atomic",
-    "Templates/project/3 开发日志/3.2 开发日志2.md",
-    "Templates/project/3 开发日志/3.1 初始化.md",
-    "Templates/project/2 大纲/项目总览.md",
-    "Templates/project/README.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-5. read the pack file footer.md",
-    "Archive/archive_links/projects/build-your-own-git.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-create_dir_all-递归创建目录.md",
     "Archive/projects/Build Your Qwn Git/开发日志/03 clone.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-4. read the pack file footer and compute hash.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-3. read the pack file header and process each object.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-2. 发送 want have 获取packfile（拉取数据）.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03-clone-1. discover references and parse_pkt_lines （确认服务端的内容）.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/02 ls-tree、write-tree、commit.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/fs/Rust-fs-write-写入切片作为整个文件内容.md",
-    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131731.png",
-    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251207131608.png",
-    "Archive/projects/Build Your Qwn Git/notes/研究/asserts/Pasted image 20251206150959.png",
-    "Archive/projects/Build Your Qwn Git/开发日志/asserts/Pasted image 20250911143929.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204164714.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204163314.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204163241.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204145558.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204145546.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251204145523.png",
+    "Archive/archive_links/projects/build-your-own-git.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/slice/Rust-slice 切片-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.0 常见编程概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210211323.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210211312.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210942.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210916.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210424.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210119.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210205932.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210205733.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/Rust-内存模型.md",
+    "Templates/note/卡片笔记模板 1.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/未命名.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/1. Rust-所有权基本概念/1. 所有权基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/4. 所有权/所有权.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/note/Rust-常量-数组优化策略.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/note/卡片笔记模板 1 1.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.5 数据类型.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.3.2 static + 引用 切片 的用法详解.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/atomic/Rust-&str-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/rust-str-TOC.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/traits/Rust-str-trait-Pattern.md",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",
