@@ -16,8 +16,6 @@ mindmap-plugin: basic
 
 ##### os完成和整理
 
-#### git项目
-
 #### 面试
 
 ##### 每日一题
@@ -98,6 +96,10 @@ mindmap-plugin: basic
 ##### agent
 
 ## Archieve
+
+### git项目
+
+#### 完成
 
 ## Resource
 

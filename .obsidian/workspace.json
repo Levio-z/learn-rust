@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "757eae97f8d3c4d5",
+        "id": "51f6197ac9d7e174",
         "type": "tabs",
         "children": [
           {
-            "id": "c7858c43f3a0560d",
+            "id": "14246c095bdb834d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/projects/Build Your Qwn Git/notes/研究/架构-Git-设计-采取了三种措施来减少磁盘空间占用.md",
+                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/20 架构设计-架构模式-高性能负载均衡-算法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,175 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "架构-Git-设计-采取了三种措施来减少磁盘空间占用"
+              "title": "20 架构设计-架构模式-高性能负载均衡-算法"
+            }
+          },
+          {
+            "id": "89fae86a21793c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/permanent/IO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IO"
+            }
+          },
+          {
+            "id": "3ab6850e02f3d703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/permanent/操作系统-异步编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统-异步编程"
+            }
+          },
+          {
+            "id": "f6c5df012b4e5b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/permanent/操作系统-异步编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统-异步编程"
+            }
+          },
+          {
+            "id": "28eda079a2861280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/并发编程/视频内容/3 并行与并发/操作系统-并发性与并行性：理解资源调度与利用的本质.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统-并发性与并行性：理解资源调度与利用的本质"
+            }
+          },
+          {
+            "id": "02481d128eaa9316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并行性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统-并行性"
+            }
+          },
+          {
+            "id": "65513e4f3d36028d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并发性.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统-并发性"
+            }
+          },
+          {
+            "id": "e29b00535eca63ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/note/卡片笔记模板 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "卡片笔记模板 1"
             }
           }
         ]
@@ -50,7 +218,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "架构-Git-设计-采取了三种措施来减少磁盘空间占用",
+                "query": "IO",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -84,11 +252,12 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 572.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -233,54 +402,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c7858c43f3a0560d",
+  "active": "14246c095bdb834d",
   "lastOpenFiles": [
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/10 架构设计-识别复杂度.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/架构设计-原则-案例-QQ.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140816.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 notes/asserts/Pasted image 20251211140807.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/09 架构设计原则案例.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/08 架构设计三原则.md",
-    "Templates/对每项技能的描述模板.md",
-    "Zettelkasten/tools/该项目遵循的卡片笔记类型.md",
-    "Templates/project/4 note/project/done",
-    "Templates/project/4 note/project/doing",
-    "Templates/project/4 note/project/todo",
-    "Templates/project/4 note/project/misc",
-    "Templates/project/4 note/project/inbox",
-    "Templates/project/3 开发日志/Task/done",
-    "Templates/project/3 开发日志/Task/doing",
-    "Templates/project/3 开发日志/Task/未命名.md",
-    "Templates/project/3 开发日志/Task/todo",
-    "Templates/project/3 开发日志/Task/misc",
-    "Templates/project/3 开发日志/Task/inbox",
-    "Zettelkasten/fleeting/卡片笔记模板.md",
-    "Archive/projects/Build Your Qwn Git/notes/研究/架构-Git-设计-采取了三种措施来减少磁盘空间占用.md",
-    "Archive/projects/Build Your Qwn Git/Build Your Git TOC.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/03 clone.md",
-    "Archive/archive_links/projects/build-your-own-git.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/slice/Rust-slice 切片-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.0 常见编程概念.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210211323.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210211312.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210942.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210916.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210424.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210210119.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210205932.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20251210205733.png",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/Rust-内存模型.md",
+    "Areas/Rust/Project/Async Book/3 开发日志/AsyncBook-log-02-并发编程.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/20 架构设计-架构模式-高性能负载均衡-算法.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并发性.md",
+    "Zettelkasten/permanent/操作系统-阻塞IO-抢占式任务处理系统的视角.md",
+    "Zettelkasten/permanent/OS-阻塞IO.md",
+    "Zettelkasten/permanent/IO.md",
+    "Zettelkasten/permanent/IO-完成的方式.md",
+    "Zettelkasten/permanent/操作系统-异步编程.md",
+    "Zettelkasten/fleeting/操作系统-任务的协作调度-异步编程中的协作式调度.md",
+    "Zettelkasten/permanent/操作系统-异步和线程的关系.md",
+    "Zettelkasten/permanent/操作系统-进程和线程-基本概念.md",
+    "Projects/并发编程/视频内容/3 并行与并发/操作系统-并发性与并行性：理解资源调度与利用的本质.md",
     "Templates/note/卡片笔记模板 1.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/未命名.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/1. Rust-所有权基本概念/1. 所有权基本概念.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/4. 所有权/所有权.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/note/Rust-常量-数组优化策略.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/note/卡片笔记模板 1 1.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.5 数据类型.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.3.2 static + 引用 切片 的用法详解.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/atomic/Rust-&str-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/rust-str-TOC.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/core/str/traits/Rust-str-trait-Pattern.md",
+    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并行性.md",
+    "Zettelkasten/permanent/操作系统-并发调度算法-难点.md",
+    "Zettelkasten/permanent/异步并发和线程并发之间的两大区别.md",
+    "Zettelkasten/permanent/操作系统-异步IO的优点和适用场景.md",
+    "Zettelkasten/permanent/操作系统-异步IO（非阻塞IO）.md",
+    "Zettelkasten/permanent/操作系统-线程并发系统中的阻塞式 IO VS 异步并发系统中的非阻塞式 IO.md",
+    "Zettelkasten/fleeting/Rust-异步IO-实现.md",
+    "Zettelkasten/permanent/Rust-异步编程-模型.md",
+    "Zettelkasten/permanent/异步的核心.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/Rust-Async和Await-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.3 Stream 与 Future 的不同契约.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.2 Stream 和 StreamExt.md",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.1 无论是函数还是块，async都可以把他们变为impl Future类型对吗.md",
+    "Areas/Rust/Project/Async Book/4 note/zk/permanent",
+    "Areas/Rust/Project/Async Book/4 note/zk/fleeting",
+    "Areas/Rust/Project/Async Book/4 note/project/todo",
+    "Areas/Rust/Project/Async Book/4 note/zk/literature",
+    "Areas/Rust/Project/Async Book/4 note/project/misc",
+    "Areas/Rust/Project/Async Book/4 note/project/inbox",
+    "Areas/Rust/Project/Async Book/4 note/project/done",
+    "Areas/Rust/Project/Async Book/4 note/project/doing",
+    "Areas/Rust/Project/Async Book/4 note/note/todo",
+    "Areas/Rust/Project/Async Book/4 note/note/misc",
+    "Projects/Writing an OS in Rust/note/project/inbox/asserts/Pasted image 20251218091329.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217104038.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217103912.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217103003.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162827.png",
+    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162809.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216104122.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103741.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103505.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103235.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

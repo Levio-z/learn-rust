@@ -1,0 +1,86 @@
+---
+tags:
+  - permanent
+---
+## 1. 核心观点  
+### Ⅰ. 概念层
+async/await 的设计理念是让程序员编写 _看似_ 普通的同步代码，但由编译器转换为异步代码
+
+- `async` ：关键字可用于函数签名中来将一个同步函数转换为返回 future 的异步函数。
+- `awati`：只有这个关键字本身看起来不太有用。然而，在 `async` 函数内部，`await` 关键字可用于获取一个 future 的异步值：
+- [零成本抽象](#零成本抽象)：通过使用 `.await` 运算符，我们无需任何闭包或者 `Either` 类型就可以直接获取 future 的值。于是我们就可以像写普通的同步代码一样编写代码，只不过 _这实际上是异步代码_。
+
+
+### Ⅱ. 实现层
+
+
+
+### Ⅲ. 原理层
+
+## 2. 背景/出处  
+- 来源：[RFC 2394: async/await](https://rust-lang.github.io/rfcs/2394-async_await.html?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDg5NjI5MTEsImZpbGVHVUlEIjoiS2xrS3ZlZ1pvZXVkdzdxZCIsImlhdCI6MTc0ODk2MjYxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwicGFhIjoiYWxsOmFsbDoiLCJ1c2VySWQiOjU5Nzc4NDgzfQ.GX)
+- 引文/摘要：  
+  - …  
+  - …  
+
+## 3. 展开说明  
+### 参考资料
+
+
+### 基本概念
+#### async
+- `async` 关键字可以应用于块和函数，以指定它们可以被中断和恢复。`sync` 关键字可用于函数签名中来将一个同步函数转换为返回 future 的异步函数。
+    - 【异步块】当 Rust 看到一个标有 `async` 关键字的块时，它会将其编译成一个唯一的匿名数据类型，实现 `Future` trait。
+    - 【异步函数】当 Rust 看到一个标有 `async` 的函数时，它会将其编译成一个非异步函数，其主体是一个异步块。因此，async 函数的返回类型是编译器为该 async 块创建的匿名数据类型的类型。
+	    - `async fn calculate(nums: &[i32]) -> i32 {}`
+	    - `fn calculate<'a>(nums: &'a [i32]) -> impl Future<Output = i32> + 'a;` 
+	    - 异步函数返回一个匿名类型，该类型实现 `Future` trait，其输出是函数的返回类型。所以在这里，它表示为 `impl Future<Output = i32>`。future 捕获函数参数中的任何生命周期。因此，返回的类型具有边界 `+ 'a`，而输入切片的类型为 `&'a [i32]。` 这表明 slice 的生存时间必须至少与捕获它的 future 一样长。
+- 在编写异步 Rust 时，我们使用 `async` 和 `await` 关键字。 Rust 使用 `Future` trait 将它们编译成等效代码，就像它使用 `Iterator` trait 将 `for` 循环编译成等效代码一样。
+
+### 案例
+```rust
+async fn foo() -> u32 {
+    0
+}
+
+// 上述代码大致被编译器转换成
+fn foo() -> impl Future<Output = u32> {
+    future::ready(0)
+}
+```
+
+
+#### await
+- 只有这个关键字本身看起来不太有用。然而，在 `async` 函数内部，`await` 关键字可用于获取一个 future 的异步值：
+- 在异步块或异步函数中，您可以使用 `await` 关键字等待 future 准备就绪，称为 _awaiting a future_。在异步块或函数中等待 future 的每个位置都是异步块或函数可以暂停和恢复的位置。这 使用 Future 检查 Value 是否可用的过程称为 _轮询_ 。
+- 遗憾的是，此代码无法编译。我们唯一可以使用 `await` 的地方 keyword 在异步函数或块中，Rust 不允许我们将 特殊的 `main` 函数作为 `async` 来执行。
+- 每个 _await 点_ — 即代码使用 `await` 的每个位置 keyword - 表示将控制权交还给运行时的位置。自 使它工作，Rust 需要跟踪异步中涉及的状态 块，以便运行时可以启动一些其他工作，然后在 它已准备好再次尝试推进第一个。这是一个看不见的状态机， 就好像你写了一个这样的枚举来保存每个 await 的当前状态 点：
+#### 零成本抽象
+在编写异步 Rust 时，我们大部分时间都使用 `async` 和 `await` 关键字。Rust 使用 `Future` trait 将它们编译成等价代码，就像它使用 `Iterator` trait 将 `for` 循环编译成等价代码一样。不过，由于 Rust 提供了 `Future` trait，因此您也可以在需要时为自己的数据类型实现它。
+
+前者案例见：
+[Rust-future-组合设计的思想](../Future/Rust-future-组合设计的思想.md)
+```rust
+async fn example(min_len: usize) -> String {
+    let content = async_read_file("foo.txt").await;
+    if content.len() < min_len {
+        content + &async_read_file("bar.txt").await
+    } else {
+        content
+    }
+}
+
+```
+
+## 4. 与其他卡片的关联  
+- 前置卡片：
+- 后续卡片：
+- 相似主题：
+
+## 5. 应用/启发  
+- 可以如何应用在工作、学习、生活中  
+- 引发的思考与问题  
+
+## 6. 待办/进一步探索  
+- [ ] 深入阅读 xxx  
+- [ ] 验证这个观点的边界条件  

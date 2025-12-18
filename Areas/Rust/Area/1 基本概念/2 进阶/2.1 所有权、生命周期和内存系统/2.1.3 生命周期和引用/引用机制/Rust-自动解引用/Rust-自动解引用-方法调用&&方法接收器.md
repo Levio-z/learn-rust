@@ -26,7 +26,9 @@ impl Point {
 ```rust
 p.move_by(3, 4);   // 编译器自动展开为 Point::move_by(&mut p, 3, 4);
 ```
-
+### 规则
+- 方法调用会自动插入*，自动解引用：[1.0 Deref Trait 原理 - 方法调用自动插入 deref 链](1.0%20Deref%20Trait%20原理%20-%20方法调用自动插入%20deref%20链.md)
+- 
 
 ## 2. 背景/出处  
 - 来源：
