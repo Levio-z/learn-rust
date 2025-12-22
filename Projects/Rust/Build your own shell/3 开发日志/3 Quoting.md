@@ -14,7 +14,7 @@
 #### 重构
 ##### 1、Path改为单例，使用lazylock
 **运行中的 Shell** 不会自动监控配置文件变化并更新 PATH；要更新，需要重新 source 配置文件：
-将shell改为单例模式
+所将shell改为单例模式，懒加载，静态变量
 ```
 static GLOBAL_VEC: LazyLock<Vec<PathBuf>> = LazyLock::new(|| {
 
@@ -26,7 +26,7 @@ static GLOBAL_VEC: LazyLock<Vec<PathBuf>> = LazyLock::new(|| {
 ```
 - 使用&GLOBAL_VEC
 ##### 2、匹配改为match
-#### 单引号
+#### 代码演进
 [z-Build yout own shell 单引号（非状态机，按照字符串分割）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20单引号（非状态机，按照字符串分割）.md)
 [z-Build yout own shell 双引号（状态机）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号（状态机）.md)
 [z-Build yout own shell 双引号支持特殊字符](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号支持特殊字符.md)

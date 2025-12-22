@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
+                "file": "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "z-Build yout own shell 双引号（状态机）"
+              "title": "3 Quoting"
             }
           },
           {
@@ -285,9 +285,9 @@
   },
   "active": "aaf4ca5a14f505f3",
   "lastOpenFiles": [
+    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 单引号（非状态机，按照字符串分割）.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号支持特殊字符.md",
-    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
     "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/卡片笔记模板 1 1.md",
     "Projects/Rust/Build your own shell/3 开发日志/2 Navigation  导航.md",
