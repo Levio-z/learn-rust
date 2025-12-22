@@ -7,6 +7,8 @@
 - https://app.codecrafters.io/courses/shell/stages/le5
 - https://app.codecrafters.io/courses/shell/stages/gu3
 - https://app.codecrafters.io/courses/shell/stages/qj0
+- commit：
+	- https://github.com/learn-rust-projects/build-your-own-shell/commit/6dabbc8686c4c30391ad094d30ff6ba5598cd739
 #### 1.3 知识点
 #### 1.4 需求分析
 
