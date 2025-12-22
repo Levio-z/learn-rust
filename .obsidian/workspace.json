@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51f6197ac9d7e174",
+        "id": "f4371c856fd9ddc2",
         "type": "tabs",
         "children": [
           {
-            "id": "14246c095bdb834d",
+            "id": "3ae43de24e1ac7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/20 架构设计-架构模式-高性能负载均衡-算法.md",
+                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20 架构设计-架构模式-高性能负载均衡-算法"
+              "title": "21 架构设计-架构模式-CAP理论"
             }
           },
           {
-            "id": "89fae86a21793c5d",
+            "id": "aaf4ca5a14f505f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/permanent/IO.md",
+                "file": "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IO"
+              "title": "z-Build yout own shell 双引号（状态机）"
             }
           },
           {
-            "id": "3ab6850e02f3d703",
+            "id": "3557db8418fa9adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/permanent/操作系统-异步编程.md",
+                "file": "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,130 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "操作系统-异步编程"
-            }
-          },
-          {
-            "id": "f6c5df012b4e5b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/permanent/操作系统-异步编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "操作系统-异步编程"
-            }
-          },
-          {
-            "id": "28eda079a2861280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/并发编程/视频内容/3 并行与并发/操作系统-并发性与并行性：理解资源调度与利用的本质.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "操作系统-并发性与并行性：理解资源调度与利用的本质"
-            }
-          },
-          {
-            "id": "02481d128eaa9316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并行性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "操作系统-并行性"
-            }
-          },
-          {
-            "id": "65513e4f3d36028d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并发性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "操作系统-并发性"
-            }
-          },
-          {
-            "id": "e29b00535eca63ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/note/卡片笔记模板 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "卡片笔记模板 1"
+              "title": "z-Build yout own shell 双引号（状态机）"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IO",
+                "query": "lazylock",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -257,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 541.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -346,8 +227,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
@@ -356,8 +237,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -366,8 +247,8 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
+              "icon": "lucide-ghost",
+              "title": "code-execute-manage-executors"
             }
           },
           {
@@ -376,8 +257,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -402,44 +283,47 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "14246c095bdb834d",
+  "active": "aaf4ca5a14f505f3",
   "lastOpenFiles": [
-    "Areas/Rust/Project/Async Book/3 开发日志/AsyncBook-log-02-并发编程.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/20 架构设计-架构模式-高性能负载均衡-算法.md",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并发性.md",
-    "Zettelkasten/permanent/操作系统-阻塞IO-抢占式任务处理系统的视角.md",
-    "Zettelkasten/permanent/OS-阻塞IO.md",
-    "Zettelkasten/permanent/IO.md",
-    "Zettelkasten/permanent/IO-完成的方式.md",
-    "Zettelkasten/permanent/操作系统-异步编程.md",
-    "Zettelkasten/fleeting/操作系统-任务的协作调度-异步编程中的协作式调度.md",
-    "Zettelkasten/permanent/操作系统-异步和线程的关系.md",
-    "Zettelkasten/permanent/操作系统-进程和线程-基本概念.md",
-    "Projects/并发编程/视频内容/3 并行与并发/操作系统-并发性与并行性：理解资源调度与利用的本质.md",
-    "Templates/note/卡片笔记模板 1.md",
-    "Projects/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/概念合集/操作系统-并行性.md",
-    "Zettelkasten/permanent/操作系统-并发调度算法-难点.md",
-    "Zettelkasten/permanent/异步并发和线程并发之间的两大区别.md",
-    "Zettelkasten/permanent/操作系统-异步IO的优点和适用场景.md",
-    "Zettelkasten/permanent/操作系统-异步IO（非阻塞IO）.md",
-    "Zettelkasten/permanent/操作系统-线程并发系统中的阻塞式 IO VS 异步并发系统中的非阻塞式 IO.md",
-    "Zettelkasten/fleeting/Rust-异步IO-实现.md",
-    "Zettelkasten/permanent/Rust-异步编程-模型.md",
-    "Zettelkasten/permanent/异步的核心.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/Rust-Async和Await-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.3 Stream 与 Future 的不同契约.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.2 Stream 和 StreamExt.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Async和Await/4.0.1 无论是函数还是块，async都可以把他们变为impl Future类型对吗.md",
-    "Areas/Rust/Project/Async Book/4 note/zk/permanent",
-    "Areas/Rust/Project/Async Book/4 note/zk/fleeting",
-    "Areas/Rust/Project/Async Book/4 note/project/todo",
-    "Areas/Rust/Project/Async Book/4 note/zk/literature",
-    "Areas/Rust/Project/Async Book/4 note/project/misc",
-    "Areas/Rust/Project/Async Book/4 note/project/inbox",
-    "Areas/Rust/Project/Async Book/4 note/project/done",
-    "Areas/Rust/Project/Async Book/4 note/project/doing",
-    "Areas/Rust/Project/Async Book/4 note/note/todo",
-    "Areas/Rust/Project/Async Book/4 note/note/misc",
+    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 单引号（非状态机，按照字符串分割）.md",
+    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号支持特殊字符.md",
+    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
+    "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
+    "Projects/Rust/Build your own shell/4 note/note/reference/卡片笔记模板 1 1.md",
+    "Projects/Rust/Build your own shell/3 开发日志/2 Navigation  导航.md",
+    "Areas/Rust/Project/Async Book/3 开发日志/AsyncBook-log-27 结构化并发.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/sync/LazyLock/Rust-sync-LazyLock-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/sync/LazyLock/LazyLock分析.md",
+    "Templates/project/3 开发日志/3.2 开发日志2.md",
+    "Archive/projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
+    "Projects/Rust/Build your own shell/3 开发日志/3.1 初始化.md",
+    "Projects/Rust/Build your own shell/3 开发日志/3.2 开发日志2.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP细节.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-BASE理论.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-CP.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-CA-某些特定场景.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-AP.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP理论.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP理论 1.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-三原则-优先级.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-识别复杂度-方法论.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-数据库管理系统-ACID.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-数据库管理系统-ACID-隔离性四种.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-安全-基本概念.md",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251220163144.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/未命名.md",
+    "Areas/basic/工具/Shell/zk/permanent",
+    "Areas/basic/工具/Shell/zk/literature",
+    "Areas/basic/工具/Shell/zk/fleeting",
+    "Areas/basic/工具/Shell/project/todo",
+    "Areas/basic/工具/Shell/project/done",
+    "Areas/basic/工具/Shell/project/misc",
+    "Areas/basic/工具/Shell/project/inbox",
+    "Areas/basic/工具/Shell/project/doing",
+    "Areas/basic/工具/Shell/note/todo",
+    "Areas/basic/工具/Shell/note/reference",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251219093458.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251219093425.png",
     "Projects/Writing an OS in Rust/note/project/inbox/asserts/Pasted image 20251218091329.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217104038.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217103912.png",
@@ -447,9 +331,6 @@
     "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162827.png",
     "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162809.png",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216104122.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103741.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103505.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216103235.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

@@ -70,4 +70,4 @@ boot_stack_lower_bound:
 ```
 
  RISC-V 架构上，栈是从高地址向低地址增长。因此，最开始的时候栈为空，栈顶和栈底位于相同的位置，我们用更高地址的符号 `boot_stack_top` 来标识栈顶的位置。同时，我们用更低地址的符号 `boot_stack_lower_bound` 来标识栈能够增长到的下限位置，它们都被设置为全局符号供其他目标文件使用。如下图所示：
-![](asserts/Pasted%20image%2020250909203114.png)
+![](../../../../../Projects/on%20hold/开源操作系统训练营/2025春夏/第二阶段：rcore/rCore-Turial-note/2.0%20应用程序执行环境/asserts/Pasted%20image%2020250909203114.png)

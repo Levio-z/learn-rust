@@ -5,11 +5,7 @@ tags:
 
 ## 1. 核心观点  
 
-- `Future` 代表一个可能还没有准备好的值，但会在未来的某个时候准备好。
-
-    > 您可以认为它是一种延迟的结果，它在未来的某个时间点会完成（比如网络请求的响应、磁盘读写操作等）。
-
-传染性：**只要链条中有一个异步点，整个链条都变成异步。**
+它们可以组合成新的、“更大”的future
 
 
 ## 2. 背景/出处  
@@ -20,6 +16,17 @@ tags:
 
 ## 3. 展开说明  
 ### 等待future就绪
+```rust
+async fn example(min_len: usize) -> String {
+    let content = async_read_file("foo.txt").await;
+    if content.len() < min_len {
+        content + &async_read_file("bar.txt").await
+    } else {
+        content
+    }
+}
+
+```
 等待 Future 变为就绪状态
 ```rust
 let future = async_read_file("foo.txt");
@@ -38,6 +45,7 @@ let file_content = loop {
 - 即使在支持阻塞的系统上，这种方式通常也不被推荐，因为它会将异步任务再次转变为同步任务，从而抑制了并行任务潜在的性能优势。
 
 ### Future 组合器
+
 允许将多个 future 链式组合在一起，类似于 [`Iterator`](https://doc.rust-lang.org/stable/core/iter/trait.Iterator.html) trait的方法。 这些组合器不会等待 future 完成，而是返回一个新的 future，该 future 会在 `poll` 时应用映射操作
 ```rust
 struct StringLen<F> {
@@ -86,7 +94,9 @@ fn file_len() -> impl Future<Output = usize> {
 
 >**只要链条中有一个异步点，整个链条都变成异步。**
 
-
+### 组合Future的方法
+#### await
+[Rust-异步编程-await-基本概念](../Async和Await/Rust-异步编程-await-基本概念.md)
 
 ## 4. 与其他卡片的关联  
 - 前置卡片：
