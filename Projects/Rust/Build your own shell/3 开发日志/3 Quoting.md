@@ -27,9 +27,9 @@ static GLOBAL_VEC: LazyLock<Vec<PathBuf>> = LazyLock::new(|| {
 - 使用&GLOBAL_VEC
 ##### 2、匹配改为match
 #### 代码演进
-[z-Build yout own shell 单引号（非状态机，按照字符串分割）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20单引号（非状态机，按照字符串分割）.md)
-[z-Build yout own shell 双引号（状态机）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号（状态机）.md)
-[z-Build yout own shell 双引号支持特殊字符](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号支持特殊字符.md)
+- [z-Build yout own shell 单引号（非状态机，按照字符串分割）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20单引号（非状态机，按照字符串分割）.md)
+- [z-Build yout own shell 双引号（状态机）](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号（状态机）.md)
+- [z-Build yout own shell 双引号支持特殊字符](../4%20note/note/reference/z-Build%20yout%20own%20shell%20双引号支持特殊字符.md)
 
 ### 4 测试
 
