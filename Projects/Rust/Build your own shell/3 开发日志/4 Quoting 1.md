@@ -1,12 +1,8 @@
 ### 1参考
 #### 1.1 挑战内容
 #### 1.2 资料
-- https://app.codecrafters.io/courses/shell/stages/ni6
-- https://app.codecrafters.io/courses/shell/stages/tg6
-- https://app.codecrafters.io/courses/shell/stages/yt5
-- https://app.codecrafters.io/courses/shell/stages/le5
-- https://app.codecrafters.io/courses/shell/stages/gu3
-- https://app.codecrafters.io/courses/shell/stages/qj0
+##### web
+- https://app.codecrafters.io/courses/shell/stages/ei0
 #### 1.3 知识点
 #### 1.4 需求分析
 

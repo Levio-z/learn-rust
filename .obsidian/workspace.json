@@ -283,12 +283,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "aaf4ca5a14f505f3",
+  "active": "17479cae4de7a937",
   "lastOpenFiles": [
+    "Projects/Rust/Build your own shell/3 开发日志/4 Quoting 1.md",
+    "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
+    "Projects/Rust/Build your own shell/3 开发日志/3.1 初始化.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 单引号（非状态机，按照字符串分割）.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号支持特殊字符.md",
-    "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
     "Projects/Rust/Build your own shell/4 note/note/reference/卡片笔记模板 1 1.md",
     "Projects/Rust/Build your own shell/3 开发日志/2 Navigation  导航.md",
     "Areas/Rust/Project/Async Book/3 开发日志/AsyncBook-log-27 结构化并发.md",
@@ -296,7 +298,6 @@
     "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/sync/LazyLock/LazyLock分析.md",
     "Templates/project/3 开发日志/3.2 开发日志2.md",
     "Archive/projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
-    "Projects/Rust/Build your own shell/3 开发日志/3.1 初始化.md",
     "Projects/Rust/Build your own shell/3 开发日志/3.2 开发日志2.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP细节.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-BASE理论.md",
@@ -311,7 +312,6 @@
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-数据库管理系统-ACID-隔离性四种.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-安全-基本概念.md",
     "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251220163144.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/未命名.md",
     "Areas/basic/工具/Shell/zk/permanent",
     "Areas/basic/工具/Shell/zk/literature",
     "Areas/basic/工具/Shell/zk/fleeting",
