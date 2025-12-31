@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道/系统设计和架构-重构-代码坏味道-TOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "系统设计和架构-重构-代码坏味道-TOC"
+            }
+          },
+          {
+            "id": "846134c3d3485ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段/系统设计和架构-重构-重构手段-封装变量（Encapsulate Variable）.md",
                 "mode": "source",
                 "source": false,
@@ -103,7 +127,8 @@
               "title": "系统设计和架构-重构-封装全局变量-rust案例"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 666.5
+    "width": 487.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -289,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,13 +331,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "463a4cac921007bc",
+  "active": "846134c3d3485ef9",
   "lastOpenFiles": [
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-封装全局变量-rust案例.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道/系统设计和架构-重构-代码坏味道-TOC.md",
     "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段/系统设计和架构-重构-重构手段-封装变量（Encapsulate Variable）.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-封装全局变量-rust案例.md",
     "Areas/basic/软件工程/note/note/atomic/软件工程-为什么“没有统一的地方”是问题.md",
     "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-set使用副本-js案例.md",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道/系统设计和架构-重构-代码坏味道-TOC.md",
     "Areas/basic/软件工程/note/note/atomic/软件工程-不变式.md",
     "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note",
     "Areas/basic/编译原理/数据/编译原理-全局数据.md",
