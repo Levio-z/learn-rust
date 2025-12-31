@@ -10,6 +10,8 @@ mindmap-plugin: basic
 
 ### 极客时间训练营
 
+### 重构
+
 ## area
 
 ### 路线
@@ -19,6 +21,8 @@ mindmap-plugin: basic
 ##### github官网系统设计系列
 
 ##### 凤凰架构云原生相关
+
+#### [设计模式-README](../Area/设计模式/设计模式-README.md)
 
 ## resource
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4371c856fd9ddc2",
+        "id": "16ad26d7efb43f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ae43de24e1ac7d2",
+            "id": "463a4cac921007bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP理论.md",
+                "file": "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段/系统设计和架构-重构-重构手段-封装变量（Encapsulate Variable）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21 架构设计-架构模式-CAP理论"
+              "title": "系统设计和架构-重构-重构手段-封装变量（Encapsulate Variable）"
             }
           },
           {
-            "id": "aaf4ca5a14f505f3",
+            "id": "6bfbb26bd73173d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
+                "file": "Areas/basic/软件工程/note/note/atomic/软件工程-为什么“没有统一的地方”是问题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 Quoting"
+              "title": "软件工程-为什么“没有统一的地方”是问题"
             }
           },
           {
-            "id": "3557db8418fa9adc",
+            "id": "6bb3646724187670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
+                "file": "Areas/basic/软件工程/note/note/atomic/软件工程-不变式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "z-Build yout own shell 双引号（状态机）"
+              "title": "软件工程-不变式"
+            }
+          },
+          {
+            "id": "d5cc094b0417b864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-封装全局变量-rust案例.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "系统设计和架构-重构-封装全局变量-rust案例"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lazylock",
+                "query": "全局数据",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -138,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 666.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -283,54 +306,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "aaf4ca5a14f505f3",
+  "active": "463a4cac921007bc",
   "lastOpenFiles": [
-    "Projects/Rust/Build your own shell/3 开发日志/2 Navigation  导航.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/2.1.1  分支逻辑法.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/2.1.2 查表法.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/2.1.3 状态模式.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/2.1.0 状态机三种实现.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/2.0 基本实现.md",
-    "Projects/设计模式/23经典设计模式/行为型/状态模式/1.0 基本概念.md",
-    "Projects/Rust/Build your own shell/3 开发日志/4 Quoting 1.md",
-    "Projects/Rust/Build your own shell/3 开发日志/3 Quoting.md",
-    "Projects/Rust/Build your own shell/3 开发日志/3.1 初始化.md",
-    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号（状态机）.md",
-    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 单引号（非状态机，按照字符串分割）.md",
-    "Projects/Rust/Build your own shell/4 note/note/reference/z-Build yout own shell 双引号支持特殊字符.md",
-    "Projects/Rust/Build your own shell/4 note/note/reference/卡片笔记模板 1 1.md",
-    "Areas/Rust/Project/Async Book/3 开发日志/AsyncBook-log-27 结构化并发.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/sync/LazyLock/Rust-sync-LazyLock-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/3 库/库/标准库/std/sync/LazyLock/LazyLock分析.md",
-    "Templates/project/3 开发日志/3.2 开发日志2.md",
-    "Archive/projects/Build Your Qwn Git/开发日志/01 init、read a blob 、write a blob.md",
-    "Projects/Rust/Build your own shell/3 开发日志/3.2 开发日志2.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP细节.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-BASE理论.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-CP.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-CA-某些特定场景.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/4 note/zk/permanent/架构设计-CAP-AP.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/21 架构设计-架构模式-CAP理论.md",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251220163144.png",
-    "Areas/basic/工具/Shell/zk/permanent",
-    "Areas/basic/工具/Shell/zk/literature",
-    "Areas/basic/工具/Shell/zk/fleeting",
-    "Areas/basic/工具/Shell/project/todo",
-    "Areas/basic/工具/Shell/project/done",
-    "Areas/basic/工具/Shell/project/misc",
-    "Areas/basic/工具/Shell/project/inbox",
-    "Areas/basic/工具/Shell/project/doing",
-    "Areas/basic/工具/Shell/note/todo",
-    "Areas/basic/工具/Shell/note/reference",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251219093458.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251219093425.png",
-    "Projects/Writing an OS in Rust/note/project/inbox/asserts/Pasted image 20251218091329.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217104038.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217103912.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251217103003.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162827.png",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/17.Async和Await/Pin/asserts/Pasted image 20251216162809.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251216104122.png",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-封装全局变量-rust案例.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段/系统设计和架构-重构-重构手段-封装变量（Encapsulate Variable）.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-为什么“没有统一的地方”是问题.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note/系统设计和架构-重构-set使用副本-js案例.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道/系统设计和架构-重构-代码坏味道-TOC.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-不变式.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note",
+    "Areas/basic/编译原理/数据/编译原理-全局数据.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/reference/系统设计和架构-重构-延伸阅读.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-业务语义.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构的挑战.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段/系统设计和架构-重构-重构手段-TOC.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道",
+    "Areas/basic/编译原理/数据",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-自动化重构.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构、架构和 YAGNI.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-基本概念.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构的起源.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构与性能.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-与软件开发过程.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-为何重构.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-何时重构.md",
+    "Areas/book/重构/4 note/note/todo/todo.md",
+    "Areas/basic/软件工程/note/note/atomic/软件危机/第一次软件危机与结构化程序设计（20 世纪 60 年代~20 世纪 70 年代）.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-加速：全球软件交付调查.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-重构-将理解写入代码里.md",
+    "Areas/book/重构/3 开发日志/2 第 2 章 重构的原则.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-技术债.md",
+    "Areas/basic/软件工程/note/note/atomic/软件工程-软件腐败.md",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts/Pasted image 20251231111612.png",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts/Pasted image 20251231111600.png",
+    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts",
+    "Areas/basic/系统设计和架构/Area/设计模式/未命名.base",
+    "Areas/basic/软件工程/note/zk/permanent",
+    "Areas/basic/软件工程/note/zk/literature",
+    "Areas/basic/软件工程/note/zk/fleeting",
+    "Areas/basic/软件工程/note/project/doing",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228164203.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228164132.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228163929.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228163655.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228153002.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228150121.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228150032.png",
+    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228145907.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

@@ -15,6 +15,8 @@ let mut f = OpenOptions::new()
             .create(true)
             .open("foo.txt")?;
 ```
+
+- 一般用创建或清空文件的时候都传入write，这样不会出错
 #### 读取文件
 ##### 打开+读取
 打开文件-1:只读模式
