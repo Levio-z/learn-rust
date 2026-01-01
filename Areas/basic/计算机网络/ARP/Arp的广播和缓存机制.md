@@ -8,4 +8,4 @@
 >查看 ARP 缓存内容
 
 在 Linux 系统中，我们可以使用 arp -a 命令来查看 ARP 缓存的内容。
-![](asserts/Pasted%20image%2020251014143518.png)
+![](../面试题/asserts/Pasted%20image%2020251014143518.png)

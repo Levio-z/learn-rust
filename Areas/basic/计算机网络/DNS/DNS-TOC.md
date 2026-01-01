@@ -9,4 +9,4 @@
 [6. DNS 的配置与自举 (Configuration and Bootstrap)](6.%20DNS%20的配置与自举%20(Configuration%20and%20Bootstrap).md)
 [7. 扩展与安全 (Extensions and Security)](7.%20扩展与安全%20(Extensions%20and%20Security).md)
 - [路由器是怎么获取到DHCP](reference/路由器是怎么获取到DHCP.md)
-- [[权威 DNS 基础设施是互联网基础服务提供者，还是厂商自己的？]]
+- [[reference/权威 DNS 基础设施是互联网基础服务提供者，还是厂商自己的？]]
