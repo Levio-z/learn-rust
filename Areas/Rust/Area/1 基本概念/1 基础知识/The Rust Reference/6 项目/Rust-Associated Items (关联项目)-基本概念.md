@@ -35,5 +35,5 @@ _关联项是在_[特征](https://doc.rust-lang.org/reference/items/traits.html)
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 深入阅读 xxx  
-- [ ] 验证这个观点的边界条件  
+ 
+  

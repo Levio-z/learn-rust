@@ -139,6 +139,4 @@ error[E0277]: the trait bound `T: TraitB` is not satisfied
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 原子笔记整理
-- [ ] 验证这个观点的边界条件  
 

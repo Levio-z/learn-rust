@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16ad26d7efb43f8c",
+        "id": "50f8290e74a1ea6f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd19a100fe29f606",
+            "id": "73263682fbc915c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/basic/操作系统/os-note/操作系统-内存结构以及生命周期管理.md",
+                "file": "Areas/basic/算法和数据机构/Area/atomic/LeetCode/Done/385. Mini Parser（栈解析实现）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "操作系统-内存结构以及生命周期管理"
+              "title": "385. Mini Parser（栈解析实现）"
+            }
+          },
+          {
+            "id": "ce11ac7b013dde18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/basic/算法和数据机构/Area/atomic/LeetCode/Doing/1114. Print in Order.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1114. Print in Order"
+            }
+          },
+          {
+            "id": "92fa2469494bb7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/barrier屏障/Rust-Barrier-基本概念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rust-Barrier-基本概念"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "os-内存安全",
+                "query": "原子变量",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 551.5
   },
   "right": {
     "id": "c07893f13fca5c15",
@@ -153,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/basic/算法和数据机构/Area/notes/滑动窗口的思想.md",
+                "file": "Areas/Rust/Area/1 基本概念/2 进阶/2.12 Clippy/Rust-clippy-修改内容而不改变大小用可变切片.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "滑动窗口的思想 的大纲"
+              "title": "Rust-clippy-修改内容而不改变大小用可变切片 的大纲"
             }
           },
           {
@@ -178,18 +227,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
-            }
-          },
-          {
-            "id": "e4352b9833d98aac",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -198,18 +237,32 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "code-execute-manage-executors"
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
             }
           },
           {
-            "id": "7d22e942b43be298",
+            "id": "5949024401e2dc7c",
             "type": "leaf",
             "state": {
-              "type": "mermaid-toolbar-view",
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "06c9759a8ab5727f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "icon": "checkmark",
+              "title": "Todo"
             }
           }
         ],
@@ -217,11 +270,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -230,58 +283,59 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Open Copilot Chat": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "edge-tts:Read note aloud": false
     }
   },
-  "active": "32b2c7e3847b5ca0",
+  "active": "92fa2469494bb7c4",
   "lastOpenFiles": [
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/1. Rust-所有权基本概念/Rust-所有权-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/Rust-堆内存管理-生命周期核心规则和机制.md",
-    "Areas/basic/编译原理/内存管理/内存管理的机制/内存管理-堆内存模型分类和内存问题.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/Rust-堆栈内存模型.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/堆栈内存模型-Rust实例.md",
-    "Areas/basic/操作系统/os-note/操作系统-内存结构以及生命周期管理.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/1. Rust-所有权基本概念/2. 所有权演进之路.md",
-    "Areas/basic/操作系统/os-note/note/atomic/操作系统-栈-基本概念.md",
-    "Areas/basic/编译原理/函数调用/函数调用与栈/栈-函数调用-栈的变化.md",
-    "Areas/basic/操作系统/os-note/note/atomic/操作系统-栈-为什么设计不大.md",
-    "Areas/basic/操作系统/os-note/note/atomic/操作系统-堆-指针与堆和栈的关系.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.0 常见编程概念.md",
-    "Areas/basic/操作系统/os-note/note/atomic/操作系统-堆-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/3. Rust 怎么确定内存大小.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/Rust-内存模型.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/2. Rust中的动态内存分配和堆数据结构.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/1. Rust-所有权基本概念/Rust-所有权-本质.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/4. 所有权内存模型VS其他语言/1、VS其他语言.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/3.2 Rust-常量-基本概念.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/未命名.md",
-    "Projects/Rust/projects/动手实现链表/过程记录/2.1 基本内存布局.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/15.智能指针/15.1Box/1.0.1Rust-Box内存布局.md",
-    "Areas/basic/编译原理/内存管理/程序的内存布局/程序内存分配布局基本概念.md",
-    "Templates/note/卡片笔记模板 1 1.md",
-    "Areas/Rust/Area/1 基本概念/1 基础知识/RustBook/3.常见编程概念/asserts/Pasted image 20260101081342.png",
-    "Templates/note/卡片笔记模板 1.md",
-    "Areas/basic/编译原理/函数调用/函数调用与栈/函数调用-rcore.md",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/asserts/Pasted image 20260101071104.png",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.1 内存安全与防止数据竞争/Rust内存模型/asserts",
-    "Areas/Rust/Area/1 基本概念/2 进阶/2.1 所有权、生命周期和内存系统/2.1.2 所有权系统/atomic",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/note/note",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-重构手段",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/系统设计和架构-重构-代码坏味道",
-    "Areas/basic/编译原理/数据",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts/Pasted image 20251231111612.png",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts/Pasted image 20251231111600.png",
-    "Areas/basic/系统设计和架构/Area/设计模式/重构/note/zk/permanent/asserts",
-    "Areas/basic/系统设计和架构/Area/设计模式/未命名.base",
-    "Areas/basic/软件工程/note/zk/permanent",
-    "Areas/basic/软件工程/note/zk/literature",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228164203.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228164132.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228163929.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228163655.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228153002.png",
-    "Areas/basic/系统设计和架构/Projects/极客时间从0开始学架构学习/3 开发日志/998. 课程/架构模式/asserts/Pasted image 20251228150121.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/barrier屏障/Rust-Barrier-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原子变量/Rust-原子变量-原子变量体系.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原子变量/Rust-原子变量-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/通道",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/barrier屏障",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原子变量/Rust-原子变量-内存序问题.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原语/Rust-条件变量-Condvar-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原子变量",
+    "Areas/basic/操作系统/面试题/notes/共享内存/IPC-共享内存.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mem/ManuallyDrop/卡片笔记模板 1.md",
+    "Zettelkasten/permanent/操作系统-进程和线程-核心区别.md",
+    "Areas/Rust/Area/3 库/库/标准库/core/AtomicBool/AtomicBool.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fan-in/Rust-mpsc-fan-in-基本概念.md",
+    "Areas/basic/算法和数据机构/Area/atomic/LeetCode/Doing/1114. Print in Order.md",
+    "Areas/basic/算法和数据机构/Area/atomic/LeetCode/Done/385. Mini Parser（栈解析实现）.md",
+    "Areas/basic/算法和数据机构/Area/atomic/LeetCode/Done/1472. 设计浏览器历史记录.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fall-out/Rust-fall-in和fall-out对比.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fall-out",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fan-in/Rust-mpsc-fan-in-并发原理.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fan-in/操作系统-同步-Happens-before.md",
+    "Areas/basic/操作系统/os-note/note/atomic/操作系统-内存屏障-基本概念.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fan-in/Rust-mpsc-fan-in 原理.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/fan-in",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/Rust-mpsc-为什么多生产单消费.md",
+    "Areas/Rust/Area/3 库/库/标准库/std/mpsc/Rust-mpsc-SyncSender.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原语",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/Async和Await/Rust-异步编程-await-基本概念.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/异步生态系统/Rust-异步编程-生态系统.md",
+    "Areas/Rust/Area/3 库/库/标准库/core/str/traits/Rust-str-trait-Pattern.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/本质/Rust-future-执行器-本质.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/执行器/Rust-runtime-简易设计的权衡.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/实现/Rust-runtime-自定义一个简单的执行器.md",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Pin/asserts/Pasted image 20251216162827.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Pin/asserts/Pasted image 20251216162809.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/本质",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/执行器",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/Future 执行器与任务调度/实现",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/asserts/Pasted image 20251211162835.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/asserts/Pasted image 20251211162821.png",
+    "Areas/Rust/Area/1 基本概念/2 进阶/2/Future/asserts/Pasted image 20251211153537.png",
+    "Projects/Rust/1brc/3 开发日志/asserts/Pasted image 20260110133325.png",
+    "Projects/Rust/1brc/3 开发日志/asserts/Pasted image 20260110122942.png",
+    "Projects/Rust/1brc/3 开发日志/asserts/Pasted image 20260110110910.png",
+    "Projects/Rust/1brc/3 开发日志/asserts/Pasted image 20260110105145.png",
+    "Projects/Rust/1brc/3 开发日志/asserts/Pasted image 20260110105049.png",
     "未命名.canvas",
     "Areas/Rust/Area/1 基本概念/3 库/库/crate/未命名.canvas",
     "Projects/开源操作系统训练营/2025 人工智能训练营/C++/Chatgpt/声明/未命名.canvas",

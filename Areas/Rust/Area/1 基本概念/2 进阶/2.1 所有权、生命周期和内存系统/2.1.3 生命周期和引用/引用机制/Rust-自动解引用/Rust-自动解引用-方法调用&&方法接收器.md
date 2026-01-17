@@ -60,11 +60,7 @@ https://play.rust-lang.org/?version=stable&mode=debug&edition=2024&gist=a8a86b8e
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 原子笔记整理
-	- [ ] 整理基本概念的笔记
-	- [ ] String中的自动解引用，String的本质
-	- [ ] 自动解引用规则
-		- [ ] x
-		- [ ] x
-		- [ ] x
-- [ ] 验证这个观点的边界条件  
+- [x] 原子笔记整理
+	- [x] 整理基本概念的笔记
+	- [x] String中的自动解引用，String的本质
+	- [x] 自动解引用规则

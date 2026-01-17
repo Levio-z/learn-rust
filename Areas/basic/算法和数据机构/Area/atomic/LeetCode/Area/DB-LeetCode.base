@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.path.contains("LeetCode")
+    order:
+      - file.name
+      - alog_tag
+      - status
+      - url
+    columnSize:
+      file.name: 201
+      note.alog_tag: 134
+      note.status: 78
+  - type: table
+    name: 视图
+    filters:
+      and:
+        - file.path.contains("LeetCode")
+    indentProperties: false

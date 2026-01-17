@@ -32,5 +32,4 @@ https://play.rust-lang.org/?version=stable&mode=debug&edition=2024&gist=93bcc08a
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 分类的原子笔记
-- [ ] 实现的原子笔记
+

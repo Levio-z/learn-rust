@@ -76,6 +76,11 @@ tags:
 
 ### [结构化并发原则](https://rust-lang.github.io/async-book/part-reference/structured.html#principles-of-structured-concurrency)
 
+结构化并发的核心思想是所有任务（或线程或其他）都组织成树状结构。也就是说，每个任务（除了主任务，即根任务）只有一个父任务，且没有父节点循环。子任务由父任务 2 [](https://rust-lang.github.io/async-book/part-reference/structured.html#footnote-start-parent) 启动，并且_必须_始终在父任务之前完成执行。兄弟姐妹之间没有任何约束。任务的父级可能不会改变。
+
+此外，子任务的寿命也可以用父任务表示。在常见情况下，任务的寿命（其时间范围）与其开始时的词汇范围挂钩。例如，函数内开始的所有任务都应在函数返回前完成。这是一个极其强大的推理工具。当然，这对所有情况来说都过于限制，因此任务的时间范围可以通过使用程序中的对象（通常称为“scope”或“nursery”）来扩展到词汇范围之外。这样的对象可以传递或存储，因此具有任意的寿命。我们仍然有一个重要的推理工具：与该对象相关的任务无法超越它（在 Rust 中，这一属性使我们能够将任务与生命周期系统集成）。
+
+
 在分析实现了结构化并发的程序时，一个关键的新事实是：如果一个任务处于活动状态，那么它的所有父任务也必须处于活动状态。但这并不保证它们处于良好状态——它们可能正在关闭或处理错误，但它们必须以某种形式运行。**这意味着对于任何任务（根任务除外），总有一个活动任务可以接收结果或错误**。实际上，理想的做法是扩展语言的错误处理机制，使错误始终传播到父任务。在 Rust 中，这应该同时适用于返回 `Result::Err` 和触发 panic。
 
 此外，子任务的生命周期可以在父任务中体现。
@@ -103,6 +108,9 @@ todo: 传播性可以整理出一个单独的原子知识点
 |清理栈帧资源|清理子任务资源|
 |Drop 本地对象|取消并回收子任务|
 有些设计在结构化并发环境下运行得非常自然（例如，每个工作任务只负责完成一项任务），而另一些则不太适用。通常，这些模式的特点是无需绑定到特定任务，例如工作线程池或后台线程。即使使用这些模式，任务的生命周期通常也不应该超过整个程序，因此总会有一个任务可以作为父任务。
+### 实现结构化并发
+
+结构化并发的典范实现是 Python [Trio](https://trio.readthedocs.io/en/stable/) 库。Trio 是一个面向异步编程和 IO 的通用库，设计理念围绕结构化并发的概念。三重奏程序使用构造的异步来定义生成任务的词法范围。生成的任务与[一个育婴](https://trio.readthedocs.io/en/stable/reference-core.html#nurseries-and-spawning)对象关联（有点像 Rust 中的 [Scope](https://doc.rust-lang.org/stable/std/thread/struct.Scope.html)）。任务的寿命与其育婴室的动态时间范围相关，常见情况下，则与使用块表示异步的词法范围相关。这强制执行任务之间的父子关系，从而实现结构化并发的树不变性。
 
 
 #### 4. 核心优势
@@ -111,8 +119,183 @@ todo: 传播性可以整理出一个单独的原子知识点
 - 资源安全：遵循词法作用域，降低泄漏风险。
 - 可取消性：父任务取消立即影响子任务。
 
+### [部分结构化并发](https://rust-lang.github.io/async-book/part-reference/structured.html#partially-structured-concurrency)
+
+像许多编程技术一样，结构化并发的全部_优势仅仅_是利用它。如果所有并发都是结构化的，那么**推理整个程序的行为会容易得**多。然而，这对语言的要求不易满足;例如，在 Rust 中实现非结构化并发很容易。然而，即使选择性地应用结构化并发的原则，或用结构化并发的角度思考，也同样有用。
+
+**结构化并发可以作为设计原则**。在设计程序时，务必考虑并记录任务之间的父子关系，并确保子任务在父任务之前终止。这在正常执行下通常相对容易，但在取消和恐慌时可能会变得困难。
 
 
+结构化并发的另一个相对容易采用的元素是**始终将错误传播到父任务**。就像普通错误处理一样，最好的做法可能是忽略错误，但这应该在父任务的代码中明确说明。
+
+另一个需要从结构化并发中学习的编程学科是，**在取消父任务时取消所有子任务**。这使得结构性并发保证更加可靠，也使得取消的合理性更容易推理。
+
+### [与异步 Rust 的实用结构化并发](https://rust-lang.github.io/async-book/part-reference/structured.html#practical-structured-concurrency-with-async-rust)
+
+Rust 中的并发（无论是异步还是使用线程）本质上是非结构化的。任务可以被任意生成，其他任务的错误和恐慌可以被忽略，取消通常是瞬时的，不会传递到其他任务（见下文，说明这些问题难以轻易解决的原因）。不过，你可以通过几种方式在程序中享受结构化并发的一些好处：
+- 根据结构化并发设计高层次的程序。
+- 尽量坚持结构化并发习语（避免非结构化习语）。
+- 使用箱子让结构化并发更符合人体工学和可靠性。
+
+
+在 Rust 中使用结构化并发时，最棘手的问题之一是**如何将取消传递到子未来/任务**。
+
+
+dropping a future drops any futures it owns, cancelling them
+
+Rust 的 Drop 规则是**递归的、确定性的**：
+
+1. 父 `Future` 被 drop
+2. 其所有字段依次被 drop
+3. 字段中的子 `Future` 也被 drop
+4. 子 `Future` 的状态机停止推进
+5. 任何未完成的 `await` 都不会再发生
+
+然而，当任务被丢弃时，**没有机会向它生成的任务发送信号**（至少在 Tokio[3](https://rust-lang.github.io/async-book/part-reference/structured.html#footnote-join_handle) 中是这样）。
+
+这意味着你只能假设一个比“真实”结构化并发更弱的不变量：你不能假设父任务始终存在，只能假设父任务始终存在，除非它被取消或发生了恐慌。虽然这不是最优，但它仍然可以简化编程，因为你不必在_正常执行下_处理没有父节点的情况。
+
+
+这意味着你只能假设一个比“真实”结构化并发更弱的不变量：你不能假设父任务始终存在，只能假设父任务始终存在，除非它被取消或发生了恐慌。虽然这不是最优，但它仍然可以简化编程，因为你不必在_正常执行下_处理没有父节点的情况。
+
+原文说你**只能假设一个更弱的不变量**，指的是：
+
+> **你不能假设父任务“永远存在”，  
+> 但你可以假设：在正常执行路径上父任务一定存在。**
+
+### [将结构化并发应用于异步程序设计](https://rust-lang.github.io/async-book/part-reference/structured.html#applying-structured-concurrency-to-the-design-of-async-programs)
+
+在程序设计方面，应用结构化并发有几个影响：
+- 组织程序的并发性，采用树状结构，即从父任务和子任务的角度思考。
+- 时间范围应尽可能遵循词汇范围，或者具体来说，函数不应返回（包括早期返回和紧急状态），直到函数中启动的任何任务都完成。
+- 数据通常从子任务流向父任务。当然，有些数据会从父任务流向子任务或其他方式，但主要任务会将工作结果传递给父任务以便进一步处理。这包括错误，因此父任务应处理其子任务的错误。
+
+如果你在写库并想使用结构化并发（或者你希望库能在并发结构化程序中使用），那么库组件的封装必须包含时间封装。也就是说，它不会启动任务，**任务会在 API 函数返回后继续运行**。
+
+由于 Rust 无法强制执行结构化并发规则，了解并记录程序（或组件）的结构性以及在哪些方面违反了结构化并发的规范非常重要。
+
+一个有用的折中方案是只允许在最高抽象层次进行非结构化并发，且仅允许从主任务最外层函数生成的任务（理想情况下仅从`主`函数生成，但程序通常包含某些设置或配置代码，这意味着程序的逻辑“顶层”实际上只有几个函数深度）。在这种模式下，主任务会生成一堆`任务，通常`有明确的职责，彼此之间的互动有限。这些任务可以被重启，也可以由其他任务启动新任务，或者具有与客户端等类似任务的有限寿命，即它们是并发非结构化的。在每个任务中，严格应用了结构化并发。
+
+### [结构化与非结构化成语](https://rust-lang.github.io/async-book/part-reference/structured.html#structured-and-unstructured-idioms)
+
+遵循结构化并发最简单的方法是使用未来和[并发组合](https://rust-lang.github.io/async-book/part-guide/concurrency-primitives.html) ，而不是任务和生成。如果你需要任务来实现并行处理，那么你需要使用 `JoinHandle`s 或 `JoinSet`s。你必须注意，如果父任务出现混乱或取消，子任务能够妥善清理。必须检查句柄是否有错误，以确保子任务中的错误得到妥善处理。
+
+
+---
+
+解决取消传播不足的一种方法是避免突然取消（放弃）任何可能有子的任务。相反，使用信号（例如消去令牌），使任务在终止前可以取消其子节点。不幸的是，这和 `select` 不兼容。
+###### 一、问题背景（取消传播为何“不足”）
+
+在基于 **Task（如 `tokio::spawn`）** 的并发模型中，父任务被 **突然取消（drop / abort）** 时：
+
+- 运行时不会自动通知它 spawn 出来的子任务
+    
+- 子任务可能继续运行，形成“孤儿任务”
+    
+- 破坏结构化并发对 **生命周期与资源管理** 的基本假设
+    
+
+因此，“取消传播不足”并不是 bug，而是 **Task 所有权断裂** 的直接结果。
+
+---
+
+###### 二、核心思路（避免“突然取消”）
+
+这里提出的一种工程性解决方案是：
+
+> **不要突然放弃（drop）任何“可能有子任务”的父任务**  
+> 而是通过**显式信号**，让父任务在退出前**主动取消其子任务**
+
+要处理程序（或组件）的关闭，可以使用显式的关闭方法，而不是丢弃组件，这样关机函数可以等待子任务终止或取消它们（因为`丢弃`不能是异步的）。
+
+---
+
+不太适合结构化并发
+- pawning tasks without awaiting their completion via a join handle, or dropping those join handles.
+- 选择或竞选宏/函数。这些注销本身并非结构化，但由于它们会突然取消期货，因此成为常见的非结构性取消来源。
+- Worker tasks or pools. For async tasks the overheads of starting/shutting down tasks is so low that there is likely to be very little benefit of using a pool of tasks rather than a pool of 'data', e.g., a connection pool.
+- 没有明确所有权结构的数据——这不一定与结构化并发相矛盾，但常常导致设计问题。
+
+---
+### [结构化并发的箱子](https://rust-lang.github.io/async-book/part-reference/structured.html#crates-for-structured-concurrency)
+
+TODO  全部
+
+- crates: [moro](https://github.com/nikomatsakis/moro), [async-nursery](https://github.com/najamelan/async_nursery)  
+    箱子： [摩罗](https://github.com/nikomatsakis/moro) ， [异步育婴所](https://github.com/najamelan/async_nursery)
+- futures-concurrency  期货并发
+
+---
+
+###  [Scoped threads](https://rust-lang.github.io/async-book/part-reference/structured.html#scoped-threads)
+
+Rust 线程的结构化并发效果相当不错。虽然你无法阻止无作用域生命周期的线程生成，但这很容易避免。
+相反，尽量使用带作用域的线程，具体方法请参见[`作用域`](https://doc.rust-lang.org/stable/std/thread/fn.scope.html)函数文档
+- 使用带作用域的线程限制了子线程的寿命，并自动将紧急状态传播回父线程。但父线程必须检查子线程的结果以处理错误。。
+- 取消不是问题：You can even pass around the [`Scope`](https://doc.rust-lang.org/stable/std/thread/struct.Scope.html) object like a Trio nursery. Cancellation is not usually an issue for Rust threads, but if you do make use of thread cancellation, you'll have to integrate that with scoped threads manually.
+---
+Rust 特有地，作用域线程允许子线程从父线程借用数据，这在并发非结构化线程中是不可能实现的。这非常有用，展示了结构化并发与 Rust 式资源管理的良好协同作用。
+
+**作用域线程**是 Rust 在 `std::thread::scope` 中提供的一种**结构化并发**机制，其核心特性是：
+
+- **子线程的生命周期被严格限制在一个词法作用域内**
+    
+- **允许子线程安全地借用父作用域中的数据（非 `'static`）**
+    
+- **编译期保证：子线程在作用域结束前全部 `join` 完成**
+    
+```rust
+use std::thread;
+
+fn main() {
+    let v = vec![1, 2, 3];
+
+    thread::scope(|s| {
+        s.spawn(|| {
+            // ✅ 合法：借用父作用域中的 v
+            println!("child sees: {:?}", v);
+        });
+
+        // 父线程也可以同时使用 v
+        println!("parent sees: {:?}", v);
+    });
+    // 到这里，所有子线程已经 join
+}
+```
+这与传统的**非结构化线程（`std::thread::spawn`）**形成鲜明对比，后者要求线程闭包满足 `'static`，从而**禁止直接借用父栈上的数据**。
+**关键点**：
+
+- `v` 没有被 move
+    
+- 子线程闭包捕获的是 `&Vec<i32>`
+    
+- `scope` 保证：**在作用域结束前，所有子线程都完成**
+---
+### [异步丢弃任务和有范围任务](https://rust-lang.github.io/async-book/part-reference/structured.html#async-drop-and-scoped-tasks)
+在 Rust 中，使用重构器（`drop`）来确保在物体生命周期结束时资源被清理。既然未来只是物体，它们的毁灭者显然是确保子未来被取消的地方。然而，在异步程序中，清理动作通常希望是异步的（否则可能会阻碍其他任务）。遗憾的是，Rust 目前不支持异步解散器（异步掉落）。目前有持续的工作支持它们，但由于多种原因，包括带有异步析构函数的对象可能会从非异步上下文中丢弃，以及由于调用 `drop` 是隐式的，没有地方可以写出显式`的 wait`。
+
+RAII 的根本假设是：
+
+> 离开作用域 ⇒ 资源已被释放
+
+如果 `drop` 变成 async：
+
+- drop 可能被取消
+    
+- drop 可能未完成
+    
+- 资源释放顺序不再确定
+    
+
+➡️ **整个 Rust 的内存 / 资源模型会被动**
+
+---
+鉴于作用域线程的实用性（无论是一般还是结构化并发），另一个好问题是，为什么没有类似的异步编程（“作用域任务”）结构？TODO 回答这个问题
+
+### [References  参考文献](https://rust-lang.github.io/async-book/part-reference/structured.html#references)
+
+- [Structured Concurrency  结构化并发](https://www.250bpm.com/p/structured-concurrency)
+- [Tree-structured concurrency  树结构并发](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 
 ## 4. 与其他卡片的关联  
 - 前置卡片：
@@ -124,5 +307,5 @@ todo: 传播性可以整理出一个单独的原子知识点
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 深入阅读 xxx  
-- [ ] 验证这个观点的边界条件  
+ 
+  

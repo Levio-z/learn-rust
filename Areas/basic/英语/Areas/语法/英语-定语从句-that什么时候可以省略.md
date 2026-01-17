@@ -71,5 +71,5 @@ The words (which / that) I am about to express.
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 深入阅读 xxx  
-- [ ] 验证这个观点的边界条件  
+ 
+  

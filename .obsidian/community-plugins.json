@@ -2,9 +2,10 @@
   "obsidian-git",
   "dynamic-outline",
   "execute-code",
-  "mermaid-tools",
-  "obsidian-image-toolkit",
   "obsidian-mind-map",
   "obsidian-enhancing-mindmap",
-  "copilot"
+  "obsidian-excalidraw-plugin",
+  "obsidian-plugin-todo",
+  "obsidian-image-auto-upload-plugin",
+  "edge-tts"
 ]

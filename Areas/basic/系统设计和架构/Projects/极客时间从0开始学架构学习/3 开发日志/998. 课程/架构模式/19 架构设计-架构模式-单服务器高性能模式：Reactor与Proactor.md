@@ -159,7 +159,7 @@ Proactor Initiator负责创建Proactor和Handler，并将Proactor和Handler都�
 - 引发的思考与问题  
 
 ## 6. 待办/进一步探索  
-- [ ] 原子笔记拆分
-	- [ ] PPC
-	- [ ] 
-- [ ] 验证这个观点的边界条件  
+
+	- [x] PPC
+	- [x] 
+  

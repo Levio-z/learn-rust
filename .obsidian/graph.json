@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "操作系统-栈",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.591947187813302,
+  "scale": 0.321336386050357,
   "close": false
 }

@@ -7,5 +7,5 @@
 ### 2025/09/05
 - 昨天完成了double faule？
 - 今天计划做什么？
-	- [ ]   [硬件中断](https://os.phil-opp.com/zh-CN/hardware-interrupts/)
+	- [x] [硬件中断](https://os.phil-opp.com/zh-CN/hardware-interrupts/)
 - 遇到什么障碍？

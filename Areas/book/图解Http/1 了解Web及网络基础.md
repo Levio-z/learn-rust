@@ -151,8 +151,8 @@ URI (统一资源标识符) 的主要子集在技术标准中被明确划分为�
 
 
 ## todo/拓展
-- [ ] URI和URL转换位=为原子笔记
-- [ ] 可扩展性（Extensibility）具体内容，和URI关联
+- [x] URI和URL转换位=为原子笔记
+- [x] 可扩展性（Extensibility）具体内容，和URI关联
 - [x] [协议作为规范的意思](notes/Archieve/协议作为规范的意思.md)
 ## Resource
 - http://www.iana.org/assignments/uri-schemes
