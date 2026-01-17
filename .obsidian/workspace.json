@@ -270,7 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,7 +288,7 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "92fa2469494bb7c4",
+  "active": "32b2c7e3847b5ca0",
   "lastOpenFiles": [
     "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/barrier屏障/Rust-Barrier-基本概念.md",
     "Areas/Rust/Area/1 基本概念/2 进阶/2.3 并发和异步/并发同步原语/原子变量/Rust-原子变量-原子变量体系.md",
