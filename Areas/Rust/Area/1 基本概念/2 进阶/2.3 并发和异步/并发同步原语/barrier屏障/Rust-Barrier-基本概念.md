@@ -11,7 +11,7 @@ tags:
 
 ### Ⅱ. 应用层
 - [Rust API 与使用方式（How）](#Rust%20API%20与使用方式（How）)
-
+- [使用案例leetcode1115](https://github.com/Levio-z/leetcode-rust/blob/master/src/solution/s1115_print_foobar_alternately.rs)
 ### Ⅲ. 实现层
 
 ### **IV**.原理层

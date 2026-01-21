@@ -66,7 +66,7 @@ where  // where 子句是 Trait Bound 的语法
 ## 4. 与其他卡片的关联  
 - 前置卡片：
 - 后续卡片：
-	- [Rust-trait-基本trait](trait应用/Rust-trait-基本trait.md)
+	- [Rust-trait-基本trait](../trait分类/Rust-trait-基本trait.md)
 	- [Rust-trait bound-基本概念](Rust-trait%20bound-基本概念.md)
 	- [Rust-trait-静态分派（泛型 + Trait Bound）](trait分派/Rust-trait-静态分派（泛型%20+%20Trait%20Bound）.md)
 	- [Rust-trait-动态分派（Trait Object）](trait分派/Rust-trait-动态分派（Trait%20Object）.md)

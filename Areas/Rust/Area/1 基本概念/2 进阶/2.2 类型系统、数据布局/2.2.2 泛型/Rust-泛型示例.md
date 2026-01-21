@@ -6,7 +6,7 @@ tags:
 ### Ⅰ. 概念层
 
 避免为不同数据类型重复编写相同算法的代码，符合DRY原则
-- rust实现：[Rust-trait-基本概念](../2.2.3%20特型/Rust-trait-基本概念.md)
+- rust实现：[Rust-trait-基本概念-TOC](../2.2.3%20特型/Rust-trait-基本概念-TOC.md)
 ### Ⅱ. 应用层
 
 

@@ -19,7 +19,9 @@ Condvar **永远不单独使用**，而是 **与 Mutex 绑定**，用于解决�
 ### Ⅱ. 应用层
 - [Rust 中 Condvar 的基本 API](#Rust%20中%20Condvar%20的基本%20API)
 - [典型使用范式（必须掌握）](#典型使用范式（必须掌握）)
-
+- 案例
+	- https://github.com/Levio-z/leetcode-rust/blob/master/src/solution/s1114_print_in_order.rs
+	- https://github.com/Levio-z/leetcode-rust/blob/master/src/solution/s1115_print_foobar_alternately.rs
 ### Ⅲ. 实现层
 
 ### **IV**.原理层

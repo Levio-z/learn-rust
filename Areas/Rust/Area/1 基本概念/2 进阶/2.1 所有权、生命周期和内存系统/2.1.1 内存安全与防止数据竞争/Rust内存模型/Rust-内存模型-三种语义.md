@@ -4,7 +4,7 @@ tags:
 ---
 ## 1. 核心观点  
 ### Ⅰ. 概念层
-- [Rust-内存模型-三种语义-move](Rust-内存模型-三种语义-move.md)
+- [Rust-move-内存模型-三种语义-move](move/Rust-move-内存模型-三种语义-move.md)
 - [Rust-内存模型-三种语义-copy clone](Rust-内存模型-三种语义-copy%20clone.md)
 - [Rust-内存模型-三种语义-借用](Rust-内存模型-三种语义-借用.md)
 

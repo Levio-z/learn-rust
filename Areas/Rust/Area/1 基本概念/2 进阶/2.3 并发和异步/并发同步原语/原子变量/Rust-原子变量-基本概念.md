@@ -20,6 +20,9 @@ tags:
 
 - rust：[Rust-原子变量-原子变量体系](Rust-原子变量-原子变量体系.md)
 - 场景：[六、经典使用场景与范式](Rust-原子变量-基本概念.md#六、经典使用场景与范式)
+- 案例：
+	- https://github.com/Levio-z/leetcode-rust/blob/master/src/solution/s1114_print_in_order.rs
+
 ### Ⅲ. 实现层
 
 ### **IV**.原理层

@@ -124,7 +124,7 @@ println!("v[1]: {}", *p);
 - **模块化（Modular）**：通过安全的 API 封装实现
     - “仿佛（as if）不存在共享可变访问”
 
-[Rust example RefCell](../../../../Rust/Area/3%20库/库/标准库/std/cell/RefCell/案例/Rust%20example%20RefCell.md)
+[Rust example RefCell](../../../../Rust/Area/3%20库&应用场景/库/标准库/std/cell/RefCell/案例/Rust%20example%20RefCell.md)
 
 
 ### **Rust example 3: Lock**

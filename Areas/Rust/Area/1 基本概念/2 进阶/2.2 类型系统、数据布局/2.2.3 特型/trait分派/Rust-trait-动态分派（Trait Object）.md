@@ -152,6 +152,79 @@ fn main() -> std::io::Result<()> {
 }
 
 ```
+
+### 间接调用是什么意思
+
+```
+logger.log("hello");
+```
+
+```
+fn_ptr = logger.vtable.log;
+call fn_ptr(logger.data_ptr, "hello");
+```
+
+- **fn_ptr** 是从 vtable 里取出的函数地址
+- 调用是 **间接调用**：先读函数指针，再跳转执行
+    
+⚠️ 这和直接调用函数不同：
+```
+ConsoleLogger::log(&console_logger, "hello");
+```
+- 直接调用 → CPU 直接跳到函数地址
+    
+- 可 inline、预测、优化
+间接调用：
+
+- CPU 需要读取内存中的指针
+    
+- 预测难度高
+    
+- 一般无法 inline（优化器也很难处理）
+
+### 为什么 Rust trait object 需要 vtable + 间接调用
+- `dyn Trait` 的大小在编译期未知（DST）
+    
+- 编译器不知道对象具体类型
+    
+- 只能 **在运行时查找函数实现** → 通过 vtable
+
+|trait object 形式|是否 vtable|是否间接调用|
+|---|---|---|
+|`&dyn Trait`|✅|✅|
+|`Box<dyn Trait>`|✅|✅|
+|`enum_dispatch`|❌|❌|
+`enum_dispatch` 用 **match + 直接调用** 代替了 vtable → CPU 可以直接跳转函数，无间接调用开销。
+### 为什么需要动态分派
+静态枚举确实性能高（零虚表开销），但牺牲了：
+
+1. **模块化**（crate 独立编译被破坏）
+    
+2. **扩展性**（无法动态增加类型或插件）
+    
+3. **生态升级成本**（版本冲突、重新编译链）
+#### 总结
+
+- **vtable**：trait object 的方法地址表
+- **间接调用**：通过 vtable 拿到函数指针再调用
+- **开销**：额外一次内存读取 + 跳转，无法 inline
+- `enum_dispatch` 或泛型单态化可以消除这个开销
+
+- **记住 fat pointer 结构**：`(&data, &vtable)`
+- **想象调用路径**：
+    - 直接调用 → CPU 知道地址
+    - trait object → CPU 不知道，需要查 vtable
+- **对比优化**：
+    - 泛型 monomorphization → 静态调用
+    - enum_dispatch → 静态调用
+
+
+
+
+
+
+
+
 ## 4. 与其他卡片的关联  
 - 前置卡片：
 - 后续卡片：

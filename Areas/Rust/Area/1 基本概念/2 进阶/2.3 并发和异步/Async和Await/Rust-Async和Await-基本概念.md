@@ -35,16 +35,16 @@ async/await 的设计理念是让程序员编写 _看似_ 普通的同步代�
 - [操作系统-异步编程-任务](../../../../../../../../../Zettelkasten/fleeting/操作系统-异步编程-任务.md)
 
 ### 基本示例
-- [Rust-tokio-基本使用](../../../../3%20库/库/crate/tokio/note/atomic/Rust-tokio-基本使用.md)中的基本例子，一个运行时任务中这些代码都是顺序执行的，await是顺序执行中可能的暂停点（也就是嵌套的其他异步任务），任务可以在这些暂停点暂停，运行时转而开业调用其他运行时任务
+- [Rust-tokio-基本使用](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-tokio-基本使用.md)中的基本例子，一个运行时任务中这些代码都是顺序执行的，await是顺序执行中可能的暂停点（也就是嵌套的其他异步任务），任务可以在这些暂停点暂停，运行时转而开业调用其他运行时任务
 ### 生成任务
 `await` 可以让当前任务在等待 I/O 或其他事件时进入休眠状态。当这种情况发生时，另一个任务就可以运行了，但是这些其他任务是如何产生的呢？使用 `std::thread::spawn` 来创建一个新任务一样。
-[Rust-异步编程 or tokio-spawn单独任务运行异步函数](../../../../3%20库/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-spawn单独任务运行异步函数.md)
+[Rust-异步编程 or tokio-spawn单独任务运行异步函数](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-spawn单独任务运行异步函数.md)
 ### 获取任务结果
 
-[Rust-异步编程 or tokio-JoinHandle](../../../../3%20库/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle.md)
-[Rust-异步编程 or tokio-JoinHandle-wait](../../../../3%20库/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-wait.md)
-[Rust-异步编程 or tokio-JoinHandle-wait-panic](../../../../3%20库/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-wait-panic.md)
-[Rust-异步编程 or tokio-JoinHandle-abort](../../../../3%20库/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-abort.md)
+[Rust-异步编程 or tokio-JoinHandle-TOC](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-TOC/Rust-异步编程%20or%20tokio-JoinHandle-TOC.md)
+[Rust-异步编程 or tokio-JoinHandle-wait](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-TOC/Rust-异步编程%20or%20tokio-JoinHandle-wait.md)
+[Rust-异步编程 or tokio-JoinHandle-wait-panic](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-TOC/Rust-异步编程%20or%20tokio-JoinHandle-wait-panic.md)
+[Rust-异步编程 or tokio-JoinHandle-abort](../../../../3%20库&应用场景/库/crate/tokio/note/atomic/Rust-异步编程%20or%20tokio-JoinHandle-TOC/Rust-异步编程%20or%20tokio-JoinHandle-abort.md)
 
 
 

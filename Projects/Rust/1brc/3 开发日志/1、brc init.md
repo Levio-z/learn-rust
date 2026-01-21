@@ -309,7 +309,7 @@ Executed in   37.71 secs    fish           external
 这是一段一段读的，能不能让整个文件在内存里，一次读取
 
 ### 尝试使用内存映射，但是规则不准用外部库，不用
-- [Rust-crate-memmap-基本概念](../../../../Areas/Rust/Area/3%20库/库/crate/memmap/Rust-crate-memmap-基本概念.md)
+- [Rust-crate-memmap-基本概念](../../../../Areas/Rust/Area/3%20库&应用场景/库/crate/memmap/Rust-crate-memmap-基本概念.md)
 ```
 ________________________________________________________
 Executed in   33.17 secs    fish           external
